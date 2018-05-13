@@ -1,5 +1,3 @@
-# 学习资源索引
-
 ## 一、学习网站
 
 **资源导航类网站：** 
@@ -86,7 +84,7 @@
 - [求职找工作 - 人才招聘 - 大街网](https://www.dajie.com/)
 - [兼职猫app-免费、安全、靠谱｜大学生蓝领喜爱的临时工软件](https://www.jianzhimao.com/)
 
-**购书/买书学习：**
+**购书/阅读：**
 
 - [图灵社区](http://www.ituring.com.cn/book)
 - [豆瓣读书](https://book.douban.com/)
@@ -95,7 +93,7 @@
 - [孔夫子旧书网](http://www.kongfz.com/)（可以买到很多便宜的二手书）
 - [闲鱼.淘宝二手 - 轻松卖闲置，放心淘二手](https://2.taobao.com/)（二手买卖平台）
 
-**代码之外技能学习：**
+**代码之外：**
 
 - 油管：[sikana视频课堂](https://www.youtube.com/user/SikanaChina/about)
 
@@ -133,33 +131,65 @@
 
 ### 编程技术
 
-- 统计服务商：[友盟+】全球领先的第三方全域数据服务商](https://www.umeng.com/)
+- 统计服务商：[【友盟+】全球领先的第三方全域数据服务商](https://www.umeng.com/)
 
 ### 机器学习
 
-**资料：** 
+**①资料：** 
 
-- [网易云课堂 deeplearning.ai（吴恩达）](https://mooc.study.163.com/university/deeplearning_ai#/c)
+- 莫凡_Python&机器学习：https://morvanzhou.github.io/about/
 
-**比赛：** 
+
+- 吴恩达_Coursera机器学习（即，2014斯坦福大学机器学习）:
+
+  > 课程免费，侧重于基本的原理和工程实现，对初学者相对友好。字幕中英可选。
+  >
+  > - 官方：https://www.coursera.org/learn/machine-learning
+  > - 或者 B 站观看：https://www.bilibili.com/video/av9912938/ 
+
+
+- 吴恩达深度学习课程：[网易云课堂 deeplearning.ai](https://mooc.study.163.com/university/deeplearning_ai#/c)
+
+- 李飞飞的 CS231n：
+
+  > B 站(中文)：[斯坦福深度学习课程CS231N 2017中文字幕版+全部作业参考](https://www.bilibili.com/video/av17204303?from=search&seid=9110297428234152748)
+  >
+  > B 站(英文)：[斯坦福2017季CS231n深度视觉识别课程视频（by Fei-Fei Li, Justin Jo](https://www.bilibili.com/video/av13260183/)
+
+- 台大_李宏毅老师：
+
+  > 大家可能看过《一天搞懂深度学习》的PPT，作者是台湾大学的李宏毅老师。其实，李宏毅老师还有门深度学习的课程，视频也挂在网上。这门课主要针对初学者，而且，不需要有经典的机器学习基础（其实，深度学习入门，比经典的机器学习更容易）。课程的内容深入浅出，训练和预测样本都是各种数码宝贝和二次元卡通人物，绝对让你耳目一新。好像没有字幕，中文授课（台湾腔）。课程链接：http://speech.ee.ntu.edu.tw/~tlkagk/courses_ML17.html 
+  >
+  > B站视频：李宏毅《一天搞懂深度学习》https://www.bilibili.com/video/av16543434/ 
+  >
+  > B站视频：[李宏毅机器学习(2017)](https://www.bilibili.com/video/av10590361?from=search&seid=4551168458676096923) 
+  >
+  > B站视频：[李宏毅深度学习(2017)](https://www.bilibili.com/video/av9770302/)
+
+- 台湾_林轩田老师的公开课《机器学习基石》和《机器学习技法》 都是中文授课：
+
+  > - 《机器学习基石》：
+  > - 《机器学习技法》：
+
+**②比赛：** 
 
 - [kaggle](https://www.kaggle.com/)
 
 ### 求职面试
 
-**考试评测：** 
+**①考试评测：** 
 
 - [牛客网](https://www.nowcoder.com/)
 - [自测-高校俱乐部](http://student.csdn.net/mcs/self_testing)
 
-**企业信息查询：**
+**②企业信息查询：**
 
 - [天眼查](https://www.tianyancha.com/)
 - [企查猫(企业查询宝)](https://www.qichamao.com/)
 - [启信宝|企业查询|企业信息查询|企业信用查询](http://www.qixin.com/)
 - [全国企业营业执照查询系统(红盾网)-中国工商局注册信用信息公示网](http://www.xiechuangw.com/chaxun/)
 
-**招聘网站：**
+**③招聘网站：**
 
 - IT/互联网专业的招聘网站：
   - [拉勾网-专业的互联网招聘平台_找工作_招聘_人才网_求职](https://www.lagou.com/)
@@ -169,6 +199,14 @@
   - [智联招聘](https://www.zhaopin.com/)
   - [前程无忧](https://www.51job.com/)
   - [58同城](http://www.58.com/)
+
+### GitHub仓库（干货）
+
+- [Interview-Notebook](https://github.com/guobinhit/cg-blog)（技术面试需要掌握的基础知识整理）
+- [Charies Gavin's Blog](https://github.com/guobinhit/cg-blog)
+- [Windows 绝赞应用](https://amazing-apps.gitbooks.io/windows-apps-that-amaze-us/content/zh-CN/)
+- [Coursera-ML-AndrewNg-Notes](https://github.com/fengdu78/Coursera-ML-AndrewNg-Notes)（吴恩达老师的机器学习课程个人笔记）
+- ........
 
 ## 三、在线网站
 
