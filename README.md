@@ -54,6 +54,7 @@
 
 - [CodeForge.cn](http://www.codeforge.cn/l/2/c/0/t/0/v/0)
 - [DevStore 源码下载](http://www.devstore.cn/code/list/pc0-sc0-cp0-ft0-sp34-rt0-dl44-dt0-scs0-scp0-pn1-or0.html)
+- [HelloGitHub](https://hellogithub.com/)：分享 GitHub 上入门级、有趣的开源项目
 
 
 **代码托管：**
@@ -67,6 +68,40 @@
 
 - 微软产品下载地址：[MSDN,我告诉你](https://msdn.itellyou.cn/) 
 
+
+**网上课堂&培训架构：**
+
+1、学习
+
+- [Java知识分享网-免费Java资源下载](http://www.java1234.com/)
+- [爱酷学习网-免费高清视频教程在线观看](http://www.icoolxue.com/)
+- [深度开源 - Java开源大全，开源信息发掘、分享、交流](http://www.open-open.com/)
+
+2、知名网课
+
+- [网易公开课](https://open.163.com/)
+- [慕课网-程序员的梦工厂](https://www.imooc.com/)
+- [极客学院IT在线教育平台](http://www.jikexueyuan.com/)
+  - [极客学院Wiki - IT 技术图文教程库](http://wiki.jikexueyuan.com/)
+
+3、培训机构
+
+- [传智播客](http://www.itcast.cn/)
+- [黑马程序员](http://www.itheima.com/)
+  - [传智播客和黑马程序员视频库](http://yun.itheima.com/)
+- [尚硅谷【官网】](http://www.atguigu.com/)
+  - [谷粒学院](http://www.gulixueyuan.com/)
+- [北京尚学堂](http://www.bjsxt.com/)
+- [咕泡学院](https://www.gupaoedu.com/index.html)
+- [千锋教育](http://www.mobiletrain.org/)
+- [扣丁学堂](http://www.codingke.com/)
+- [珠峰培训-八年专注前端培训](http://www.zhufengpeixun.cn/)
+- [麦子学院](http://www.maiziedu.com/)
+
+4、网络培训（偏 AI 相关课程）
+
+- [小象学院 ](http://www.chinahadoop.cn/)
+- [七月在线](https://www.julyedu.com/)
 
 **搜索类网站：** 
 
@@ -99,6 +134,23 @@
 
   > 专注精品网络技能教育课程，内容涵盖艺术，音乐，烹饪，手工，健康，装修，自然和体育等多个方面。
 
+
+**免费图像网站：**
+
+- pexels：https://www.pexels.com/
+- lifeofpix：https://www.lifeofpix.com/
+- foter：https://foter.com/
+- picjumbo：https://picjumbo.com/
+- gratisography：https://gratisography.com/
+- unsplash：https://unsplash.com/
+- freeimages：https://www.freeimages.com/
+- Pixabay：https://pixabay.com/
+- 别样网-沙沙野：https://www.ssyer.com/
+
+**Markdown写作公众号排版网站：**
+
+- 小胡子哥：http://md.barretlee.com/
+- 颜家大少：http://md.aclickall.com/
 
 
 
@@ -133,14 +185,20 @@
 
 - 统计服务商：[【友盟+】全球领先的第三方全域数据服务商](https://www.umeng.com/)
 
+**前端：**
+
+- [前端文档工具](http://www.css88.com/nav/)
+
+
+
 ### 机器学习
 
 **①资料：** 
 
-- 莫凡_Python&机器学习：https://morvanzhou.github.io/about/
+- 莫凡 Python&机器学习：https://morvanzhou.github.io/about/
 
 
-- 吴恩达_Coursera机器学习（即，2014斯坦福大学机器学习）:
+- 吴恩达 Coursera 机器学习（即，2014斯坦福大学机器学习）:
 
   > 课程免费，侧重于基本的原理和工程实现，对初学者相对友好。字幕中英可选。
   >
@@ -168,8 +226,8 @@
 
 - 台湾_林轩田老师的公开课《机器学习基石》和《机器学习技法》 都是中文授课：
 
-  > - 《机器学习基石》：
-  > - 《机器学习技法》：
+  > - 《机器学习基石》：https://www.bilibili.com/video/av1624332?from=search&seid=6409383070355550347
+  > - 《机器学习技法》：https://www.bilibili.com/video/av12469267/
 
 **②比赛：** 
 
@@ -198,7 +256,11 @@
 - 其他招聘网站：
   - [智联招聘](https://www.zhaopin.com/)
   - [前程无忧](https://www.51job.com/)
-  - [58同城](http://www.58.com/)
+  - [58同城](http://www.58.com/) 
+
+④**简历：**
+
+- [五百丁 - 中国领先的简历制作平台](http://www.500d.me/)
 
 ### GitHub仓库（干货）
 
@@ -283,7 +345,10 @@
 - [时光网](http://www.mtime.com/)
 - [爱微电影](http://www.197c.com/)
 
-**免费看枪版？：**
+**免费看枪版看VIP?：**
+
+- [88k影院](http://97kp.cc/)
+
 
 - [八哥电影](http://www.bgdyhd.com/)
 - [平行影院](http://www.myaiqi.com/)
