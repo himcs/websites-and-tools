@@ -1,3 +1,5 @@
+[TOC]
+
 ## 一、学习网站
 
 **资源导航类网站：** 
@@ -62,6 +64,7 @@
 - [CODING](https://coding.net/)
 - [码云](https://gitee.com/)  
 - 国外：[GitHub](https://github.com/)
+- 国外：[GitLab](https://www.gitlab.com/)（可以免费创建私有仓库；GitLab让开发团队对他们的代码仓库拥有更多的控制）
 
 
 **资源下载：** 
@@ -331,7 +334,13 @@
 
 
 
-## 四、电脑技能
+## 四、手机&电脑
+
+**手机维修：**
+
+- [中兴努比亚Z9 mini拆机教程努比亚Z9 mini拆机换屏视频教程](https://v.youku.com/v_show/id_XMTU1MDIwMjI3Mg%3D%3D.html)
+- [努比亚NX511J拆机视频换屏幕带金属框屏幕教程努比亚Z9MINI维修](https://v.youku.com/v_show/id_XMTMxNzEwNDc4NA==.html?from=y1.7-1.2)
+- [努比亚NX507J拆机视频维修屏幕中兴Z7mini拆机教程拆机图解](https://v.youku.com/v_show/id_XODMyNDAyNTUy.html?tpa=dW5pb25faWQ9MTAyMjEzXzEwMDAwMl8wMV8wMQ)
 
 
 
