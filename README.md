@@ -245,6 +245,9 @@
 
 **②企业信息查询：**
 
+- [国家企业信用信息公示系统](http://www.gsxt.gov.cn/index.html)
+
+
 - [天眼查](https://www.tianyancha.com/)
 - [企查猫(企业查询宝)](https://www.qichamao.com/)
 - [启信宝|企业查询|企业信息查询|企业信用查询](http://www.qixin.com/)
@@ -261,9 +264,13 @@
   - [前程无忧](https://www.51job.com/)
   - [58同城](http://www.58.com/) 
 
-④**简历：**
+④**制作简历：**
 
 - [五百丁 - 中国领先的简历制作平台](http://www.500d.me/)
+- [乔布简历](http://cv.qiaobutang.com/)
+- [Docer稻壳儿](http://www.docer.com/)
+- [超级简历](https://www.wondercv.com/)
+- [OfficePLUS](http://office.mmais.com.cn/Template/Home.shtml)
 
 ### GitHub仓库（干货）
 
@@ -333,6 +340,10 @@
 - [狸窝视频转换器](http://www.leawo.cn/)
 
 
+**中文转换一系列工具：** 
+
+- [中文转换工具](https://www.chineseconverter.com/zh-cn/convert/chinese-to-pinyin)
+
 
 ## 四、手机&电脑
 
@@ -357,6 +368,7 @@
 **免费看枪版看VIP?：**
 
 - [88k影院](http://97kp.cc/)
+- [VIP影视](www.vipsite.info)
 
 
 - [八哥电影](http://www.bgdyhd.com/)
