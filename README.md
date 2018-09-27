@@ -354,6 +354,20 @@
 - [努比亚NX507J拆机视频维修屏幕中兴Z7mini拆机教程拆机图解](https://v.youku.com/v_show/id_XODMyNDAyNTUy.html?tpa=dW5pb25faWQ9MTAyMjEzXzEwMDAwMl8wMV8wMQ)
 
 
+**手机知识：**
+
+- [关于手机ISO、光圈和快门的那点事](http://www.igao7.com/news/201406/iso-shutter.html) 
+- [雷锋科普：主流手机屏幕材质有哪些？](https://www.leiphone.com/news/201406/0731-zzl-kepu-pingmu1.html)
+
+**手机真伪查询：**
+
+- [电信设备进网管理-手机真伪查询](http://www.tenaa.com.cn/WSFW/flagvalidate.aspx)
+
+**电脑维修：**
+
+- [网线RJ-45接头制作](https://tieba.baidu.com/p/2126498185?red_tag=3255758856)
+- [ThinkPad E430笔记本怎么拆机清灰?](https://m.jb51.net/softjc/454333.html)
+
 
 ## 五、影视后期
 
@@ -384,3 +398,7 @@
 - [大麦网](https://www.damai.cn/)
 - [摩天轮](https://www.tking.cn/)
 
+
+**音乐下载：**
+
+- [音乐直链搜索](http://music.liuzhijin.cn/)
