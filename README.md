@@ -45,13 +45,6 @@
 - [DevStore](http://www.devstore.cn/)
 
 
-
-**接项目平台：** 
-
-- [程序员客栈](https://www.proginn.com/)
-- [猪八戒网站](http://www.zbj.com/)
-
-
 **代码搜索：**（学习以及避免重复造轮子）
 
 - [CodeForge.cn](http://www.codeforge.cn/l/2/c/0/t/0/v/0)
@@ -196,7 +189,7 @@
 
 ### 机器学习
 
-**①资料：** 
+**（1）资料：** 
 
 - 莫凡 Python&机器学习：https://morvanzhou.github.io/about/
 
@@ -232,18 +225,18 @@
   > - 《机器学习基石》：https://www.bilibili.com/video/av1624332?from=search&seid=6409383070355550347
   > - 《机器学习技法》：https://www.bilibili.com/video/av12469267/
 
-**②比赛：** 
+**（2）比赛：** 
 
 - [kaggle](https://www.kaggle.com/)
 
 ### 求职面试
 
-**①考试评测：** 
+**（1）考试评测：** 
 
 - [牛客网](https://www.nowcoder.com/)
 - [自测-高校俱乐部](http://student.csdn.net/mcs/self_testing)
 
-**②企业信息查询：**
+**（2）企业信息查询：**
 
 - [国家企业信用信息公示系统](http://www.gsxt.gov.cn/index.html)
 
@@ -253,7 +246,7 @@
 - [启信宝|企业查询|企业信息查询|企业信用查询](http://www.qixin.com/)
 - [全国企业营业执照查询系统(红盾网)-中国工商局注册信用信息公示网](http://www.xiechuangw.com/chaxun/)
 
-**③招聘网站：**
+**（3）招聘网站：**
 
 - IT/互联网专业的招聘网站：
   - [拉勾网-专业的互联网招聘平台_找工作_招聘_人才网_求职](https://www.lagou.com/)
@@ -264,13 +257,22 @@
   - [前程无忧](https://www.51job.com/)
   - [58同城](http://www.58.com/) 
 
-④**制作简历：**
+**（4）制作简历：**
 
 - [五百丁 - 中国领先的简历制作平台](http://www.500d.me/)
 - [乔布简历](http://cv.qiaobutang.com/)
 - [Docer稻壳儿](http://www.docer.com/)
 - [超级简历](https://www.wondercv.com/)
 - [OfficePLUS](http://office.mmais.com.cn/Template/Home.shtml)
+
+**（5）接项目平台：** 
+
+- [程序员客栈](https://www.proginn.com/)
+- [猪八戒网站](http://www.zbj.com/)
+
+**（6）远程工作：** 
+
+- [远程.work](https://yuancheng.work/)
 
 ### GitHub仓库（干货）
 
@@ -327,9 +329,12 @@
 
 国外：
 
+- [Apowersoft免费在线视频下载](https://www.apowersoft.cn/online-video-downloader)
+
+
 - [ClipConverter.cc](https://www.clipconverter.cc/)
-- [savefrom.net](https://zh.savefrom.net/) 
-- [Video Grabber](https://www.videograbber.net/zh/)
+- [免费在线 YouTube 下载器-savefrom.net](https://zh.savefrom.net/) 
+- [Video Grabber免费下载海量视频资源](https://www.videograbber.net/zh/)
 
 **视频格式转换：** 
 
@@ -344,6 +349,12 @@
 
 - [中文转换工具](https://www.chineseconverter.com/zh-cn/convert/chinese-to-pinyin)
 
+
+**在线生成短地址：** 
+
+- [短链在线生成-短网址生成器](http://tool.tcode.me/shorturl.html)
+- [网址缩短-suo.im短网址](http://suo.im/)
+- [短网址生成-ft12.com短网址](http://www.ft12.com/)
 
 ## 四、手机&电脑
 
