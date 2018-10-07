@@ -14,9 +14,20 @@
 
 - DiskGenius
 - 分区助手
-
 - 易我数据恢复
 - 强力数据恢复
+
+☛**文本编辑器：** 
+
+- Notepad++
+- EditPlus
+- Sublime Text3
+- VS Code
+- Atom
+
+☛**Markdown写作工具：** 
+
+- Typora（这个不错，边写边显示效果）
 
 
 
