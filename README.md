@@ -148,6 +148,11 @@
 - 小胡子哥：http://md.barretlee.com/
 - 颜家大少：http://md.aclickall.com/
 
+**制作在线电子书&在线创作：**
+
+- 国外：[GitBook](https://www.gitbook.com/)
+- 国内：[看云](https://www.kancloud.cn/)
+
 
 
 ## 二、编程学习
@@ -311,9 +316,9 @@
 
 **全能文件格式类型在线转换：** 
 
-- [office-converter](https://cn.office-converter.com/)
-- [Aconvert.com](https://www.aconvert.com/cn/)
-- [CloudConvert](https://cloudconvert.com/)
+- [office-converter](https://cn.office-converter.com/)（文件类型转换；在线二维码生成；在线 youtube 视频下载；在线翻译）
+- [Aconvert.com](https://www.aconvert.com/cn/)（文件类型转换；音视频分割、合并、裁剪等；在线压缩）
+- [CloudConvert](https://cloudconvert.com/)（文件类型转换）
 
 **在线处理视频/音频：**
 
