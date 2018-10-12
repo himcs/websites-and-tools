@@ -34,7 +34,16 @@
 
 - Typora（这个不错，边写边显示效果）
 
+☛**远程控制：**
 
+- TeamViewer
+- 向日葵
+
+☛**图床工具：**
+
+- 「极简图床」浏览器插件（之前一直很好用的，但 2018-10-12 后登陆不了）
+- [PicGo 客户端](https://github.com/Molunerfinn/PicGo)（推荐）
+- 「qiniu upload files」浏览器插件
 
 ## 手机软件
 
