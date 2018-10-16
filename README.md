@@ -9,7 +9,6 @@
 - [Web前端导航](http://www.alloyteam.com/nav/)
 - [GitNavi ](http://www.gitnavi.com/)
 
-
 **编程学习网站：** 
 
 - 菜鸟教程：http://www.runoob.com/
@@ -17,7 +16,6 @@
 - w3cschool - 学编程：https://www.w3cschool.cn/
 - W3Schools 中文教程：http://www.w3s.com.cn/
 - C语言中文网：http://c.biancheng.net/cpp/
-
 
 **程序员技术/问答/社区：**
 
@@ -30,27 +28,20 @@
 - [知乎](https://www.zhihu.com/)
 - [我要自学网](http://www.51zxw.net/)
 
-
 **行业新闻/技术类网站：** 
 
 - [InfoQ](http://www.infoq.com/cn) 
-
-
 - [IT之家](https://www.ithome.com/)
-
-
 
 **优质网站：**（含学习资料、技术问答、代码下载等）
 
 - [DevStore](http://www.devstore.cn/)
-
 
 **代码搜索：**（学习以及避免重复造轮子）
 
 - [CodeForge.cn](http://www.codeforge.cn/l/2/c/0/t/0/v/0)
 - [DevStore 源码下载](http://www.devstore.cn/code/list/pc0-sc0-cp0-ft0-sp34-rt0-dl44-dt0-scs0-scp0-pn1-or0.html)
 - [HelloGitHub](https://hellogithub.com/)：分享 GitHub 上入门级、有趣的开源项目
-
 
 **代码托管：**
 
@@ -59,11 +50,9 @@
 - 国外：[GitHub](https://github.com/)
 - 国外：[GitLab](https://www.gitlab.com/)（可以免费创建私有仓库；GitLab让开发团队对他们的代码仓库拥有更多的控制）
 
-
 **资源下载：** 
 
 - 微软产品下载地址：[MSDN,我告诉你](https://msdn.itellyou.cn/) 
-
 
 **网上课堂&培训架构：**
 
@@ -102,8 +91,6 @@
 **搜索类网站：** 
 
 - [国外搜索引擎大全-百鸣](http://www.baimin.com/world/557.htm)
-
-
 - [虫部落 — 让搜索更简单](http://www.chongbuluo.com/)
 - [Bird.so 小众搜索引擎](https://bird.so/)
 - [史莱姆搜索](http://www.slimego.cn/)
@@ -129,7 +116,6 @@
 - 油管：[sikana视频课堂](https://www.youtube.com/user/SikanaChina/about)
 
   > 专注精品网络技能教育课程，内容涵盖艺术，音乐，烹饪，手工，健康，装修，自然和体育等多个方面。
-
 
 **免费图像网站：**
 
@@ -197,15 +183,12 @@
 **（1）资料：** 
 
 - 莫凡 Python&机器学习：https://morvanzhou.github.io/about/
-
-
 - 吴恩达 Coursera 机器学习（即，2014斯坦福大学机器学习）:
 
   > 课程免费，侧重于基本的原理和工程实现，对初学者相对友好。字幕中英可选。
   >
   > - 官方：https://www.coursera.org/learn/machine-learning
   > - 或者 B 站观看：https://www.bilibili.com/video/av9912938/ 
-
 
 - 吴恩达深度学习课程：[网易云课堂 deeplearning.ai](https://mooc.study.163.com/university/deeplearning_ai#/c)
 
@@ -244,8 +227,6 @@
 **（2）企业信息查询：**
 
 - [国家企业信用信息公示系统](http://www.gsxt.gov.cn/index.html)
-
-
 - [天眼查](https://www.tianyancha.com/)
 - [企查猫(企业查询宝)](https://www.qichamao.com/)
 - [启信宝|企业查询|企业信息查询|企业信用查询](http://www.qixin.com/)
@@ -279,7 +260,7 @@
 
 - [远程.work](https://yuancheng.work/)
 
-### GitHub仓库（干货）
+### GitHub仓库
 
 - [Interview-Notebook](https://github.com/guobinhit/cg-blog)（技术面试需要掌握的基础知识整理）
 - [Charies Gavin's Blog](https://github.com/guobinhit/cg-blog)
@@ -335,8 +316,6 @@
 国外：
 
 - [Apowersoft免费在线视频下载](https://www.apowersoft.cn/online-video-downloader)
-
-
 - [ClipConverter.cc](https://www.clipconverter.cc/)
 - [免费在线 YouTube 下载器-savefrom.net](https://zh.savefrom.net/) 
 - [Video Grabber免费下载海量视频资源](https://www.videograbber.net/zh/)
@@ -345,21 +324,23 @@
 
 - [魔影工厂](http://www.moying.cn/)
 - [格式工厂](http://www.pcfreetime.com/formatfactory/CN/index.html)
-
-
 - [狸窝视频转换器](http://www.leawo.cn/)
-
 
 **中文转换一系列工具：** 
 
 - [中文转换工具](https://www.chineseconverter.com/zh-cn/convert/chinese-to-pinyin)
-
 
 **在线生成短地址：** 
 
 - [短链在线生成-短网址生成器](http://tool.tcode.me/shorturl.html)
 - [网址缩短-suo.im短网址](http://suo.im/)
 - [短网址生成-ft12.com短网址](http://www.ft12.com/)
+
+**在线加密/解密：**
+
+- [MD5在线加密/解密/破解—MD5在线](https://www.sojson.com/encrypt_md5.html)
+- [MD5在线加密/解密/破解 - 站长工具](http://tool.chinaz.com/Tools/md5.aspx)
+- [SOMD5](https://www.somd5.com/)
 
 ## 四、手机&电脑
 
@@ -368,7 +349,6 @@
 - [中兴努比亚Z9 mini拆机教程努比亚Z9 mini拆机换屏视频教程](https://v.youku.com/v_show/id_XMTU1MDIwMjI3Mg%3D%3D.html)
 - [努比亚NX511J拆机视频换屏幕带金属框屏幕教程努比亚Z9MINI维修](https://v.youku.com/v_show/id_XMTMxNzEwNDc4NA==.html?from=y1.7-1.2)
 - [努比亚NX507J拆机视频维修屏幕中兴Z7mini拆机教程拆机图解](https://v.youku.com/v_show/id_XODMyNDAyNTUy.html?tpa=dW5pb25faWQ9MTAyMjEzXzEwMDAwMl8wMV8wMQ)
-
 
 **手机知识：**
 
@@ -390,8 +370,6 @@
 **影视网站：** 
 
 - [哔哩哔哩弹幕视频网](https://www.bilibili.com/)
-
-
 - [时光网](http://www.mtime.com/)
 - [爱微电影](http://www.197c.com/)
 
@@ -399,8 +377,6 @@
 
 - [88k影院](http://97kp.cc/)
 - [VIP影视](www.vipsite.info)
-
-
 - [八哥电影](http://www.bgdyhd.com/)
 - [平行影院](http://www.myaiqi.com/)
 - [97电影网](http://www.id97.com/)
@@ -414,7 +390,7 @@
 - [大麦网](https://www.damai.cn/)
 - [摩天轮](https://www.tking.cn/)
 
-
 **音乐下载：**
 
 - [音乐直链搜索](http://music.liuzhijin.cn/)
+
