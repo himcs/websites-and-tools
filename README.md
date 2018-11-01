@@ -45,8 +45,8 @@
 
 **代码托管：**
 
+- 开源中国旗下的 [码云](https://gitee.com/)  
 - [CODING](https://coding.net/)
-- [码云](https://gitee.com/)  
 - 国外：[GitHub](https://github.com/)
 - 国外：[GitLab](https://www.gitlab.com/)（可以免费创建私有仓库；GitLab让开发团队对他们的代码仓库拥有更多的控制）
 
@@ -341,6 +341,15 @@
 - [MD5在线加密/解密/破解—MD5在线](https://www.sojson.com/encrypt_md5.html)
 - [MD5在线加密/解密/破解 - 站长工具](http://tool.chinaz.com/Tools/md5.aspx)
 - [SOMD5](https://www.somd5.com/)
+
+**在线文字识别：** 
+
+- [免费在线文字识别，文字提取，OCR服务](http://www.ocrmaker.com/)
+
+**在线特殊符号：** 
+
+- [特殊符號大全](https://www.ifreesite.com/typing/keyboard-symbols.htm)
+- [特殊字符大全](http://xh.5156edu.com/page/18466.html)
 
 ## 四、手机&电脑
 

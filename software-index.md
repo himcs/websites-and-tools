@@ -15,6 +15,11 @@
   - Wox
   - Fences
 
+☛**办公/团队协作：**
+
+-  石墨文档（可多人实时协作的云端 Office）
+- Keynote（Keynote是一个演示幻灯片应用软件，由苹果计算机公司出品，运行于OS X 操作系统。）
+
 ☛**磁盘分区/数据恢复：** 
 
 - DiskGenius
@@ -25,10 +30,18 @@
 ☛**文本编辑器：** 
 
 - Notepad++
+
 - EditPlus
+
 - Sublime Text3
+
 - VS Code
+
+  > Visual Studio Code（简称VS Code）是一个由微软开发的，同时支持Windows、Linux和macOS操作系统且开放源代码的文本编辑器，它支持调试，并内置了Git 版本控制功能，同时也具有开发环境功能，例如代码补全（类似于 IntelliSense）、代码片段和代码重构等，该编辑器支持用户自定义配置，例如改变主题颜色、键盘快捷方式等各种属性和参数，还在编辑器中内置了扩展程序管理的功能。
+
 - Atom
+
+  > Atom是由GitHub开发的自由及开放源代码的文字与代码编辑器，支持macOS、Windows和Linux操作系统[4]，支持Node.js所写的插件，并内置由Github提供的Git版本控制系统。多数的延伸包皆为开放源代码授权，并由社群建置与维护。Atom基于使用Chromium和Node.js的跨平台应用框架Electron（最初名为Atom Shell），并使用CoffeeScript和Less撰写。Atom也可当作IDE使用。被它的开发者称为“21 世纪的“黑客”文本编辑器（hackable text editor for the 21st Century）”。
 
 ☛**Markdown写作工具：** 
 
@@ -80,7 +93,7 @@
 - 百度网盘
 - 网易有道笔记
 - 网易有道词典
-- 幕布
+- 幕布（一款结合了思维导图与文档管理的大纲笔记工具，推荐~）
 - 锤子便签（支持markdown写作）
 
 ☛**美图/拍照/剪辑：** 
