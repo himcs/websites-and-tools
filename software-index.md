@@ -105,6 +105,7 @@
 - 巧影
 - 足记（照片做成电影截图）
 - 蛋幕（照片做成电影截图）
+- B612咔叽（B612以自拍滤镜的丰富性俘获用户）
 
 ☛**影音/娱乐：** 
 
@@ -154,6 +155,12 @@
 - 惠惠助手
 
 - 云盘万能钥匙（能自动打开已经分享过的百度云文件，即使有密码）
+
+## Ubuntu下软件
+
+- CrossOver
+
+  参考：[Ubuntu下用CrossOver安装QQ和TIM（附CrossOver破解）](https://blog.csdn.net/jasonLee_lijiaqi/article/details/83385381)
 
 
 
