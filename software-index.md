@@ -10,8 +10,8 @@
 - WinRAR_x64破解版
 - Bandizip（解压缩软件）
 - 快速搜索磁盘文件工具：
-  - 萤火虫
-  - Everything
+  - [火萤酱](https://j.huoying666.com/)
+  - [Everything](https://www.voidtools.com/)
   - Listary
   - Wox
   - Fences
@@ -181,7 +181,15 @@
 
   参考：[Ubuntu下用CrossOver安装QQ和TIM（附CrossOver破解）](https://blog.csdn.net/jasonLee_lijiaqi/article/details/83385381)
 
+## MacOS下软件
 
+- Things
+
+  > Things 诞生于 2009 年 1 月 6 日，由一家德国公司开发。到目前为止已经发展为一款苹果生态的全平台产品，包括 macOS、iPhone、iPad、watchOS 版本。它是一款任务管理类软件。
+  >
+  > 相比复杂、厚重的 OmniFocus、2Do 等 GTD 应用，有更友好的交互界面以及更低上手成本的 Things，或许是你入门 GTD 任务管理更好的选择。
+  >
+  > PS：GTD（Getting Things Done ，尽管去做）是一种行为管理的方法，也是戴维·艾伦写的一本书的书名。
 
 
 

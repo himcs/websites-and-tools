@@ -297,9 +297,10 @@
 
 **全能文件格式类型在线转换：** 
 
-- [office-converter](https://cn.office-converter.com/)（文件类型转换；在线二维码生成；在线 youtube 视频下载；在线翻译）
-- [Aconvert.com](https://www.aconvert.com/cn/)（文件类型转换；音视频分割、合并、裁剪等；在线压缩）
-- [CloudConvert](https://cloudconvert.com/)（文件类型转换）
+- [office-converter](https://cn.office-converter.com/)（各类文件类型转换；在线二维码生成；在线 youtube 视频下载；在线翻译）
+- [Aconvert.com](https://www.aconvert.com/cn/)（各类文件类型转换；音视频分割、合并、裁剪等；在线压缩）
+- [CloudConvert](https://cloudconvert.com/)（各类文件类型相互之间转换）
+  - 在线 WMA 转 GIF 图片：https://cloudconvert.com/wmv-to-gif
 
 **在线处理视频/音频：**
 
