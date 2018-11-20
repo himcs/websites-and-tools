@@ -49,11 +49,8 @@
 ☛**文本编辑器：** 
 
 - Notepad++
-
 - EditPlus
-
 - Sublime Text3
-
 - VS Code
 
   > Visual Studio Code（简称VS Code）是一个由微软开发的，同时支持Windows、Linux和macOS操作系统且开放源代码的文本编辑器，它支持调试，并内置了Git 版本控制功能，同时也具有开发环境功能，例如代码补全（类似于 IntelliSense）、代码片段和代码重构等，该编辑器支持用户自定义配置，例如改变主题颜色、键盘快捷方式等各种属性和参数，还在编辑器中内置了扩展程序管理的功能。
@@ -73,7 +70,7 @@
 
 ☛**图床工具：**
 
-- 「极简图床」浏览器插件（之前一直很好用的，但 2018-10-12 后登陆不了）
+- 「极简图床」浏览器插件（之前一直很好用的，但 2018-10-12 出现登陆不了，现已弃用）
 - [PicGo 客户端](https://github.com/Molunerfinn/PicGo)（推荐）
 - 「qiniu upload files」浏览器插件
 
@@ -159,21 +156,31 @@
 
 2）实用插件
 
-- OneTab：这个插件可以把网页暂时挂起，从而节省很多内存。
+- [OneTab](https://chrome.google.com/webstore/detail/onetab/chphlpgkkbolifaimnlloiipkdnihall?utm_source=chrome-ntp-icon)（这个插件可以把网页暂时挂起，从而节省很多内存）
+- [掘金](https://chrome.google.com/webstore/detail/%E6%8E%98%E9%87%91/lecdifefmmfjnjjinhaennhdlmcaeeeb?utm_source=chrome-ntp-icon)
+- [壹伴 · 小插件](https://chrome.google.com/webstore/detail/%E5%A3%B9%E4%BC%B4-%C2%B7-%E5%B0%8F%E6%8F%92%E4%BB%B6/ibefaeehajgcpooopoegkifhgecigeeg?utm_source=chrome-ntp-icon)
+- [Tampermonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo)
 
-- 掘金插件
-
-- 壹伴插件
-
-- 油猴管理插件
+  > 用户脚本是一段代码，它们能够优化您的网页浏览体验。安装之后，有些脚本能为网站添加新的功能，有些能使网站的界面更加易用，有些则能隐藏网站上烦人的部分内容。在 Greasy Fork 上的用户脚本都是由用户编写并向全世界发表的，您可以免费安装，轻松体验。
+  >
+  > 要使用用户脚本，您首先需要安装一个用户脚本管理器。根据您使用的浏览器不同，可用的用户脚本管理器也有所不同。Chrome 可以使用：Tampermonkey
+  >
+  > 详见：https://greasyfork.org/zh-CN
 
 - FireShot（网页截图用）
+- [Infinity 新标签页(Pro)](https://chrome.google.com/webstore/detail/infinity-new-tab-pro/nnnkddnnlpamobajfibfdgfnbcnkgngh)
 
-- 极简图床 （通过该插件上传图片到图床）
+  > 百万用户选择的新标签页和快速拨号，自由添加网站图标，云端高清壁纸，快速访问书签、天气、笔记、待办事项、扩展管理与历史记录。使你的主页和开始页更加美观和易用
+  >
+  > 百万用户选择的新标签页(Speed dial)，致力于创造真正高效优雅的极简生活。
+  >
+  > Infinity新标签页是一款基于html5的扩展程序，它将开启你的Chrome新标签页和火狐新标签页高度自定义时代。一步添加常用网站到新标签页并以图标展示，可定制的搜索引擎，精选高清壁纸，还有天气、笔记、书签、待办事项、历史记录、Gmail提醒等小挂件帮助提高生产力。
+  >
+  > 相关介绍：[超好用的chrome扩展：Infinity新标签页功能全解！](https://zhuanlan.zhihu.com/p/45399388)
 
+- 极简图床 （通过该插件上传图片到图床，已弃，该用 PicGo 客户端，更方便）
 - 惠惠助手
-
-- 云盘万能钥匙（能自动打开已经分享过的百度云文件，即使有密码）
+- 云盘万能钥匙（能自动打开设置了密码但分享过的百度云文件）
 
 ## Ubuntu下软件
 
@@ -183,7 +190,7 @@
 
 ## MacOS下软件
 
-- Things
+- [Things](https://culturedcode.com/things/whats-new/)
 
   > Things 诞生于 2009 年 1 月 6 日，由一家德国公司开发。到目前为止已经发展为一款苹果生态的全平台产品，包括 macOS、iPhone、iPad、watchOS 版本。它是一款任务管理类软件。
   >
