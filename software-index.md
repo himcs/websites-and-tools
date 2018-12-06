@@ -16,9 +16,27 @@
   - Wox
   - Fences
 
+☛**科研可能用得上：**
+
+- mathpix
+
+  > 可以将方程式截图转为 LaTex。
+  >
+  > Mathpix 适用于 Linux、macOS、Windows 和 iOS。暂时还没有 Android 应用。
+  >
+  > 注意：Mathpix 是一个免费使用的工具，但它不是开源的。
+  >
+  > 在 Linux 上，Mathpix 有一个 Snap 包。这意味着如果你在 Linux 发行版上启用了 Snap 支持，你可以用这个简单命令安装 Mathpix：
+  >
+  > ``` xml
+  > sudo snap install mathpix-snipping-tool
+  > ```
+  >
+  > 参考知乎：[用这个漂亮的工具将方程式截图迅速转换为 LaTeX](https://zhuanlan.zhihu.com/p/48077774)
+
 ☛**办公/团队协作：**
 
--  石墨文档（可多人实时协作的云端 Office）
+-  石墨文档（可多人实时协作的云端 Office，如果不愿意本地安装 MS Office，这是一个选择）
 -  Keynote（Keynote是一个演示幻灯片应用软件，由苹果计算机公司出品，运行于OS X 操作系统。）
 
 **☞效率工具：** 
@@ -123,9 +141,10 @@
 - 蛋幕（照片做成电影截图）
 - B612咔叽（B612以自拍滤镜的丰富性俘获用户）
 
-☛**影音/娱乐：** 
+☛**影音/娱乐/听歌：** 
 
 - Spotif（全球最大的流音乐服务商）
+- [灵音播放器](http://lyplayer.hkjapp.com/)（全平台听歌神器）
 
 ☛**二手买卖：**
 
