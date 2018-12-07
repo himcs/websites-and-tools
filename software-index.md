@@ -41,7 +41,7 @@
 
 **☞效率工具：** 
 
-- [FastStone]()[荐]
+- [FastStone](http://www.faststone.org/)  [荐]
 
   > FastStone Capture (FSCapture) 是经典好用的屏幕截图软件，还具有图像编辑和屏幕录制两大功能，可以捕捉全屏图像，或者活动窗口、窗口内的控件对象截图、支持手绘区域自由截图，或者滚动窗口等等，支持所有主流图片格式。
 
@@ -79,17 +79,20 @@
 
 ☛**Markdown写作工具：** 
 
-- Typora（这个不错，边写边显示效果）
+- [Typora](https://typora.io/)（Mac、Windows、Linux；边写边显示效果）  [荐]
+- Bear
+- Ulysses
+- MWeb
 
 ☛**远程控制：**
 
-- TeamViewer
+- TeamViewer  [荐]
 - 向日葵
 
 ☛**图床工具：**
 
-- 「极简图床」浏览器插件（之前一直很好用的，但 2018-10-12 出现登陆不了，现已弃用）
-- [PicGo 客户端](https://github.com/Molunerfinn/PicGo)（推荐）
+- 「极简图床」浏览器插件（之前一直很好用的，但 2018-10-12 出现登陆异常，现已弃用）
+- [PicGo 客户端](https://github.com/Molunerfinn/PicGo)（荐）
 - 「qiniu upload files」浏览器插件
 
 ## 手机软件
