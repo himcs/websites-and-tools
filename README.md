@@ -120,14 +120,26 @@
 **免费图像网站：**
 
 - pexels：https://www.pexels.com/
+
 - lifeofpix：https://www.lifeofpix.com/
+
 - foter：https://foter.com/
+
 - picjumbo：https://picjumbo.com/
+
 - gratisography：https://gratisography.com/
+
 - unsplash：https://unsplash.com/
+
 - freeimages：https://www.freeimages.com/
+
 - Pixabay：https://pixabay.com/
+
 - 别样网-沙沙野：https://www.ssyer.com/
+
+- 配图神器 Zoommy：https://zoommyapp.com/
+
+  > Zoommy 是一款桌面客户端应用，支持 Windows、macOS、Linux，可以从 50 家高质量图片网站中搜索超过 50000 张 CC0 授权，或者公有领域的图片，之后便可以随意使用这些图片。
 
 **Markdown写作公众号排版网站：**
 
