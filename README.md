@@ -275,10 +275,28 @@
 ### GitHub仓库
 
 - [Interview-Notebook](https://github.com/guobinhit/cg-blog)（技术面试需要掌握的基础知识整理）
+
 - [Charies Gavin's Blog](https://github.com/guobinhit/cg-blog)
+
 - [Windows 绝赞应用](https://amazing-apps.gitbooks.io/windows-apps-that-amaze-us/content/zh-CN/)
+
 - [Coursera-ML-AndrewNg-Notes](https://github.com/fengdu78/Coursera-ML-AndrewNg-Notes)（吴恩达老师的机器学习课程个人笔记）
-- ........
+
+- [dawnlabs/carbon](https://github.com/dawnlabs/carbon/blob/master/docs/README.cn.zh.md)
+
+  > Carbon 是一个免费的开源库，用于创建和分享源代码的美丽图像。
+  >
+  > 如何使用：[使用Carbon和Polacode从你的编辑器创建代码截图](https://segmentfault.com/a/1190000014579171)
+  >
+  > 使用说明：[中文简体版](https://github.com/dawnlabs/carbon/blob/master/docs/README.cn.zh.md)
+  >
+  > 在线使用：https://carbon.now.sh/
+
+- [nvbn/thefuck](https://github.com/nvbn/thefuck)
+
+  > The Fuck 是一款用于检查上一条出错的指令中的错误，并提供修正选项的软件。它不仅适合新手学习和了解自己的错误，同样也适合一个稳固在一个 Linux 发行版上突然要使用另一个发型版不适应的老鸟。The Fuck 不仅支持 Linux 发行版，还支持 macOS 和 FreeBSD。安装参考：https://www.mf8.biz/thefuck/
+  >
+  > 了解下：[又是一个名叫草泥马的项目：thefuck](https://segmentfault.com/a/1190000002740344)
 
 ## 三、在线网站
 

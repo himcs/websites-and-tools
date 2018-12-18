@@ -77,6 +77,21 @@
 
   > Atom是由GitHub开发的自由及开放源代码的文字与代码编辑器，支持macOS、Windows和Linux操作系统[4]，支持Node.js所写的插件，并内置由Github提供的Git版本控制系统。多数的延伸包皆为开放源代码授权，并由社群建置与维护。Atom基于使用Chromium和Node.js的跨平台应用框架Electron（最初名为Atom Shell），并使用CoffeeScript和Less撰写。Atom也可当作IDE使用。被它的开发者称为“21 世纪的“黑客”文本编辑器（hackable text editor for the 21st Century）”。
 
+☛**视频剪辑：**
+
+非专业：
+
+- 爱剪辑（有水印）
+- 编辑星
+- 蜜蜂剪辑（非 VIP 有水印）
+
+专业：
+
+- Corel VideoStudio（绘声绘影）
+- Adobe Premiere Pro CC
+- Sony Vegas
+- Edius
+
 ☛**Markdown写作工具：** 
 
 - [Typora](https://typora.io/)（Mac、Windows、Linux；边写边显示效果）  [荐]
@@ -186,26 +201,37 @@
 
 1）GitHub 插件
 
-- Octotree
+- [Octotree](https://chrome.google.com/webstore/detail/octotree/bkhaagjahfmjljalopjnoealnfndnagc)  [荐]
 
   > Octotree 作为 Chrome 浏览器的一款插件，能够像 IDE 一样提供项目目录，快捷导航，方便浏览。同时支持 GitHub 和 GitLab 两个常用的代码托管网站。更贴心的是，你可以自行选择是否显示目录。
 
-- GitHub Plus
+- [GitHub Plus](https://chrome.google.com/webstore/detail/github-plus/anlikcnbgdeidpacdbdljnabclhahhmd)  [荐] 
 
   > 同样作为 Chrome 的插件，GitHub Plus 提供的功能也是非常实用。能够显示代码仓库的大小，以及其中每个文件的大小和下载链接。使用这款插件，我们再也不用因为需要某个单一文件而被迫下载整个项目源码，尤其是在网速不给力的时候。
 
-- GitHub Hovercard
+- [GitHub Hovercard](https://chrome.google.com/webstore/detail/github-hovercard/mmoahbbnojgkclgceahhakhnccimnplk)  [荐]
 
   > 使用这款插件，当你将鼠标停留在 GitHub 网站的用户头像或者仓库链接地址上时，会自动弹出一个悬浮框，带你提前预览基本信息。有点类似 StackOverflow 网站的用户头像的鼠标悬停效果。Hovercard 插件支持的悬停位置更多，包括用户头像，仓库地址，Issue 链接，个人主页等。
 
-  更多推荐：[强力推荐！那些你不能错过的 GitHub 插件和工具](http://yifeng.studio/2017/09/06/recommended-extension-tools-about-github/)
+  参考：[强力推荐！那些你不能错过的 GitHub 插件和工具](http://yifeng.studio/2017/09/06/recommended-extension-tools-about-github/)
+
+- [GitZip for github](https://chrome.google.com/webstore/detail/gitzip-for-github/ffabmkklhbepgcgfonabamgnfafbdlkn)  [荐] （可以替代 GitHub Plus 的下载功能）
+
+  > GitHub 是一个面向开源及私有软件项目的托管平台，很多写代码的用户应该很熟悉啦。但是上面有数不清楚的项目，每次更新要么就是命令更新，要么就是上网页打包项目下载。
+  >
+  > 但有时候可能一次更新只更新某个文件或文件夹，要是再重新整个项目打包下载就太麻烦了。现在通过 GitZip for github 扩展就可以随意下载 GitHub 文件和文件夹啦。
+  >
+  > 如何使用：[Chrome扩展：GitZip for github 下载GitHub项目文件夹](https://www.xia1ge.com/gitzip-for-github.html)
 
 2）实用插件
 
-- [OneTab](https://chrome.google.com/webstore/detail/onetab/chphlpgkkbolifaimnlloiipkdnihall?utm_source=chrome-ntp-icon)（这个插件可以把网页暂时挂起，从而节省很多内存）
-- [掘金](https://chrome.google.com/webstore/detail/%E6%8E%98%E9%87%91/lecdifefmmfjnjjinhaennhdlmcaeeeb?utm_source=chrome-ntp-icon)
-- [壹伴 · 小插件](https://chrome.google.com/webstore/detail/%E5%A3%B9%E4%BC%B4-%C2%B7-%E5%B0%8F%E6%8F%92%E4%BB%B6/ibefaeehajgcpooopoegkifhgecigeeg?utm_source=chrome-ntp-icon)
-- [Tampermonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo)
+- [OneTab](https://chrome.google.com/webstore/detail/onetab/chphlpgkkbolifaimnlloiipkdnihall?utm_source=chrome-ntp-icon)（这个插件可以把网页暂时挂起，从而节省很多内存）  [荐]
+
+- [掘金](https://chrome.google.com/webstore/detail/%E6%8E%98%E9%87%91/lecdifefmmfjnjjinhaennhdlmcaeeeb?utm_source=chrome-ntp-icon)  [荐]
+
+- [壹伴 · 小插件](https://chrome.google.com/webstore/detail/%E5%A3%B9%E4%BC%B4-%C2%B7-%E5%B0%8F%E6%8F%92%E4%BB%B6/ibefaeehajgcpooopoegkifhgecigeeg?utm_source=chrome-ntp-icon)  [荐]
+
+- [Tampermonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo)  [荐]
 
   > 用户脚本是一段代码，它们能够优化您的网页浏览体验。安装之后，有些脚本能为网站添加新的功能，有些能使网站的界面更加易用，有些则能隐藏网站上烦人的部分内容。在 Greasy Fork 上的用户脚本都是由用户编写并向全世界发表的，您可以免费安装，轻松体验。
   >
@@ -213,7 +239,8 @@
   >
   > 详见：https://greasyfork.org/zh-CN
 
-- FireShot（网页截图用）
+- [FireShot](https://chrome.google.com/webstore/detail/take-webpage-screenshots/mcbpblocgmgfnpjjppndjkmgjaogfceg?utm_source=chrome-ntp-icon)（网页截图用）  [荐]
+
 - [Infinity 新标签页(Pro)](https://chrome.google.com/webstore/detail/infinity-new-tab-pro/nnnkddnnlpamobajfibfdgfnbcnkgngh)
 
   > 百万用户选择的新标签页和快速拨号，自由添加网站图标，云端高清壁纸，快速访问书签、天气、笔记、待办事项、扩展管理与历史记录。使你的主页和开始页更加美观和易用
@@ -224,9 +251,30 @@
   >
   > 相关介绍：[超好用的chrome扩展：Infinity新标签页功能全解！](https://zhuanlan.zhihu.com/p/45399388)
 
-- 极简图床 （通过该插件上传图片到图床，已弃，该用 PicGo 客户端，更方便）
-- 惠惠助手
-- 云盘万能钥匙（能自动打开设置了密码但分享过的百度云文件）
+- 极简图床 （已弃用）
+
+  > 通过该插件上传图片到图床，已弃，该用 PicGo 客户端，更方便。
+
+- [惠惠购物助手](https://chrome.google.com/webstore/detail/%E6%83%A0%E6%83%A0%E8%B4%AD%E7%89%A9%E5%8A%A9%E6%89%8B/ohjkicjidmohhfcjjlahfppkdblibkkb?utm_source=chrome-ntp-icon)  [荐]
+
+- [云盘万能钥匙](https://chrome.google.com/webstore/detail/%E4%BA%91%E7%9B%98%E4%B8%87%E8%83%BD%E9%92%A5%E5%8C%99/anlllmnpjodopgbkbpnghnjlelnogfjc?hl=zh-CN)  [荐]
+
+  > 能自动打开设置了密码但分享过的百度云文件。
+
+- [二維碼生成器 (Quick QR)](https://chrome.google.com/webstore/detail/quick-qr-code-generator/afpbjjgbdimpioenaedcjgkaigggcdpp/related?hl=zh-CN)
+
+  > 一键生成二维码，自动添加当前网页 URL 为二维码内容，或者手动添加其他内容，可以简单修改二维码样式。
+
+- [滴答清单 - Todo & 任务提醒](https://chrome.google.com/webstore/detail/ticktick-todo-task-list/diankknpkndanachmlckaikddgcehkod?utm_source=chrome-ntp-icon)
+
+  > 滴答清单，一个帮你高效完成任务和规划时间的应用，是一款拥有跨设备云同步、周期提醒、清单管理、清晰分类、协作和集成日历的应用。
+
+- [谷歌访问助手](https://chrome.google.com/webstore/detail/%E8%B0%B7%E6%AD%8C%E8%AE%BF%E9%97%AE%E5%8A%A9%E6%89%8B/gocklaboggjfkolaknpbhddbaopcepfp?utm_source=chrome-ntp-icon)
+
+  > 使用本插件可以免费上：
+  >  - google.com     谷歌搜索
+  >  - mail.google.com   gmail邮箱
+  >  - chrome商店访问
 
 ## Ubuntu下软件
 
@@ -247,8 +295,5 @@
 - [iTerm2](https://www.iterm2.com/)
 
   > macOS 下的一款开源的终端工具，功能十分强大，可以作为原生的终端工具的替代者。
-
-
-
 
 
