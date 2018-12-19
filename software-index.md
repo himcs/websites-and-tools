@@ -197,7 +197,7 @@
 
 - 同花顺
 
-## 浏览器插件
+## Chrome插件
 
 1）GitHub 插件
 
@@ -275,6 +275,12 @@
   >  - google.com     谷歌搜索
   >  - mail.google.com   gmail邮箱
   >  - chrome商店访问
+
+- [一键管理所有扩展](https://chrome.google.com/webstore/detail/%E4%B8%80%E9%94%AE%E7%AE%A1%E7%90%86%E6%89%80%E6%9C%89%E6%89%A9%E5%B1%95/lboblnfejcmcaplhnbkkfcienhlhpnni)  [荐]
+
+- [一键管理](https://chrome.google.com/webstore/detail/%E4%B8%80%E9%94%AE%E7%AE%A1%E7%90%86/kfjmkgngkgpgjdoealkmmajmmhpnffoj?utm_source=chrome-ntp-icon)  
+
+  > 一键开启、禁止所有应用，一键开启关闭扩展，一键直达应用，一键直达常用功能，一键能做很多....
 
 ## Ubuntu下软件
 
