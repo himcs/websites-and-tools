@@ -282,6 +282,22 @@
 
   > 一键开启、禁止所有应用，一键开启关闭扩展，一键直达应用，一键直达常用功能，一键能做很多....
 
+- [Simple Allow Copy](https://chrome.google.com/webstore/detail/simple-allow-copy/aefehdhdciieocakfobpaaolhipkcpgc/related?utm_source=chrome-ntp-icon)  [荐]
+
+  > 有些网站为了防止你拷贝上面的内容，比如某些网站有版权保护内容是不允许你拷贝的，如果你一定要拷贝，低效的方法就是手动逐个字的敲，装上 Allow Copy 这款插件，瞬间就恢复拷贝功能。
+
+- [PaintMagick](https://chrome.google.com/webstore/detail/image-editor-paintmagick/gefjgcijamcglmolelmpeegnflbjalfa/related?utm_source=chrome-ntp-icon)
+
+  > PaintMagick 使用 Web 浏览器在线创建和编辑照片和图像。
+  >
+  > PaintMagick 是照片的图像编辑器，并使用高级绘图功能，效果和滤镜进行绘制。它允许直接在Web浏览器中创建和编辑图像。您可以创建图像，从剪贴板粘贴（ctrl + v）或从计算机上传（使用菜单或拖放）。一切都停留在你的网页浏览器中。
+  >
+  > 另外还有视频编辑、视频转换、音频编辑、文档编辑等功能。
+
+- [crxMouse Chrome™ 手势](https://chrome.google.com/webstore/detail/crxmouse-chrome-gestures/jlgkpaicikihijadgifklkbpdajbkhjo/related?utm_source=chrome-ntp-icon)  
+
+  > 该插件可以用鼠标手势完成比如关闭标签页、新增标签页、打开主页、前进、后退、刷新等功能，非常方便。
+
 ## Ubuntu下软件
 
 - CrossOver
