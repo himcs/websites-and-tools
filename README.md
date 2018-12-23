@@ -88,10 +88,16 @@
 - [小象学院 ](http://www.chinahadoop.cn/)
 - [七月在线](https://www.julyedu.com/)
 
+**人工智能优质网站和专栏等：**
+
+- [机器之心](https://www.jiqizhixin.com/)
+  - 知乎专栏：[机器之心](https://zhuanlan.zhihu.com/jiqizhixin)
+- [专知](http://www.zhuanzhi.ai/)
+
 **搜索类网站：** 
 
 - [国外搜索引擎大全-百鸣](http://www.baimin.com/world/557.htm)
-- [虫部落 — 让搜索更简单](http://www.chongbuluo.com/)
+- [虫部落 — 让搜索更简单](http://www.chongbuluo.com/)  [荐]
 - [Bird.so 小众搜索引擎](https://bird.so/)
 - [史莱姆搜索](http://www.slimego.cn/)
 - [我的盘 - 最好用的网盘搜索引擎](http://www.wodepan.com/)
@@ -238,7 +244,7 @@
 
 **（2）企业信息查询：**
 
-- [国家企业信用信息公示系统](http://www.gsxt.gov.cn/index.html)
+- [国家企业信用信息公示系统](http://www.gsxt.gov.cn/index.html)  
 - [天眼查](https://www.tianyancha.com/)
 - [企查猫(企业查询宝)](https://www.qichamao.com/)
 - [启信宝|企业查询|企业信息查询|企业信用查询](http://www.qixin.com/)
@@ -253,6 +259,7 @@
 - 其他招聘网站：
   - [智联招聘](https://www.zhaopin.com/)
   - [前程无忧](https://www.51job.com/)
+  - [猎聘网](https://www.liepin.com/)
   - [58同城](http://www.58.com/) 
 
 **（4）制作简历：**
@@ -290,7 +297,10 @@
   >
   > 使用说明：[中文简体版](https://github.com/dawnlabs/carbon/blob/master/docs/README.cn.zh.md)
   >
-  > 在线使用：https://carbon.now.sh/
+  > - 在线使用：https://carbon.now.sh/
+  >
+  > - VS Code 中安装插件使用：[Polacode](https://marketplace.visualstudio.com/items?itemName=pnp.polacode)
+  > - IntelliJ IDEA 中安装插件使用： [carbon-now-sh](https://plugins.jetbrains.com/plugin/10469-carbon-now-sh)
 
 - [nvbn/thefuck](https://github.com/nvbn/thefuck)
 

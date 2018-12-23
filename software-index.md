@@ -2,16 +2,16 @@
 
 ☛**实用/效率软件：** 
 
-- f.lux（护眼软件）
+- f.lux（护眼软件）  [荐] 
 - keynote（做 Gif 动图演示软件）
-- 网易邮箱大师（邮箱客户端）
+- 网易邮箱大师（邮箱客户端）  [荐]
 - Total_Control（手机屏幕投影到电脑）
 - UltraISO破解版
 - WinRAR_x64破解版
 - Bandizip（解压缩软件）
 - 快速搜索磁盘文件工具：
-  - [火萤酱](https://j.huoying666.com/)
-  - [Everything](https://www.voidtools.com/)
+  - [火萤酱](https://j.huoying666.com/)  [荐]
+  - [Everything](https://www.voidtools.com/)  [荐]
   - Listary
   - Wox
   - Fences
@@ -66,10 +66,10 @@
 
 ☛**编辑器&IDE：** 
 
-- Notepad++
+- [Notepad++](https://notepad-plus-plus.org/download/v7.6.1.html)  [荐]
 - EditPlus
 - Sublime Text3
-- VS Code 
+- [VS Code](https://code.visualstudio.com/)  [荐]
 
   > Visual Studio Code（简称VS Code）是一个由微软开发的，同时支持Windows、Linux和macOS操作系统且开放源代码的文本编辑器，它支持调试，并内置了Git 版本控制功能，同时也具有开发环境功能，例如代码补全（类似于 IntelliSense）、代码片段和代码重构等，该编辑器支持用户自定义配置，例如改变主题颜色、键盘快捷方式等各种属性和参数，还在编辑器中内置了扩展程序管理的功能。
 
@@ -115,20 +115,45 @@
 ☛**技术学习：**
 
 - 简书 
-- 掘金   [荐]
+
+- [掘金](https://juejin.im)  [荐]
+
 - 极客时间  [荐]
+
 - 开发者头条
+
 - 即刻
+
 - W3Cschool 客户端
+
 - IT之家
+
 - CSDN
-- 牛客网   [荐]
+
+- [牛客网](https://www.nowcoder.com)  [荐]
+
+- [脉脉](https://maimai.cn/)  [荐]
+
+  > 中国领先的职场实名社交平台，利用科学算法为职场人拓展人脉，降低商务社交门槛，实现各行各业交流合作。
+
+- [LinkedIn(领英)](https://www.linkedin.com/help/linkedin/answer/60678/-app?lang=zh-hans)
+
+  > 是一款近似 Facebook 页面的社交网络。完成注册后会自动产生和带入电子名片。面向为商业人士使用。
+  >
+  > 立志于连接全球职场人士，维护他们在商业交往中认识并信任的联系人，这些人被称为“人脉”（Connections）。
+
 - 知乎   [荐]
+
 - 网易云云课堂
+
 - 网易公开课
+
 - 慕课网
+
 - 极客学院
+
 - coursera
+
 - 七月在线
 
 ☛**阅读/学习/英语：**
@@ -163,7 +188,7 @@
 
 ☛**影音/娱乐：** 
 
-- Spotif（全球最大的流音乐服务商）
+- [Spotify](https://www.spotify.com)（全球最大的流音乐服务商）
 - [灵音播放器](http://lyplayer.hkjapp.com/)（全平台听歌神器）
 - 哔哩哔哩
 - 斗鱼直播
