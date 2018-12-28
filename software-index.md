@@ -224,7 +224,7 @@
 
 ## Chrome插件
 
-1）GitHub 插件
+(1) GitHub 插件
 
 - [Octotree](https://chrome.google.com/webstore/detail/octotree/bkhaagjahfmjljalopjnoealnfndnagc)  [荐]
 
@@ -248,7 +248,7 @@
   >
   > 如何使用：[Chrome扩展：GitZip for github 下载GitHub项目文件夹](https://www.xia1ge.com/gitzip-for-github.html)
 
-2）实用插件
+(2) 实用插件
 
 - [OneTab](https://chrome.google.com/webstore/detail/onetab/chphlpgkkbolifaimnlloiipkdnihall?utm_source=chrome-ntp-icon)（这个插件可以把网页暂时挂起，从而节省很多内存）  [荐]
 
@@ -262,7 +262,9 @@
   >
   > 要使用用户脚本，您首先需要安装一个用户脚本管理器。根据您使用的浏览器不同，可用的用户脚本管理器也有所不同。Chrome 可以使用：Tampermonkey
   >
-  > 详见：https://greasyfork.org/zh-CN
+  > 下载以及脚本搜索：https://greasyfork.org/zh-CN
+  >
+  > 脚本推荐：[Userscript+](https://greasyfork.org/zh-CN/scripts/24508-userscript-show-site-all-userjs)，该脚本可以显示当前网站所有可用的 UserJS 脚本，并可一键安装。
 
 - [FireShot](https://chrome.google.com/webstore/detail/take-webpage-screenshots/mcbpblocgmgfnpjjppndjkmgjaogfceg?utm_source=chrome-ntp-icon)（网页截图用）  [荐]
 
@@ -286,7 +288,7 @@
 
   > 能自动打开设置了密码但分享过的百度云文件。
 
-- [二維碼生成器 (Quick QR)](https://chrome.google.com/webstore/detail/quick-qr-code-generator/afpbjjgbdimpioenaedcjgkaigggcdpp/related?hl=zh-CN)
+- [二維碼生成器 (Quick QR)](https://chrome.google.com/webstore/detail/quick-qr-code-generator/afpbjjgbdimpioenaedcjgkaigggcdpp/related?hl=zh-CN)  [荐]
 
   > 一键生成二维码，自动添加当前网页 URL 为二维码内容，或者手动添加其他内容，可以简单修改二维码样式。
 
@@ -322,6 +324,35 @@
 - [crxMouse Chrome™ 手势](https://chrome.google.com/webstore/detail/crxmouse-chrome-gestures/jlgkpaicikihijadgifklkbpdajbkhjo/related?utm_source=chrome-ntp-icon)  
 
   > 该插件可以用鼠标手势完成比如关闭标签页、新增标签页、打开主页、前进、后退、刷新等功能，非常方便。
+
+- [违禁词检查](https://chrome.google.com/webstore/detail/%E8%BF%9D%E7%A6%81%E8%AF%8D%E6%A3%80%E6%9F%A5/hidcgccgkiamehonfofohinbaeefabmi?utm_source=chrome-ntp-icon)
+
+  > 检查商品描述中可能违反广告法，可能导致用户投诉的违禁词和高风险词，且支持图片文字识别。
+
+- [Toggle JavaScript](https://chrome.google.com/webstore/detail/toggle-javascript/cidlcjdalomndpeagkjpnefhljffbnlo/related?utm_source=chrome-ntp-icon)
+
+  > Toggle JavaScript provides a simple, easy-to-access browser button to enable or disable JavaScript globally. 
+  >
+  > 翻译过来就是说：你可以控制浏览器是否加载 JavaScript 代码，这个对于爬虫爱好者来说是很实用的工具，可以看出那些是动态加载的东西。
+
+- [Chrono下载管理器](https://chrome.google.com/webstore/detail/chrono-download-manager/mciiogijehkdemklbdcbfkefimifhecn/related?utm_source=chrome-ntp-icon)  [荐]  （`Ctrl+J` 快捷打开下载界面）
+
+  > Chrono下载管理器是 Chrome 浏览器下第一款(也是唯一一款)功能全面的下载管理工具。Chrono 接管你在 Chrome 中的所有下载，你的所有下载管理工作都在浏览器中完成，而不需要安装另外的程序。 Chrono 与 Chrome 浏览器紧密地整合在一起，添加了对浏览器菜单、工具栏和快捷键的支持。
+
+- [WEB前端助手(FeHelper)](https://chrome.google.com/webstore/detail/web%E5%89%8D%E7%AB%AF%E5%8A%A9%E6%89%8Bfehelper/pkgccpejnmalmdinmhkkfafefagiiiad)
+
+  > 包括JSON格式化、二维码生成与解码、信息编解码、代码压缩、美化、页面取色、Markdown与HTML互转、网页滚动截屏、正则表达式、时间转换工具、编码规范检测、页面性能检测、Ajax接口调试、密码生成器、JSON比对工具、网页编码设置、便签笔记。
+
+- [右键搜](https://chrome.google.com/webstore/detail/context-menus/phlfmkfpmphogkomddckmggcfpmfchpn/related?utm_source=chrome-app-launcher-info-dialog)
+
+  > 扩展右键菜单，超过 300 种功能，方便的选择、组合或自定义页面、划词、图片菜单，并有生成、解析二维码和短网址功能。设置可使用云存储。最新增加功能共享、资源下载、重命名等功能。右键搜伴侣增加超级拖拽。
+  >
+  > - 对图片右击，可以选择去谷歌搜索相似图片|解析图片的网址|提取图片二维码
+  >
+  > - 对页面右击，可以定制进入浏览器扩展程序菜单|查看内存|生成当前网址二维码
+  > - 更关键的是，它还支持自定义很多功能，例如，你可以设置对选中文字，进行在知乎里搜索，可以通过方法，自定义搜索引擎。
+  >
+  > 使用：[右键搜：为Chrome添加多个右键搜索引擎](https://jingyan.baidu.com/article/3c48dd3471d67fe10be358fd.html)
 
 ## Ubuntu下软件
 
