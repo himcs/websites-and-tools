@@ -50,6 +50,16 @@
 - 国外：[GitHub](https://github.com/)
 - 国外：[GitLab](https://www.gitlab.com/)（可以免费创建私有仓库；GitLab让开发团队对他们的代码仓库拥有更多的控制）
 
+**技术书下载：** 
+
+- [Love2.io](https://love2.io/)
+
+  > Love2.io 是一个全新的开源技术文档分享平台，我们致力于提供用户更优雅的阅读和写作体验。技术改变世界，用文档传播。
+  >
+  > 有很多来自 GitHub 的技术书籍。 
+
+- [SIMPLE求知网](http://www.simple000.com/index.php)（为编程爱好者提供计算机电子书等电子资料免费资源下载）
+
 **资源下载：** 
 
 - 微软产品下载地址：[MSDN,我告诉你](https://msdn.itellyou.cn/) 
@@ -83,9 +93,16 @@
 - [珠峰培训-八年专注前端培训](http://www.zhufengpeixun.cn/)
 - [麦子学院](http://www.maiziedu.com/)
 
-4、网络培训（偏 AI 相关课程）
+4、网络培训/学习平台（偏 AI 相关课程）
+
+- [优达学城 (Udacity)](https://cn.udacity.com/)  
+
+  > Udacity是由Sebastian Thrun, David Stavens和Mike Sokolsky注资的一个私立教育组织，它的目标是实现民主教育。截至2012年九月, Udacity有12个开放课堂。
+  >
+  > Udacity是来自硅谷的前沿技术平台，为广大学子提供WEB前端开发、Python/JAVA编程、IOS/Android开发、人工智能开发等一系列在线课程及实战项目。
 
 - [小象学院 ](http://www.chinahadoop.cn/)
+
 - [七月在线](https://www.julyedu.com/)
 
 **人工智能优质网站和专栏等：**
@@ -126,23 +143,14 @@
 **免费图像网站：**
 
 - pexels：https://www.pexels.com/
-
 - lifeofpix：https://www.lifeofpix.com/
-
 - foter：https://foter.com/
-
 - picjumbo：https://picjumbo.com/
-
 - gratisography：https://gratisography.com/
-
 - unsplash：https://unsplash.com/
-
 - freeimages：https://www.freeimages.com/
-
 - Pixabay：https://pixabay.com/
-
 - 别样网-沙沙野：https://www.ssyer.com/
-
 - 配图神器 Zoommy：https://zoommyapp.com/
 
   > Zoommy 是一款桌面客户端应用，支持 Windows、macOS、Linux，可以从 50 家高质量图片网站中搜索超过 50000 张 CC0 授权，或者公有领域的图片，之后便可以随意使用这些图片。
@@ -385,7 +393,7 @@
 
 **在线文字识别：** 
 
-- [免费在线文字识别，文字提取，OCR服务](http://www.ocrmaker.com/)
+- [免费在线文字识别，文字提取，OCR服务](http://www.ocrmaker.com/)  [荐]
 
 **在线特殊符号：** 
 
