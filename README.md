@@ -48,6 +48,12 @@
 - [DevStore 源码下载](http://www.devstore.cn/code/list/pc0-sc0-cp0-ft0-sp34-rt0-dl44-dt0-scs0-scp0-pn1-or0.html)
 - [HelloGitHub](https://hellogithub.com/)：分享 GitHub 上入门级、有趣的开源项目
 
+**GitHub文件在线下载：** 
+
+- [DownGit](https://minhaskamal.github.io/DownGit/#/home) 或 [DownGit中文版](http://downgit.zhoudaxiaa.com/#/home)
+
+  > 想要下载 GitHub 整个项目，或说项目中的指定文件夹或文件，只要复制相应链接拷贝粘贴，然后点击 Download 就可以下载。
+
 **代码托管：**
 
 - 开源中国旗下的 [码云](https://gitee.com/)  
@@ -132,8 +138,8 @@
 
 **购书/阅读：**
 
-- [图灵社区](http://www.ituring.com.cn/book)
-- [豆瓣读书](https://book.douban.com/)
+- [图灵社区](http://www.ituring.com.cn/book)  [荐]
+- [豆瓣读书](https://book.douban.com/)  [荐]
 - [当当网](http://www.dangdang.com/)
 - [china-pub网上书店](http://www.china-pub.com/)
 - [孔夫子旧书网](http://www.kongfz.com/)（可以买到很多便宜的二手书）
@@ -148,14 +154,37 @@
 **免费图像网站：**
 
 - pexels：https://www.pexels.com/
+
 - lifeofpix：https://www.lifeofpix.com/
+
 - foter：https://foter.com/
+
 - picjumbo：https://picjumbo.com/
+
 - gratisography：https://gratisography.com/
-- unsplash：https://unsplash.com/
+
+- unsplash：https://unsplash.com/  
+
 - freeimages：https://www.freeimages.com/
+
 - Pixabay：https://pixabay.com/
+
+- Canva：https://www.canva.com/photos/free/
+
+- reshot：https://www.reshot.com/
+
+- rawpixel：https://www.rawpixel.com/
+
+- Morguefile：https://morguefile.com/
+
+- pxhere：https://pxhere.com/
+
+- ISO Republic：<https://isorepublic.com/>
+
+- 泼辣有图：http://www.polayoutu.com
+
 - 别样网-沙沙野：https://www.ssyer.com/
+
 - 配图神器 Zoommy：https://zoommyapp.com/
 
   > Zoommy 是一款桌面客户端应用，支持 Windows、macOS、Linux，可以从 50 家高质量图片网站中搜索超过 50000 张 CC0 授权，或者公有领域的图片，之后便可以随意使用这些图片。

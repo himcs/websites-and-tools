@@ -238,6 +238,10 @@
 
   > 使用这款插件，当你将鼠标停留在 GitHub 网站的用户头像或者仓库链接地址上时，会自动弹出一个悬浮框，带你提前预览基本信息。有点类似 StackOverflow 网站的用户头像的鼠标悬停效果。Hovercard 插件支持的悬停位置更多，包括用户头像，仓库地址，Issue 链接，个人主页等。
 
+- [Sourcegraph for GitHub](https://chrome.google.com/webstore/detail/sourcegraph-for-github/dgjhfomjieaadpoljlnidmbgkdffpack)  [荐] 
+
+  > 代码搜索，查看引用，自动跳转，项目目录导航，这些 IDE 上常用的功能操作，借助 Sourcegraph 插件，都能帮你直接在线使用。
+
   参考：[强力推荐！那些你不能错过的 GitHub 插件和工具](http://yifeng.studio/2017/09/06/recommended-extension-tools-about-github/)
 
 - [GitZip for github](https://chrome.google.com/webstore/detail/gitzip-for-github/ffabmkklhbepgcgfonabamgnfafbdlkn)  [荐] （可以替代 GitHub Plus 的下载功能）
