@@ -41,21 +41,29 @@
 
 **☞效率工具：** 
 
-- [FastStone](http://www.faststone.org/)  [荐]
+- [FastStone](http://www.faststone.org/)  [荐]（滚动截图、录屏、图像转PDF、屏幕取色器等等）
 
   > FastStone Capture (FSCapture) 是经典好用的屏幕截图软件，还具有图像编辑和屏幕录制两大功能，可以捕捉全屏图像，或者活动窗口、窗口内的控件对象截图、支持手绘区域自由截图，或者滚动窗口等等，支持所有主流图片格式。
 
-- [Snipaste](https://zh.snipaste.com/)  [荐]
+- [Snipaste](https://zh.snipaste.com/)  [荐] （截图、贴图用）
 
   > Snipaste 是一款开发了三年精心打磨出来、简单易用却又强大到让人惊叹的免费屏幕截图软件！Snipaste 名字拆分开来是「截图+贴图」的意思，它并不仅是个普通的截屏软件那么简单，它也可以让你将截图贴回到屏幕上。
   >
   > [Snipaste : 用好这款截图贴图利器，写东西快得飞起来 ](https://www.ifanr.com/app/744064)
 
-- [LICEcap](https://www.cockos.com/licecap/)  [荐]
+- [LICEcap](https://www.cockos.com/licecap/)  [荐]（制作GIF图）
 
   > LICEcap是一款屏幕录制工具，支持导出 GIF 动画图片格式，轻量级、使用简单，录制过程中可以随意改变录屏范围。
   >
   > [如何使用LICEcap来录制GIF图？](https://jingyan.baidu.com/article/b0b63dbf0526db4a4930705c.html)
+  >
+  > LICEcap 非常轻量级，安装包不到 500KB。运行后会以窗口的方式显示在桌面，拖动选取一个合适的大小范围，点击 Record 选取保存路径就开始录屏了。LICEcap 在录屏过程中可以随时拖动窗口改变录屏范围，Stop 过后自动保存为 GIF 格式。
+
+- [GifCam](http://blog.bahraniapps.com/gifcam/)  [荐]（制作Gif图） 
+
+  > 录制过程可调整窗口大小/位置，可以暂停/继续，录制范围内无变化则不增加新帧而只增加延时，有效较小文件尺寸，可手动录制单帧。编辑状态可查看每一帧，可以删除帧、增加当前帧延时。
+  >
+  > 使用：[GifCam 5.5 绿色中文汉化版 超强 Gif 动画录制工具](http://www.dayanzai.me/gifcam.html)
 
 ☛**磁盘分区/数据恢复：** 
 
