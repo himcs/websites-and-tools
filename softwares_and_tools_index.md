@@ -3,7 +3,7 @@
 ☛**实用/效率软件：** 
 
 - f.lux（护眼软件）  [荐] 
-- keynote（做 Gif 动图演示软件）
+- Keynote（做 Gif 动图演示软件）
 - 网易邮箱大师（邮箱客户端）  [荐]
 - Total_Control（手机屏幕投影到电脑）
 - UltraISO破解版
@@ -18,7 +18,7 @@
 
 ☛**科研可能用得上：**
 
-- mathpix
+- [Mathpix](https://mathpix.com/)  [荐] 
 
   > 可以将方程式截图转为 LaTex。
   >
@@ -84,6 +84,14 @@
 - Atom
 
   > Atom是由GitHub开发的自由及开放源代码的文字与代码编辑器，支持macOS、Windows和Linux操作系统[4]，支持Node.js所写的插件，并内置由Github提供的Git版本控制系统。多数的延伸包皆为开放源代码授权，并由社群建置与维护。Atom基于使用Chromium和Node.js的跨平台应用框架Electron（最初名为Atom Shell），并使用CoffeeScript和Less撰写。Atom也可当作IDE使用。被它的开发者称为“21 世纪的“黑客”文本编辑器（hackable text editor for the 21st Century）”。
+
+☛**图片浏览/编辑：**
+
+- PhotoShop
+
+- [QQ影像](https://pc.qq.com/detail/15/detail_755.html) 
+
+  > QQ影像是腾讯公司2010年推出的一款桌面图片处理软件。具有轻松浏览、常用快调、一键上传、时尚特效、相框饰品、快速扫描等特点。可以快速浏览管理本地图片，使用编辑功能处理照片，上传到QQ空间。
 
 ☛**视频剪辑：**
 
@@ -186,9 +194,13 @@
 ☛**美图/拍照/剪辑：** 
 
 - 美图秀秀
-- vue视频相机  [荐]
+- VUE视频相机
 - 小影记
-- Quick
+- Quick 
+- VSCO
+- Snapseed
+- AnalogFilm
+- PicsArt
 - 巧影
 - 足记（照片做成电影截图）
 - 蛋幕（照片做成电影截图）
