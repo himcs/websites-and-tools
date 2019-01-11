@@ -377,12 +377,33 @@
 - [Smallpdf](https://smallpdf.com/cn)
 - [iLovePDF](https://www.ilovepdf.com/zh_cn)
 
-**全能文件格式类型在线转换：** 
+**全能文件格式在线转换：** 
 
-- [office-converter](https://cn.office-converter.com/)（各类文件类型转换；在线二维码生成；在线 youtube 视频下载；在线翻译）
+- [office-converter](https://cn.office-converter.com/)  [荐]
+
+  > Office Converter 是世界上最大的在线文件转换工具集合网站，你能免费在线转换包括视频、音频、图形、文档和压缩等服务，目前能够做到输出超过500种格式，输入格式转换超过2000种不同的格式转换。
+  >
+  > 目前网站提供的在线转换文件包括，在线文档转换、在线视频转换、在线音乐转换、在线电子书转换、在线文件压缩、在线二维码生成器、在线 YouTube 转换和下载、在线翻译/免费、在线单位转换： 热门单位换算、 在线力学转算、在线运动转算、 在线维度转算等等。
+
 - [Aconvert.com](https://www.aconvert.com/cn/)（各类文件类型转换；音视频分割、合并、裁剪等；在线压缩）
+
 - [CloudConvert](https://cloudconvert.com/)（各类文件类型相互之间转换）
+
   - 在线 WMA 转 GIF 图片：https://cloudconvert.com/wmv-to-gif
+
+- [Convertio](https://convertio.co/zh/)  
+
+  > Convertio 是在线文档转换工具，支持45种常见格式的文档转换工具，包括办公文档、图片、电子书、音频、压缩文件等类型。可以快速实现 PDF 转换 Word、PNG 转换 JPG、WAV 转换 MP3 等操作。
+  >
+  > 有对应的 Chrome 插件：[Convertio插件在线安装](https://chrome.google.com/webstore/detail/convertio/eppjkefeiehhflmgkhdooajgbkkegpcl/related)
+
+**在线处理图片：** 
+
+- [iLoveIMG](https://www.iloveimg.com/zh-cn)  [荐]
+
+  > iLoveIMG 是一个在线“图像文件处理”网络应用软件，提供多种图像文件基础编辑功能。其中包括：图片文件格式转换、图片压缩、图片剪裁服务的工具集合，支持图片格式有JPG、PNG、GIF。
+  >
+  > 它的优点：一次调整多个图像文件的尺寸、压缩多个图像文件、裁剪多个图像文件，以及转换多个图像文件的格式。
 
 **在线处理视频/音频：**
 
