@@ -124,7 +124,9 @@
 
 - 「极简图床」浏览器插件（之前一直很好用的，但 2018-10-12 出现登陆异常，现已弃用）
 - [PicGo 客户端](https://github.com/Molunerfinn/PicGo)（荐）
-- 「qiniu upload files」浏览器插件
+- 「qiniu upload files」浏览器插件（弃用）
+
+
 
 ## 手机APP
 
@@ -178,7 +180,7 @@
 - 喜马拉雅FM（电台、听书等内容）
 - 网易蜗牛读书   [荐]
 - 藏书馆   [荐]
-- 豆瓣
+- 豆瓣  [荐]
 - 微信读书   [荐]
 - 知米背单词
 - 英语流利说
@@ -247,6 +249,26 @@
 ☛**投资理财/炒股：** 
 
 - 同花顺
+
+☛**国外APP：**
+
+- [Telegram](https://telegram.org/)
+
+  > Telegram是一个跨平台的即时通信软件，它的客户端是自由及开放源代码软件，但是它的服务器是专有软件。用户可以相互交换加密与自析构的消息，发送照片、影片等所有类型文件。官方提供手机版（Android、iOS、Windows Phone）、桌面版（Windows、macOS、Linux）和网页版等多种平台客户端；同时官方开放应用程序接口，因此拥有许多第三方的客户端可供选择，其中多款内置中文。
+
+- [Facebook](https://www.facebook.com/)
+
+  > Facebook（简称FB）是源于美国的社交网络服务及社会化媒体网站，总部位于美国加州圣马特奥县门洛帕克市。成立初期原名为“thefacebook”，名称的灵感来自美国高中提供给学生包含照片和联系数据的通讯录（或称花名册）之昵称“face book”。当前尚无官方的中文译名，较为广泛使用则为脸书。
+
+- [Instagram](https://www.instagram.com/)
+
+  > Instagram（简称IG）是Facebook公司旗下一款免费提供在线图片及视频分享的社交应用软件，于2010年10月发布。它可以让用户用智能手机拍下照片后再将不同的滤镜效果添加到照片上，然后分享到Facebook、Twitter、Tumblr及Flickr等社交网络服务、或是Instagram的服务器上
+
+- [Twitter](https://twitter.com/)
+
+  > Twitter（官方中文译名推特）是一个社交网络与微博客服务，它可以让用户更新不超过140个字符的消息，现除中文、日文和韩文外已提高上限至280个字符，这些消息也被称作“推文（Tweet）”。这个服务是由杰克·多西在2006年3月创办并在当年7月启动的。Twitter风行于全世界多个国家，是互联网上访问量最大的十个网站之一。据Twitter现任首席执行官迪克·科斯特洛（Dick Costolo）宣布，截至2018年3月，Twitter共有3.36亿活跃用户，这些用户每天会发表约3.4亿条推文。同时，Twitter每天还会处理约16亿的网络搜索请求。公司总部设立在美国旧金山，其部分办公室及服务器位于纽约。
+
+
 
 ## Chrome插件
 
@@ -384,11 +406,15 @@
   >
   > 使用：[右键搜：为Chrome添加多个右键搜索引擎](https://jingyan.baidu.com/article/3c48dd3471d67fe10be358fd.html)
 
+
+
 ## Ubuntu下软件
 
 - CrossOver
 
   参考：[Ubuntu下用CrossOver安装QQ和TIM（附CrossOver破解）](https://blog.csdn.net/jasonLee_lijiaqi/article/details/83385381)
+
+
 
 ## MacOS下软件
 
