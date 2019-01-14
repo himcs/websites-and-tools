@@ -3,18 +3,31 @@
 ☛**实用/效率软件：** 
 
 - f.lux（护眼软件）  [荐] 
+
 - Keynote（做 Gif 动图演示软件）
+
 - 网易邮箱大师（邮箱客户端）  [荐]
+
 - Total_Control（手机屏幕投影到电脑）
+
 - UltraISO破解版
+
 - WinRAR_x64破解版
-- Bandizip（解压缩软件）
+
+- Bandizip（解压缩软件）[荐]
+
 - 快速搜索磁盘文件工具：
   - [火萤酱](https://j.huoying666.com/)  [荐]
   - [Everything](https://www.voidtools.com/)  [荐]
   - Listary
   - Wox
   - Fences
+
+- [小黄条](http://www.6fcsj.com/)（跨平台轻量级 ToDolist）
+
+  > 小黄条是一款跨平台todolist，已支持Windows、Android、IOS。Windows客户端支持嵌入桌面，完美融入系统桌面，允许自定义字体、字号、间距、文字颜色搭配【极简】模式可适配任何风格的壁纸。应用程序窗口在靠近屏幕边沿时，自动隐藏，配合快捷键使用便于保护隐私。支持任务排序，已完成的任务根据任务实际完成时间归档，方便快速回顾工作输出周报。
+  >
+  > 适合喜欢“简单直接”地将事情“贴”在电脑桌面显眼位置的朋友。
 
 ☛**科研可能用得上：**
 
@@ -274,7 +287,7 @@
 
 (1) GitHub 插件
 
-- [Octotree](https://chrome.google.com/webstore/detail/octotree/bkhaagjahfmjljalopjnoealnfndnagc)  [荐]
+- [Octotree](https://chrome.google.com/webstore/detail/octotree/bkhaagjahfmjljalopjnoealnfndnagc)（左侧查看 GitHub 仓库项目文件）  [荐]★★★★
 
   > Octotree 作为 Chrome 浏览器的一款插件，能够像 IDE 一样提供项目目录，快捷导航，方便浏览。同时支持 GitHub 和 GitLab 两个常用的代码托管网站。更贴心的是，你可以自行选择是否显示目录。
 
