@@ -205,6 +205,7 @@
 - 网易有道词典
 - 幕布（一款结合了思维导图与文档管理的大纲笔记工具，推荐~）
 - 锤子便签（支持markdown写作）
+- 遥控精灵（用手机遥控电视、机顶盒、空调等）
 
 ☛**美图/拍照/剪辑：** 
 
@@ -419,7 +420,11 @@
   >
   > 使用：[右键搜：为Chrome添加多个右键搜索引擎](https://jingyan.baidu.com/article/3c48dd3471d67fe10be358fd.html)
 
+- [Search to Play the Song](https://chrome.google.com/webstore/detail/search-to-play-the-song/anfmgjkkbagjfdejhbjdiapgkbhpigpm/related?utm_source=chrome-ntp-icon)  [荐]★★★
 
+  > 搜我听歌 (SPS) 是 Search to Play the Song 的缩写，它是一款非常极简干净且完全免费的 Chrome 浏览器插件扩展。通过它，你不必安装任何音乐播放器软件客户端，即可在一个地方搜索并在线播放虾米音乐、QQ音乐、网易云音乐等服务的歌曲，非常的方便。
+  >
+  > 搜索功能，默认只有五条，只可以听，也没有提供下载。所以想单纯听个歌，它是个不错的选择。
 
 ## Ubuntu下软件
 
