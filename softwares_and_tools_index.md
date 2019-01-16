@@ -47,6 +47,14 @@
   >
   > 参考知乎：[用这个漂亮的工具将方程式截图迅速转换为 LaTeX](https://zhuanlan.zhihu.com/p/48077774)
 
+- [CopyTranslator](https://hypercube.top/copytranslator/)  [荐]
+
+  > 在 PDF 文件中阅读外文 paper 的时候，复制内容，即可翻译。这款软件使用的是谷歌翻译的 API，在翻译的质量和响应速度上都有保证。
+  >
+  > GitHub 地址：https://github.com/elliottzheng/CopyTranslator
+  >
+  > 工具使用：[使用指南](https://github.com/elliottzheng/CopyTranslator/wiki/Usage-%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97)
+
 ☛**办公/团队协作：**
 
 -  石墨文档（可多人实时协作的云端 Office，如果不愿意本地安装 MS Office，这是一个选择）
@@ -206,6 +214,8 @@
 - 幕布（一款结合了思维导图与文档管理的大纲笔记工具，推荐~）
 - 锤子便签（支持markdown写作）
 - 遥控精灵（用手机遥控电视、机顶盒、空调等）
+- [极速PDF阅读器](https://www.jisupdf.com/)
+- [悦书PDF阅读器](http://www.yueshupdf.com/)（除了阅读、标注等常见功能，还支持PDF和Office文件相互转换等其他附加功能）
 
 ☛**美图/拍照/剪辑：** 
 
