@@ -86,6 +86,10 @@
   >
   > 使用：[GifCam 5.5 绿色中文汉化版 超强 Gif 动画录制工具](http://www.dayanzai.me/gifcam.html)
 
+☛**影音/娱乐：** 
+
+- [PotPlayer](https://potplayer.daum.net/)  [荐]
+
 ☛**磁盘分区/数据恢复：** 
 
 - DiskGenius
