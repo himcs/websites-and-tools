@@ -191,8 +191,9 @@
 
 **Markdown写作公众号排版网站：**
 
-- 小胡子哥：http://md.barretlee.com/
-- 颜家大少：http://md.aclickall.com/
+- 小胡子哥：[Online Markdown Converter](http://md.barretlee.com/)
+- 颜家大少：[Md2All](http://md.aclickall.com/)
+- 在线 Markdown 写作：[MdEditor](https://www.mdeditor.com/)
 
 **制作在线电子书&在线创作：**
 
