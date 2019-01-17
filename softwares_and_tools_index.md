@@ -62,11 +62,11 @@
 
 **☞效率工具：** 
 
-- [FastStone](http://www.faststone.org/)  [荐]（滚动截图、录屏、图像转PDF、屏幕取色器等等）
+- [FastStone](http://www.faststone.org/)  [荐]（滚动截图、录屏、图像转PDF、屏幕取色器等等）★★★
 
   > FastStone Capture (FSCapture) 是经典好用的屏幕截图软件，还具有图像编辑和屏幕录制两大功能，可以捕捉全屏图像，或者活动窗口、窗口内的控件对象截图、支持手绘区域自由截图，或者滚动窗口等等，支持所有主流图片格式。
 
-- [Snipaste](https://zh.snipaste.com/)  [荐] （截图、贴图用）
+- [Snipaste](https://zh.snipaste.com/)  [荐] （截图、贴图用）★★★
 
   > Snipaste 是一款开发了三年精心打磨出来、简单易用却又强大到让人惊叹的免费屏幕截图软件！Snipaste 名字拆分开来是「截图+贴图」的意思，它并不仅是个普通的截屏软件那么简单，它也可以让你将截图贴回到屏幕上。
   >
@@ -155,7 +155,7 @@
 
 ## 手机APP
 
-☛**技术学习：**
+☛**技术学习/行业新闻：**
 
 - 简书 
 
@@ -165,7 +165,7 @@
 
 - 开发者头条
 
-- 即刻
+- [即刻](https://www.ruguoapp.com/)
 
 - W3Cschool 客户端
 
@@ -439,6 +439,12 @@
   > 搜我听歌 (SPS) 是 Search to Play the Song 的缩写，它是一款非常极简干净且完全免费的 Chrome 浏览器插件扩展。通过它，你不必安装任何音乐播放器软件客户端，即可在一个地方搜索并在线播放虾米音乐、QQ音乐、网易云音乐等服务的歌曲，非常的方便。
   >
   > 搜索功能，默认只有五条，只可以听，也没有提供下载。所以想单纯听个歌，它是个不错的选择。
+
+- [Tab Resize](https://chrome.google.com/webstore/detail/tab-resize-split-screen-l/bkpenclhmiealbebdopglffmfdiilejc/related?utm_source=chrome-ntp-icon)
+
+  > Tab Resize是一款可以将显示屏变成二、三个独立视图，并等分在显示屏的画面，当然用户也可以自行分割画面，当一键立即就可将页面等分，因此在一个屏幕中，同时看到多个网页。Tab Resize内建了五种不同的视窗排列样式，只要点一下 Tab Resize 按钮再按你要的分割方式，即可快速分割、排列并占满你的显示屏。要恢复时，只要再点“Undo”按钮即可恢复就可以了。
+  >
+  > 使用：[Tab Resize：浏览器屏幕分割插件](http://chromecj.com/accessibility/2017-09/809.html)
 
 ## Ubuntu下软件
 
