@@ -86,6 +86,11 @@
   >
   > 使用：[GifCam 5.5 绿色中文汉化版 超强 Gif 动画录制工具](http://www.dayanzai.me/gifcam.html)
 
+☛**手机模拟器：**
+
+- BlueStacks蓝叠安卓模拟器：[BlueStacks蓝叠](https://www.bluestacks.cn/)（ 英文：[BlueStacks](https://bluestacks.vip/)）
+- [夜神安卓模拟器](https://www.yeshen.com/)
+
 ☛**影音/娱乐：** 
 
 - [PotPlayer](https://potplayer.daum.net/)  [荐]

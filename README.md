@@ -369,7 +369,7 @@
 
 - [幕布](https://mubu.com/apps) （也有 Win、MacOS 等客户端）
 
-**在线转换 Chrome浏览器插件为 crx 文件：** 
+**在线转换Chrome浏览器插件为crx文件：** 
 
 - [Crx离线安装包下载](http://yurl.sinaapp.com/crx.php)
 
@@ -406,6 +406,12 @@
   > iLoveIMG 是一个在线“图像文件处理”网络应用软件，提供多种图像文件基础编辑功能。其中包括：图片文件格式转换、图片压缩、图片剪裁服务的工具集合，支持图片格式有JPG、PNG、GIF。
   >
   > 它的优点：一次调整多个图像文件的尺寸、压缩多个图像文件、裁剪多个图像文件，以及转换多个图像文件的格式。
+
+- [压缩图](https://www.yasuotu.com/)（在线图片压缩工具）
+
+- [在线图片大小修改器](https://www.sojson.com/image/change.html)
+
+- [改图宝](http://www.gaitubao.com/)（在线修改照片大小尺寸工具）
 
 **在线处理视频/音频：**
 
