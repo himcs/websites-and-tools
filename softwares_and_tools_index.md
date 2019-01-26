@@ -29,6 +29,14 @@
   >
   > 适合喜欢“简单直接”地将事情“贴”在电脑桌面显眼位置的朋友。
 
+- [Dual Monitor Taskbar]()
+
+  > 该软件可以把任务栏扩展到双屏幕。
+  >
+  > 参考：[win7系统扩展双屏幕时，如何在两个屏幕下都显示任务栏](https://blog.csdn.net/helongfu/article/details/47205053) 
+  >
+  > Win10 多个显示屏显示任务栏方法：[Win10多个扩展显示器，怎么都显示任务栏？](http://www.xitonghe.com/jiaocheng/Windows10-8621.html)
+
 ☛**科研可能用得上：**
 
 - [Mathpix](https://mathpix.com/)  [荐] 
@@ -389,11 +397,13 @@
   >  - mail.google.com   gmail邮箱
   >  - chrome商店访问
 
-- [一键管理所有扩展](https://chrome.google.com/webstore/detail/%E4%B8%80%E9%94%AE%E7%AE%A1%E7%90%86%E6%89%80%E6%9C%89%E6%89%A9%E5%B1%95/lboblnfejcmcaplhnbkkfcienhlhpnni)  [荐]
+- [一键管理所有扩展](https://chrome.google.com/webstore/detail/%E4%B8%80%E9%94%AE%E7%AE%A1%E7%90%86%E6%89%80%E6%9C%89%E6%89%A9%E5%B1%95/lboblnfejcmcaplhnbkkfcienhlhpnni)（浏览器插件开启和关闭）  [荐]
 
 - [一键管理](https://chrome.google.com/webstore/detail/%E4%B8%80%E9%94%AE%E7%AE%A1%E7%90%86/kfjmkgngkgpgjdoealkmmajmmhpnffoj?utm_source=chrome-ntp-icon)  
 
   > 一键开启、禁止所有应用，一键开启关闭扩展，一键直达应用，一键直达常用功能，一键能做很多....
+
+- [Extensity](https://chrome.google.com/webstore/detail/extensity/jjmflmamggggndanpgfnpelongoepncg/related?utm_source=chrome-ntp-icon)（浏览器插件开启和关闭）  [荐]
 
 - [Simple Allow Copy](https://chrome.google.com/webstore/detail/simple-allow-copy/aefehdhdciieocakfobpaaolhipkcpgc/related?utm_source=chrome-ntp-icon)  [荐]
 
