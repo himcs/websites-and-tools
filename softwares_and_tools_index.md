@@ -96,7 +96,7 @@
 
 ☛**手机模拟器：**
 
-- BlueStacks蓝叠安卓模拟器：[BlueStacks蓝叠](https://www.bluestacks.cn/)（ 英文：[BlueStacks](https://bluestacks.vip/)）
+- BlueStacks蓝叠安卓模拟器：[BlueStacks蓝叠](https://www.bluestacks.cn/)（ 英文：[BlueStacks](https://bluestacks.vip/)）  
 - [夜神安卓模拟器](https://www.yeshen.com/)
 
 ☛**影音/娱乐：** 
@@ -106,7 +106,7 @@
 ☛**磁盘分区/数据恢复：** 
 
 - DiskGenius
-- 分区助手
+- 分区助手  [荐]
 - 易我数据恢复
 - 强力数据恢复
 
@@ -214,7 +214,7 @@
 
 ☛**阅读/学习/英语：**
 
-- 得到（罗振宇——「逻辑思维」产品）
+- 得到（罗振宇，「逻辑思维」产品）
 - 喜马拉雅FM（电台、听书等内容）
 - 网易蜗牛读书   [荐]
 - 樊登读书
@@ -229,8 +229,8 @@
 - 百度网盘
 - 网易有道笔记
 - 网易有道词典
-- 幕布（一款结合了思维导图与文档管理的大纲笔记工具，推荐~）
-- 锤子便签（支持markdown写作）
+- 幕布（一款结合了思维导图与文档管理的大纲笔记工具，推荐~）  [荐]  [必备]
+- 锤子便签（支持Markdown写作）
 - 遥控精灵（用手机遥控电视、机顶盒、空调等）
 - [极速PDF阅读器](https://www.jisupdf.com/)
 - [悦书PDF阅读器](http://www.yueshupdf.com/)（除了阅读、标注等常见功能，还支持PDF和Office文件相互转换等其他附加功能）
@@ -257,11 +257,11 @@
 - 哔哩哔哩
 - 斗鱼直播
 
-☛**二手买卖：**
+☛**购物/二手买卖：**
 
 - 闲鱼（阿里产品）
 - 孔夫子旧书网（买二手书很便宜）
-- 拼多多（团购买很便宜）
+- 拼多多
 - 惠惠助手（找到便宜货）
 
 ☛**生活/运动：**
@@ -282,11 +282,23 @@
   >
   > 方便地记录照片、文字、音乐、视频。汇聚了数百万的摄影、胶片玩家，绘画及动漫爱好者，并不断衍生出更多的兴趣圈子，无论是设计、艺术、科技、时尚、旅行、读书、电影评论都有精彩的人与内容不断产出。
 
-☛**跳舞/音乐学习：** 
+☛**跳舞/音乐/K歌：** 
 
 - [Finger](https://www.finger66.com/web/about.html)
 
   > Finger 是一个学习乐器的App。使用它，可以轻松学习乐器，不管是吉他，贝斯，尤克里里，二胡等等，它都可以的。它都有详细的入门教程，还有名师的丰富课程，同时还有各种技巧，还有专业的课程购买。它还内置了很多热门曲谱，还可以听音，和弦，调音。
+
+- [跳跳舞蹈](http://tiaooo.com/down.html)
+
+  > 一款为舞蹈爱好者提供的学习软件，涵盖全部舞种，提供海量明星MV舞蹈，并分解课程，让您随时随地练舞，轻松学会跳舞。
+
+- [音遇]()
+
+  > 音遇 App 是一款手机K歌社交软件，音遇 APP 是在线 KTV，音遇 App 让你随时随地，可以进行好友互动、亲密无间。音遇 App 随时与好友在线唱歌聊天，打造全新生活娱乐方式。
+
+- [全名K歌](https://kg.qq.com/)（基于熟人社交的K歌软件）
+
+- [唱吧](https://changba.com/)（免费的社交K歌应用）
 
 ☛**投资理财/炒股：** 
 
@@ -316,7 +328,7 @@
 
 (1) GitHub 插件
 
-- [Octotree](https://chrome.google.com/webstore/detail/octotree/bkhaagjahfmjljalopjnoealnfndnagc)（左侧查看 GitHub 仓库项目文件）  [荐]★★★★
+- [Octotree](https://chrome.google.com/webstore/detail/octotree/bkhaagjahfmjljalopjnoealnfndnagc)（左侧查看 GitHub 仓库项目文件）  [荐]  [必备]
 
   > Octotree 作为 Chrome 浏览器的一款插件，能够像 IDE 一样提供项目目录，快捷导航，方便浏览。同时支持 GitHub 和 GitLab 两个常用的代码托管网站。更贴心的是，你可以自行选择是否显示目录。
 
@@ -334,7 +346,7 @@
 
   参考：[强力推荐！那些你不能错过的 GitHub 插件和工具](http://yifeng.studio/2017/09/06/recommended-extension-tools-about-github/)
 
-- [GitZip for github](https://chrome.google.com/webstore/detail/gitzip-for-github/ffabmkklhbepgcgfonabamgnfafbdlkn)  [荐] （可以替代 GitHub Plus 的下载功能）
+- [GitZip for github](https://chrome.google.com/webstore/detail/gitzip-for-github/ffabmkklhbepgcgfonabamgnfafbdlkn)  [荐]  [必备] （可以替代 GitHub Plus 的下载功能）
 
   > GitHub 是一个面向开源及私有软件项目的托管平台，很多写代码的用户应该很熟悉啦。但是上面有数不清楚的项目，每次更新要么就是命令更新，要么就是上网页打包项目下载。
   >
@@ -346,11 +358,11 @@
 
 - [OneTab](https://chrome.google.com/webstore/detail/onetab/chphlpgkkbolifaimnlloiipkdnihall?utm_source=chrome-ntp-icon)（这个插件可以把网页暂时挂起，从而节省很多内存）  [荐]
 
-- [掘金](https://chrome.google.com/webstore/detail/%E6%8E%98%E9%87%91/lecdifefmmfjnjjinhaennhdlmcaeeeb?utm_source=chrome-ntp-icon)  [荐]
+- [掘金](https://chrome.google.com/webstore/detail/%E6%8E%98%E9%87%91/lecdifefmmfjnjjinhaennhdlmcaeeeb?utm_source=chrome-ntp-icon)  [荐]  [必备]
 
 - [壹伴 · 小插件](https://chrome.google.com/webstore/detail/%E5%A3%B9%E4%BC%B4-%C2%B7-%E5%B0%8F%E6%8F%92%E4%BB%B6/ibefaeehajgcpooopoegkifhgecigeeg?utm_source=chrome-ntp-icon)  [荐]
 
-- [Tampermonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo)  [荐]
+- [Tampermonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo)  [荐]  [必备]
 
   > 用户脚本是一段代码，它们能够优化您的网页浏览体验。安装之后，有些脚本能为网站添加新的功能，有些能使网站的界面更加易用，有些则能隐藏网站上烦人的部分内容。在 Greasy Fork 上的用户脚本都是由用户编写并向全世界发表的，您可以免费安装，轻松体验。
   >
@@ -360,7 +372,7 @@
   >
   > 脚本推荐：[Userscript+](https://greasyfork.org/zh-CN/scripts/24508-userscript-show-site-all-userjs)，该脚本可以显示当前网站所有可用的 UserJS 脚本，并可一键安装。
 
-- [FireShot](https://chrome.google.com/webstore/detail/take-webpage-screenshots/mcbpblocgmgfnpjjppndjkmgjaogfceg?utm_source=chrome-ntp-icon)（网页截图用）  [荐]
+- [FireShot](https://chrome.google.com/webstore/detail/take-webpage-screenshots/mcbpblocgmgfnpjjppndjkmgjaogfceg?utm_source=chrome-ntp-icon)（网页截图用）  [荐]  [必备]
 
 - [Infinity 新标签页(Pro)](https://chrome.google.com/webstore/detail/infinity-new-tab-pro/nnnkddnnlpamobajfibfdgfnbcnkgngh)
 
@@ -429,7 +441,7 @@
 
   > Toggle JavaScript provides a simple, easy-to-access browser button to enable or disable JavaScript globally. 
   >
-  > 翻译过来就是说：你可以控制浏览器是否加载 JavaScript 代码，这个对于爬虫爱好者来说是很实用的工具，可以看出那些是动态加载的东西。
+  > 翻译过来就是说：你可以控制浏览器是否加载 JavaScript 代码，这个对于爬虫爱好者来说是很实用的工具，可以看出哪些是动态加载的东西。
 
 - [Chrono下载管理器](https://chrome.google.com/webstore/detail/chrono-download-manager/mciiogijehkdemklbdcbfkefimifhecn/related?utm_source=chrome-ntp-icon)  [荐]  （`Ctrl+J` 快捷打开下载界面）
 
