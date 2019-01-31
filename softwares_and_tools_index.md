@@ -322,31 +322,31 @@
 
 (1) GitHub 插件
 
-- [Octotree](https://chrome.google.com/webstore/detail/octotree/bkhaagjahfmjljalopjnoealnfndnagc)（左侧查看 GitHub 仓库项目文件）  [荐]  [必备]
+- [Octotree](https://chrome.google.com/webstore/detail/octotree/bkhaagjahfmjljalopjnoealnfndnagc)（左侧查看 GitHub 仓库项目文件）  [荐]  [必备]  —— **左侧方面查看和打开项目目录。**
 
   > Octotree 作为 Chrome 浏览器的一款插件，能够像 IDE 一样提供项目目录，快捷导航，方便浏览。同时支持 GitHub 和 GitLab 两个常用的代码托管网站。更贴心的是，你可以自行选择是否显示目录。
 
-- [GitHub Plus](https://chrome.google.com/webstore/detail/github-plus/anlikcnbgdeidpacdbdljnabclhahhmd)  [荐] 
+- [Enhanced Github](https://chrome.google.com/webstore/detail/enhanced-github/anlikcnbgdeidpacdbdljnabclhahhmd)  [荐]  [必备]  —— **显示仓库代码。**
 
-  > 同样作为 Chrome 的插件，GitHub Plus 提供的功能也是非常实用。能够显示代码仓库的大小，以及其中每个文件的大小和下载链接。使用这款插件，我们再也不用因为需要某个单一文件而被迫下载整个项目源码，尤其是在网速不给力的时候。
+  > 能够显示代码仓库的大小，以及其中每个文件的大小和下载链接。
 
-- [GitHub Hovercard](https://chrome.google.com/webstore/detail/github-hovercard/mmoahbbnojgkclgceahhakhnccimnplk)  [荐]
+- [GitHub Hovercard](https://chrome.google.com/webstore/detail/github-hovercard/mmoahbbnojgkclgceahhakhnccimnplk)  [荐]  [必备]  —— **停留用户头像悬浮显示信息。** 
 
   > 使用这款插件，当你将鼠标停留在 GitHub 网站的用户头像或者仓库链接地址上时，会自动弹出一个悬浮框，带你提前预览基本信息。有点类似 StackOverflow 网站的用户头像的鼠标悬停效果。Hovercard 插件支持的悬停位置更多，包括用户头像，仓库地址，Issue 链接，个人主页等。
 
-- [Sourcegraph for GitHub](https://chrome.google.com/webstore/detail/sourcegraph-for-github/dgjhfomjieaadpoljlnidmbgkdffpack)  [荐] 
-
-  > 代码搜索，查看引用，自动跳转，项目目录导航，这些 IDE 上常用的功能操作，借助 Sourcegraph 插件，都能帮你直接在线使用。
-
-  参考：[强力推荐！那些你不能错过的 GitHub 插件和工具](http://yifeng.studio/2017/09/06/recommended-extension-tools-about-github/)
-
-- [GitZip for github](https://chrome.google.com/webstore/detail/gitzip-for-github/ffabmkklhbepgcgfonabamgnfafbdlkn)  [荐]  [必备] （可以替代 GitHub Plus 的下载功能）
+- [GitZip for github](https://chrome.google.com/webstore/detail/gitzip-for-github/ffabmkklhbepgcgfonabamgnfafbdlkn)  [荐]  [必备]  —— **下载项目文件。**
 
   > GitHub 是一个面向开源及私有软件项目的托管平台，很多写代码的用户应该很熟悉啦。但是上面有数不清楚的项目，每次更新要么就是命令更新，要么就是上网页打包项目下载。
   >
   > 但有时候可能一次更新只更新某个文件或文件夹，要是再重新整个项目打包下载就太麻烦了。现在通过 GitZip for github 扩展就可以随意下载 GitHub 文件和文件夹啦。
   >
   > 如何使用：[Chrome扩展：GitZip for github 下载GitHub项目文件夹](https://www.xia1ge.com/gitzip-for-github.html)
+
+- [Sourcegraph for GitHub](https://chrome.google.com/webstore/detail/sourcegraph-for-github/dgjhfomjieaadpoljlnidmbgkdffpack)  [荐] 
+
+  > 代码搜索，查看引用，自动跳转，项目目录导航，这些 IDE 上常用的功能操作，借助 Sourcegraph 插件，都能帮你直接在线使用。
+
+  参考：[强力推荐！那些你不能错过的 GitHub 插件和工具](http://yifeng.studio/2017/09/06/recommended-extension-tools-about-github/)
 
 - [Refined GitHub](https://chrome.google.com/webstore/detail/refined-github/hlepfoohegkhhmjieoechaddaejaokhf/related?hl=en-US)
 
@@ -364,7 +364,7 @@
 
   > 该插件能帮忙很好过滤与筛选信息。例如过滤其他人 Star 或 Fork 我的开源项目所产生的动态，如果你开源的项目比较多，或在某段时间 Star 上涨比较快，那么这些次要信息就可能对你产生较大干扰，这时借助这个插件就可以很轻松的过滤掉。
 
-- [Isometric Contributions](https://chrome.google.com/webstore/detail/isometric-contributions/mjoedlfflcchnleknnceiplgaeoegien?hl=en-US)  [荐]
+- [Isometric Contributions](https://chrome.google.com/webstore/detail/isometric-contributions/mjoedlfflcchnleknnceiplgaeoegien?hl=en-US)  [荐] 
 
   > 这个插件比较有趣，它可以把你的 GitHub Commit 转化为 3D 模式进行显示，让你的提交记录看起来更加直观与生动。
 
