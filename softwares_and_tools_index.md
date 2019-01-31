@@ -12,9 +12,11 @@
 
 - UltraISO破解版
 
-- WinRAR_x64破解版
+- WinRAR_x64破解版（注：可在 download 文件夹找到）
 
-- Bandizip（解压缩软件）[荐]
+- [Bandizip](http://www.bandisoft.com/bandizip/)（解压缩软件）[荐]
+
+  > 介绍：[你的最后一款 Windows 解压缩软件：Bandizip](https://sspai.com/post/35358)
 
 - 快速搜索磁盘文件工具：
   - [火萤酱](https://j.huoying666.com/)  [荐]
@@ -80,9 +82,9 @@
   >
   > [Snipaste : 用好这款截图贴图利器，写东西快得飞起来 ](https://www.ifanr.com/app/744064)
 
-- [LICEcap](https://www.cockos.com/licecap/)  [荐]（制作GIF图）
+- [LICEcap](https://www.cockos.com/licecap/)  [荐]（制作Gif图）
 
-  > LICEcap是一款屏幕录制工具，支持导出 GIF 动画图片格式，轻量级、使用简单，录制过程中可以随意改变录屏范围。
+  > LICEcap 是一款屏幕录制工具，支持导出 GIF 动画图片格式，轻量级、使用简单，录制过程中可以随意改变录屏范围。
   >
   > [如何使用LICEcap来录制GIF图？](https://jingyan.baidu.com/article/b0b63dbf0526db4a4930705c.html)
   >
@@ -93,6 +95,18 @@
   > 录制过程可调整窗口大小/位置，可以暂停/继续，录制范围内无变化则不增加新帧而只增加延时，有效较小文件尺寸，可手动录制单帧。编辑状态可查看每一帧，可以删除帧、增加当前帧延时。
   >
   > 使用：[GifCam 5.5 绿色中文汉化版 超强 Gif 动画录制工具](http://www.dayanzai.me/gifcam.html)
+
+- [Pointofix](http://www.pointofix.de/download.php)  
+
+  > Pointofix 是个很有趣的免费小程序，它可以让我们直接在屏幕上画圈圈、线头、标箭头或打字，方便把整个电脑屏幕当做是个电子白板（或黑板），直接用各种线条、圈圈或箭头、勾勾...等符号，在屏幕的窗口、图案、各种图表中乱涂鸦或做各种标示，拿来当做上课、演讲或做简报时使用，也相当方便。画完之后，还可以直接把刚刚标示的内容与笔迹，保存为一个图像。
+  >
+  > 快捷键使用：http://www.pc6.com/softview/SoftView_71303.html
+
+- 天若OCR文字识别工具
+
+  > 我们在平时办公或上网时常常会遇到想要「复制图片里的文字」的难题，这时我们就需要 OCR 软件来将图片识别成文字了。尽管专业的 OCR 文字识别电脑端软件很多，手机 APP 也不少，但如果你想快速复制电脑屏幕上任意地方的文字的话，大多这类工具都不够便捷。如果能像 QQ 截图那么方便，鼠标拉个框框选择区域，然后直接识别出截图里的文字那就很好了。天若 OCR 文字识别工具正是这样一款好用的免费软件。没有找到官网，这个为网上找到的百度网盘下载地址：[天若OCR更新网盘](<https://pan.baidu.com/s/1P2xb9kBwX1gj8j2_APivZw>)（注：也可以在 download 文件找到）
+  >
+  > 使用方法：[天若ocr文字识别工具，集合百度、腾讯、有道、搜狗  - 吾爱破解](https://www.52pojie.cn/thread-692917-1-1.html)
 
 ☛**手机模拟器：**
 
@@ -126,7 +140,7 @@
 ☛**图片浏览/编辑：**
 
 - PhotoShop
-
+- [Honeyview](https://cn.bandisoft.com/honeyview/)（一款快速图像查看器，可打开Gif动图）
 - [QQ影像](https://pc.qq.com/detail/15/detail_755.html) 
 
   > QQ影像是腾讯公司2010年推出的一款桌面图片处理软件。具有轻松浏览、常用快调、一键上传、时尚特效、相框饰品、快速扫描等特点。可以快速浏览管理本地图片，使用编辑功能处理照片，上传到QQ空间。
@@ -353,6 +367,38 @@
   > 但有时候可能一次更新只更新某个文件或文件夹，要是再重新整个项目打包下载就太麻烦了。现在通过 GitZip for github 扩展就可以随意下载 GitHub 文件和文件夹啦。
   >
   > 如何使用：[Chrome扩展：GitZip for github 下载GitHub项目文件夹](https://www.xia1ge.com/gitzip-for-github.html)
+
+- [Refined GitHub](https://chrome.google.com/webstore/detail/refined-github/hlepfoohegkhhmjieoechaddaejaokhf/related?hl=en-US)
+
+  > 在使用 GitHub 的过程中，有较强的不适感，可以尝试安装下该插件，它主要针对 GitHub 进行了优化，添加了非常多强大的功能，之前该插件加入的一些功能也被 GitHub 官方添加到了 Feature，正式应用到生产环境了。下面列举几个该插件功能：
+  >
+  > - 将 PR 和 issue 设为未读状态
+  > - 优化评论区的交互，增加互动用户的头像
+  > - 在 404 页面添加项目相关的可点击链接
+
+- [Octohint](https://chrome.google.com/webstore/detail/octohint/hbkpjkfdheainjkkebeoofkpgddnnbpk?hl=en-US)
+
+  > 经常会遇到这样一种情况，在 GitHub 浏览代码时，想查看一个变量或函数名的定义，只能通过快捷键 `command + f`来查看，很不方便，于是就有人做了 Octohint 这个插件。这个插件的作用是当我们使用 GitHub 浏览代码时，默认会加入参数属性提示、变量名高亮等功能。这样我们就可以愉快的浏览代码啦。
+
+- [Dashboard filter for GitHub](https://chrome.google.com/webstore/detail/dashboard-filter-for-gith/pcnaddhmngnnpookfhhamkelhhakimdg)
+
+  > 该插件能帮忙很好过滤与筛选信息。例如过滤其他人 Star 或 Fork 我的开源项目所产生的动态，如果你开源的项目比较多，或在某段时间 Star 上涨比较快，那么这些次要信息就可能对你产生较大干扰，这时借助这个插件就可以很轻松的过滤掉。
+
+- [Isometric Contributions](https://chrome.google.com/webstore/detail/isometric-contributions/mjoedlfflcchnleknnceiplgaeoegien?hl=en-US)
+
+  > 这个插件比较有趣，它可以把你的 GitHub Commit 转化为 3D 模式进行显示，让你的提交记录看起来更加直观与生动。
+
+- [Notifier for GitHub](https://chrome.google.com/webstore/detail/notifier-for-github/lmjdlojahmbbcodnpecnjnmlddbkjhnn?hl=en-US)
+
+  > 如果使用 GitHub 进行协作的频率比较高，那么可以考虑装下这个插件，它的主要作用是在插件栏显示 GitHub 未读消息数，同时也支持桌面通知，让你第一时间可以知道 GitHub 上是否来事儿了。
+
+- [OctoLinker](https://chrome.google.com/webstore/detail/octolinker/jlmafbaeoofdegohdhinkhilhclaklkp?hl=en-US)
+
+  > 在你使用 GitHub 浏览代码的时候，会不会常常想，如果它有像 IDE 一样的自动链接跳转功能就好了，这款插件如你所愿，它可以帮助开发者在浏览代码时进行更高效的代码链接跳转。
+
+- [Github File Icons](https://chrome.google.com/webstore/detail/github-file-icons/kkokonbjllgdmblmbichgkkikhlcnekp?hl=en-US)
+
+  > 安装了这个插件，那么在使用 GitHub 的时候就能享受到打开 Atom 的那种左侧漂亮的文件图标体验，它会自动根据 GitHub 项目文件类型自动替换文件图标，让文件看起来更加直观形象。
 
 (2) 实用插件
 

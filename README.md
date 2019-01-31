@@ -3,8 +3,9 @@
 [![license](https://img.shields.io/badge/license-Attribution--NonCommercial%204.0%20-brightgreen.svg)](https://github.com/doocs/advanced-java/blob/master/LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-brightgreen.svg)](http://makeapullrequest.com)
 
+分类收藏一些有用的网站，工具和软件，以及关于 Windows、Mac、Linux 系统的软件操作和使用技巧等，提高做事效率。“工欲善其事，必先利其器”。欢迎大家 star，也欢迎 PR，分享你觉得不错的。
 
-分类收藏一些有用的网站，工具和软件，以及关于Windows、Mac、Linux系统的软件操作和使用技巧等，提高做事效率。“工欲善其事，必先利其器”。欢迎大家 star，也欢迎 PR，分享你觉得不错的。
+
 
 ## 一、学习网站
 
@@ -28,6 +29,8 @@
 - [GitHub](https://github.com/)（全球最大同性恋社交网站，邪恶脸）
 - [Stack Overflow](https://stackoverflow.com/)（问答社区）
 - [CSDN](https://www.csdn.net/)（中国最大IT社区）
+- [掘金](https://juejin.im/)（一个帮助开发者成长的社区）
+- [小专栏](https://xiaozhuanlan.com/)（一个专业人士的创作知识社区）
 - [segmentfault](https://segmentfault.com/)
 - [51CTO](http://www.51cto.com/)
 - [开源中国](https://www.oschina.net/)
