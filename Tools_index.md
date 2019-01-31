@@ -398,13 +398,14 @@
   > 2.[GitHub Image Preview](https://greasyfork.org/en/scripts/19773-github-image-preview)（图片预览）  [荐]  [必备]
   >
   > 3.[GitHub Code Colors](https://greasyfork.org/en/scripts/18141-github-code-colors)（在代码颜色定义旁边添加颜色）
-- [OneTab](https://chrome.google.com/webstore/detail/onetab/chphlpgkkbolifaimnlloiipkdnihall?utm_source=chrome-ntp-icon)（这个插件可以把网页暂时挂起，从而节省很多内存）  [荐]
 
 - [掘金](https://chrome.google.com/webstore/detail/%E6%8E%98%E9%87%91/lecdifefmmfjnjjinhaennhdlmcaeeeb?utm_source=chrome-ntp-icon)  [荐]  [必备]
 
+- [FireShot](https://chrome.google.com/webstore/detail/take-webpage-screenshots/mcbpblocgmgfnpjjppndjkmgjaogfceg?utm_source=chrome-ntp-icon)（网页截图用）  [荐]  [必备]
+
 - [壹伴 · 小插件](https://chrome.google.com/webstore/detail/%E5%A3%B9%E4%BC%B4-%C2%B7-%E5%B0%8F%E6%8F%92%E4%BB%B6/ibefaeehajgcpooopoegkifhgecigeeg?utm_source=chrome-ntp-icon)  [荐]
 
-- [FireShot](https://chrome.google.com/webstore/detail/take-webpage-screenshots/mcbpblocgmgfnpjjppndjkmgjaogfceg?utm_source=chrome-ntp-icon)（网页截图用）  [荐]  [必备]
+- [OneTab](https://chrome.google.com/webstore/detail/onetab/chphlpgkkbolifaimnlloiipkdnihall?utm_source=chrome-ntp-icon)（这个插件可以把网页暂时挂起，从而节省很多内存）  [荐]
 
 - [Infinity 新标签页(Pro)](https://chrome.google.com/webstore/detail/infinity-new-tab-pro/nnnkddnnlpamobajfibfdgfnbcnkgngh)
 
@@ -425,6 +426,8 @@
 - [云盘万能钥匙](https://chrome.google.com/webstore/detail/%E4%BA%91%E7%9B%98%E4%B8%87%E8%83%BD%E9%92%A5%E5%8C%99/anlllmnpjodopgbkbpnghnjlelnogfjc?hl=zh-CN)  [荐]
 
   > 能自动打开设置了密码但分享过的百度云文件。
+
+- [EPUBReader](https://chrome.google.com/webstore/detail/epubreader/jhhclmfgfllimlhabjkgkeebkbiadflb?utm_source=chrome-ntp-icon)（可以直接在浏览器中打开 EPUB 格式的电子书阅读）  [荐]
 
 - [二維碼生成器 (Quick QR)](https://chrome.google.com/webstore/detail/quick-qr-code-generator/afpbjjgbdimpioenaedcjgkaigggcdpp/related?hl=zh-CN)  [荐]
 
@@ -479,10 +482,6 @@
 
   > Chrono下载管理器是 Chrome 浏览器下第一款(也是唯一一款)功能全面的下载管理工具。Chrono 接管你在 Chrome 中的所有下载，你的所有下载管理工作都在浏览器中完成，而不需要安装另外的程序。 Chrono 与 Chrome 浏览器紧密地整合在一起，添加了对浏览器菜单、工具栏和快捷键的支持。
 
-- [WEB前端助手(FeHelper)](https://chrome.google.com/webstore/detail/web%E5%89%8D%E7%AB%AF%E5%8A%A9%E6%89%8Bfehelper/pkgccpejnmalmdinmhkkfafefagiiiad)
-
-  > 包括JSON格式化、二维码生成与解码、信息编解码、代码压缩、美化、页面取色、Markdown与HTML互转、网页滚动截屏、正则表达式、时间转换工具、编码规范检测、页面性能检测、Ajax接口调试、密码生成器、JSON比对工具、网页编码设置、便签笔记。
-
 - [右键搜](https://chrome.google.com/webstore/detail/context-menus/phlfmkfpmphogkomddckmggcfpmfchpn/related?utm_source=chrome-app-launcher-info-dialog)
 
   > 扩展右键菜单，超过 300 种功能，方便的选择、组合或自定义页面、划词、图片菜单，并有生成、解析二维码和短网址功能。设置可使用云存储。最新增加功能共享、资源下载、重命名等功能。右键搜伴侣增加超级拖拽。
@@ -494,7 +493,7 @@
   >
   > 使用：[右键搜：为Chrome添加多个右键搜索引擎](https://jingyan.baidu.com/article/3c48dd3471d67fe10be358fd.html)
 
-- [Search to Play the Song](https://chrome.google.com/webstore/detail/search-to-play-the-song/anfmgjkkbagjfdejhbjdiapgkbhpigpm/related?utm_source=chrome-ntp-icon)  [荐]★★★
+- [Search to Play the Song](https://chrome.google.com/webstore/detail/search-to-play-the-song/anfmgjkkbagjfdejhbjdiapgkbhpigpm/related?utm_source=chrome-ntp-icon)  [荐]
 
   > 搜我听歌 (SPS) 是 Search to Play the Song 的缩写，它是一款非常极简干净且完全免费的 Chrome 浏览器插件扩展。通过它，你不必安装任何音乐播放器软件客户端，即可在一个地方搜索并在线播放虾米音乐、QQ音乐、网易云音乐等服务的歌曲，非常的方便。另外还能在线听广播电台。
   >
@@ -505,6 +504,12 @@
   > Tab Resize是一款可以将显示屏变成二、三个独立视图，并等分在显示屏的画面，当然用户也可以自行分割画面，当一键立即就可将页面等分，因此在一个屏幕中，同时看到多个网页。Tab Resize内建了五种不同的视窗排列样式，只要点一下 Tab Resize 按钮再按你要的分割方式，即可快速分割、排列并占满你的显示屏。要恢复时，只要再点“Undo”按钮即可恢复就可以了。
   >
   > 使用：[Tab Resize：浏览器屏幕分割插件](http://chromecj.com/accessibility/2017-09/809.html)
+
+(3) 编程相关：
+
+- [WEB前端助手(FeHelper)](https://chrome.google.com/webstore/detail/web%E5%89%8D%E7%AB%AF%E5%8A%A9%E6%89%8Bfehelper/pkgccpejnmalmdinmhkkfafefagiiiad)
+
+  > 包括JSON格式化、二维码生成与解码、信息编解码、代码压缩、美化、页面取色、Markdown与HTML互转、网页滚动截屏、正则表达式、时间转换工具、编码规范检测、页面性能检测、Ajax接口调试、密码生成器、JSON比对工具、网页编码设置、便签笔记。
 
 ## Ubuntu下软件
 
