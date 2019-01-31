@@ -3,17 +3,11 @@
 ☛**实用软件：** 
 
 - f.lux（护眼软件）  [荐] 
-
 - Keynote（做 Gif 动图演示软件）
-
 - 网易邮箱大师（邮箱客户端）  [荐]
-
 - Total_Control（手机屏幕投影到电脑）
-
 - UltraISO破解版
-
 - WinRAR_x64破解版（注：可在 download 文件夹找到）
-
 - [Bandizip](http://www.bandisoft.com/bandizip/)（韩国人开发的解压缩软件）[荐]
 
   > 介绍：[你的最后一款 Windows 解压缩软件：Bandizip](https://sspai.com/post/35358)
@@ -102,7 +96,7 @@
   >
   > 快捷键使用：http://www.pc6.com/softview/SoftView_71303.html
 
-- 天若OCR文字识别工具
+- 天若OCR文字识别工具  [荐]  [必备]
 
   > 我们在平时办公或上网时常常会遇到想要「复制图片里的文字」的难题，这时我们就需要 OCR 软件来将图片识别成文字了。尽管专业的 OCR 文字识别电脑端软件很多，手机 APP 也不少，但如果你想快速复制电脑屏幕上任意地方的文字的话，大多这类工具都不够便捷。如果能像 QQ 截图那么方便，鼠标拉个框框选择区域，然后直接识别出截图里的文字那就很好了。天若 OCR 文字识别工具正是这样一款好用的免费软件。没有找到官网，这个为网上找到的百度网盘下载地址：[天若OCR更新网盘](<https://pan.baidu.com/s/1P2xb9kBwX1gj8j2_APivZw>)（注：也可以在 download 文件找到）
   >

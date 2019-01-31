@@ -158,37 +158,21 @@
 **免费图像网站：**
 
 - pexels：https://www.pexels.com/
-
 - lifeofpix：https://www.lifeofpix.com/
-
 - foter：https://foter.com/
-
 - picjumbo：https://picjumbo.com/
-
 - gratisography：https://gratisography.com/
-
 - unsplash：https://unsplash.com/  
-
 - freeimages：https://www.freeimages.com/
-
 - Pixabay：https://pixabay.com/
-
 - Canva：https://www.canva.com/photos/free/
-
 - reshot：https://www.reshot.com/
-
 - rawpixel：https://www.rawpixel.com/
-
 - Morguefile：https://morguefile.com/
-
 - pxhere：https://pxhere.com/
-
 - ISO Republic：<https://isorepublic.com/>
-
 - 泼辣有图：http://www.polayoutu.com
-
 - 别样网-沙沙野：https://www.ssyer.com/
-
 - 配图神器 Zoommy：https://zoommyapp.com/
 
   > Zoommy 是一款桌面客户端应用，支持 Windows、macOS、Linux，可以从 50 家高质量图片网站中搜索超过 50000 张 CC0 授权，或者公有领域的图片，之后便可以随意使用这些图片。
@@ -249,22 +233,18 @@
 
 - 莫凡 Python&机器学习：https://morvanzhou.github.io/about/
 - 吴恩达 Coursera 机器学习（即，2014斯坦福大学机器学习）:
-
   > 课程免费，侧重于基本的原理和工程实现，对初学者相对友好。字幕中英可选。
   >
   > - 官方：https://www.coursera.org/learn/machine-learning
   > - 或者 B 站观看：https://www.bilibili.com/video/av9912938/ 
 
 - 吴恩达深度学习课程：[网易云课堂 deeplearning.ai](https://mooc.study.163.com/university/deeplearning_ai#/c)
-
 - 李飞飞的 CS231n：
-
   > B 站(中文)：[斯坦福深度学习课程CS231N 2017中文字幕版+全部作业参考](https://www.bilibili.com/video/av17204303?from=search&seid=9110297428234152748)
   >
   > B 站(英文)：[斯坦福2017季CS231n深度视觉识别课程视频（by Fei-Fei Li, Justin Jo](https://www.bilibili.com/video/av13260183/)
 
 - 台大_李宏毅老师：
-
   > 大家可能看过《一天搞懂深度学习》的PPT，作者是台湾大学的李宏毅老师。其实，李宏毅老师还有门深度学习的课程，视频也挂在网上。这门课主要针对初学者，而且，不需要有经典的机器学习基础（其实，深度学习入门，比经典的机器学习更容易）。课程的内容深入浅出，训练和预测样本都是各种数码宝贝和二次元卡通人物，绝对让你耳目一新。好像没有字幕，中文授课（台湾腔）。课程链接：http://speech.ee.ntu.edu.tw/~tlkagk/courses_ML17.html 
   >
   > B站视频：李宏毅《一天搞懂深度学习》https://www.bilibili.com/video/av16543434/ 
@@ -274,7 +254,6 @@
   > B站视频：[李宏毅深度学习(2017)](https://www.bilibili.com/video/av9770302/)
 
 - 台湾_林轩田老师的公开课《机器学习基石》和《机器学习技法》 都是中文授课：
-
   > - 《机器学习基石》：https://www.bilibili.com/video/av1624332?from=search&seid=6409383070355550347
   > - 《机器学习技法》：https://www.bilibili.com/video/av12469267/
 
@@ -329,15 +308,10 @@
 ### GitHub仓库
 
 - [Interview-Notebook](https://github.com/guobinhit/cg-blog)（技术面试需要掌握的基础知识整理）
-
 - [Charies Gavin's Blog](https://github.com/guobinhit/cg-blog)
-
 - [Windows 绝赞应用](https://amazing-apps.gitbooks.io/windows-apps-that-amaze-us/content/zh-CN/)
-
 - [Coursera-ML-AndrewNg-Notes](https://github.com/fengdu78/Coursera-ML-AndrewNg-Notes)（吴恩达老师的机器学习课程个人笔记）
-
 - [dawnlabs/carbon](https://github.com/dawnlabs/carbon/blob/master/docs/README.cn.zh.md)
-
   > Carbon 是一个免费的开源库，用于创建和分享源代码的美丽图像。
   >
   > 如何使用：[使用Carbon和Polacode从你的编辑器创建代码截图](https://segmentfault.com/a/1190000014579171)
@@ -385,19 +359,16 @@
 **全能文件格式在线转换：** 
 
 - [office-converter](https://cn.office-converter.com/)  [荐]
-
   > Office Converter 是世界上最大的在线文件转换工具集合网站，你能免费在线转换包括视频、音频、图形、文档和压缩等服务，目前能够做到输出超过500种格式，输入格式转换超过2000种不同的格式转换。
   >
   > 目前网站提供的在线转换文件包括，在线文档转换、在线视频转换、在线音乐转换、在线电子书转换、在线文件压缩、在线二维码生成器、在线 YouTube 转换和下载、在线翻译/免费、在线单位转换： 热门单位换算、 在线力学转算、在线运动转算、 在线维度转算等等。
 
 - [Aconvert.com](https://www.aconvert.com/cn/)（各类文件类型转换；音视频分割、合并、裁剪等；在线压缩）
-
 - [CloudConvert](https://cloudconvert.com/)（各类文件类型相互之间转换）
 
   - 在线 WMA 转 GIF 图片：https://cloudconvert.com/wmv-to-gif
 
 - [Convertio](https://convertio.co/zh/)  
-
   > Convertio 是在线文档转换工具，支持45种常见格式的文档转换工具，包括办公文档、图片、电子书、音频、压缩文件等类型。可以快速实现 PDF 转换 Word、PNG 转换 JPG、WAV 转换 MP3 等操作。
   >
   > 有对应的 Chrome 插件：[Convertio插件在线安装](https://chrome.google.com/webstore/detail/convertio/eppjkefeiehhflmgkhdooajgbkkegpcl/related)
@@ -405,15 +376,12 @@
 **在线处理图片：** 
 
 - [iLoveIMG](https://www.iloveimg.com/zh-cn)  [荐]
-
   > iLoveIMG 是一个在线“图像文件处理”网络应用软件，提供多种图像文件基础编辑功能。其中包括：图片文件格式转换、图片压缩、图片剪裁服务的工具集合，支持图片格式有JPG、PNG、GIF。
   >
   > 它的优点：一次调整多个图像文件的尺寸、压缩多个图像文件、裁剪多个图像文件，以及转换多个图像文件的格式。
 
 - [压缩图](https://www.yasuotu.com/)（在线图片压缩工具）
-
 - [在线图片大小修改器](https://www.sojson.com/image/change.html)
-
 - [改图宝](http://www.gaitubao.com/)（在线修改照片大小尺寸工具）
 
 **在线处理视频/音频：**
