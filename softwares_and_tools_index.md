@@ -1,6 +1,6 @@
 ## 电脑软件
 
-☛**实用/效率软件：** 
+☛**实用软件：** 
 
 - f.lux（护眼软件）  [荐] 
 
@@ -14,7 +14,7 @@
 
 - WinRAR_x64破解版（注：可在 download 文件夹找到）
 
-- [Bandizip](http://www.bandisoft.com/bandizip/)（解压缩软件）[荐]
+- [Bandizip](http://www.bandisoft.com/bandizip/)（韩国人开发的解压缩软件）[荐]
 
   > 介绍：[你的最后一款 Windows 解压缩软件：Bandizip](https://sspai.com/post/35358)
 
@@ -68,7 +68,7 @@
 ☛**办公/团队协作：**
 
 -  石墨文档（可多人实时协作的云端 Office，如果不愿意本地安装 MS Office，这是一个选择）
--  Keynote（Keynote是一个演示幻灯片应用软件，由苹果计算机公司出品，运行于OS X 操作系统。）
+-  Keynote（Keynote 是一个演示幻灯片应用软件，由苹果计算机公司出品，运行于 OS X 操作系统。）
 
 **☞效率工具：** 
 
@@ -108,7 +108,11 @@
   >
   > 使用方法：[天若ocr文字识别工具，集合百度、腾讯、有道、搜狗  - 吾爱破解](https://www.52pojie.cn/thread-692917-1-1.html)
 
-☛**手机模拟器：**
+- [PanDownload](https://pandownload.com/)
+
+  > PanDownload 是 kiryuu 制作的一个百度网盘第三方客户端工具，PanDownload 不限速下载，可以最大限度的利用带宽对百度网盘的文件进行下载。
+
+☛**手机模拟器：** 
 
 - BlueStacks蓝叠安卓模拟器：[BlueStacks蓝叠](https://www.bluestacks.cn/)（ 英文：[BlueStacks](https://bluestacks.vip/)）  
 - [夜神安卓模拟器](https://www.yeshen.com/)
@@ -175,7 +179,7 @@
 ☛**图床工具：**
 
 - 「极简图床」浏览器插件（之前一直很好用的，但 2018-10-12 出现登陆异常，现已弃用）
-- [PicGo 客户端](https://github.com/Molunerfinn/PicGo)（荐）
+- [PicGo 客户端](https://github.com/Molunerfinn/PicGo)  [荐]  [必备]
 - 「qiniu upload files」浏览器插件（弃用）
 
 
