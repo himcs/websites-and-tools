@@ -9,20 +9,20 @@
 
 ## 一、学习网站
 
-**资源导航类网站：** 
+**资源导航类：** 
 
 - [编程导航-ITnavigation](http://www.redbanners.cn/)
 - [Tool321_不可错过任何一个工具](http://tool321.com/cn/index.html)
 - [Web前端导航](http://www.alloyteam.com/nav/)
 - [GitNavi ](http://www.gitnavi.com/)
 
-**编程学习网站：** 
+**编程学习：** 
 
-- 菜鸟教程：http://www.runoob.com/
-- w3school 在线教程：http://www.w3school.com.cn/
-- w3cschool - 学编程：https://www.w3cschool.cn/
-- W3Schools 中文教程：http://www.w3s.com.cn/
-- C语言中文网：http://c.biancheng.net/cpp/
+- [菜鸟教程](http://www.runoob.com/)
+- [w3school 在线教程](http://www.w3school.com.cn/)
+- [w3cschool - 学编程](https://www.w3cschool.cn/)（有会员制的那个~）
+- [W3Schools 中文教程](http://www.w3s.com.cn/)
+- [C语言中文网](http://c.biancheng.net/cpp/)
 
 **程序员技术/问答/社区：**
 
@@ -37,12 +37,12 @@
 - [知乎](https://www.zhihu.com/)
 - [我要自学网](http://www.51zxw.net/)
 
-**行业新闻/技术类网站：** 
+**行业新闻/技术类：** 
 
 - [InfoQ](http://www.infoq.com/cn) 
 - [IT之家](https://www.ithome.com/)
 
-**优质网站：**（含学习资料、技术问答、代码下载等）
+**学习资料/代码下载：**
 
 - [DevStore](http://www.devstore.cn/)
 
@@ -60,18 +60,17 @@
 
 **代码托管：**
 
-- 开源中国旗下的 [码云](https://gitee.com/)  
+- 开源中国旗下的 [码云 Gitee](https://gitee.com/)  
 - [CODING](https://coding.net/)
-- 国外：[GitHub](https://github.com/)
-- 国外：[GitLab](https://www.gitlab.com/)（可以免费创建私有仓库；GitLab让开发团队对他们的代码仓库拥有更多的控制）
+- 国外：[GitHub](https://github.com/)（这个不用说了。 2018-06-04宣布 75 亿美元被微软收购）
+- 国外：[GitLab](https://www.gitlab.com/)（可以免费创建私有仓库；GitLab 让开发团队对他们的代码仓库拥有更多的控制）
 
 **技术书下载：** 
 
 - [Love2.io](https://love2.io/)
 
-  > Love2.io 是一个全新的开源技术文档分享平台，我们致力于提供用户更优雅的阅读和写作体验。技术改变世界，用文档传播。
+  > Love2.io 是一个全新的开源技术文档分享平台，我们致力于提供用户更优雅的阅读和写作体验。技术改变世界，用文档传播。有很多来自 GitHub 的技术书籍。 
   >
-  > 有很多来自 GitHub 的技术书籍。 
 
 - [SIMPLE求知网](http://www.simple000.com/index.php)（为编程爱好者提供计算机电子书等电子资料免费资源下载）
 
