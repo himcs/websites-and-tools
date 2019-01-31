@@ -98,7 +98,7 @@
 
 - 天若OCR文字识别工具  [荐]  [必备]
 
-  > 我们在平时办公或上网时常常会遇到想要「复制图片里的文字」的难题，这时我们就需要 OCR 软件来将图片识别成文字了。尽管专业的 OCR 文字识别电脑端软件很多，手机 APP 也不少，但如果你想快速复制电脑屏幕上任意地方的文字的话，大多这类工具都不够便捷。如果能像 QQ 截图那么方便，鼠标拉个框框选择区域，然后直接识别出截图里的文字那就很好了。天若 OCR 文字识别工具正是这样一款好用的免费软件。没有找到官网，这个为网上找到的百度网盘下载地址：[天若OCR更新网盘](<https://pan.baidu.com/s/1P2xb9kBwX1gj8j2_APivZw>)（注：也可以在 download 文件找到）
+  > 我们在平时办公或上网时常常会遇到想要「复制图片里的文字」的难题，这时我们就需要 OCR 软件来将图片识别成文字了。尽管专业的 OCR 文字识别电脑端软件很多，手机 APP 也不少，但如果你想快速复制电脑屏幕上任意地方的文字的话，大多这类工具都不够便捷。如果能像 QQ 截图那么方便，鼠标拉个框框选择区域，然后直接识别出截图里的文字那就很好了。天若 OCR 文字识别工具正是这样一款好用的免费软件。没有找到官网，这个为网上找到的百度网盘下载地址：[天若OCR更新网盘](<https://pan.baidu.com/s/1P2xb9kBwX1gj8j2_APivZw>)（注：也可以在 download 文件夹找到）
   >
   > 使用方法：[天若ocr文字识别工具，集合百度、腾讯、有道、搜狗  - 吾爱破解](https://www.52pojie.cn/thread-692917-1-1.html)
 
@@ -183,45 +183,27 @@
 ☛**技术学习/行业新闻：**
 
 - 简书 
-
 - [掘金](https://juejin.im)  [荐]
-
 - 极客时间  [荐]
-
 - 开发者头条
-
 - [即刻](https://www.ruguoapp.com/)
-
 - W3Cschool 客户端
-
 - IT之家
-
 - CSDN
-
 - [牛客网](https://www.nowcoder.com)  [荐]
-
 - [脉脉](https://maimai.cn/)  [荐]
 
   > 中国领先的职场实名社交平台，利用科学算法为职场人拓展人脉，降低商务社交门槛，实现各行各业交流合作。
-
 - [LinkedIn(领英)](https://www.linkedin.com/help/linkedin/answer/60678/-app?lang=zh-hans)
-
   > 是一款近似 Facebook 页面的社交网络。完成注册后会自动产生和带入电子名片。面向为商业人士使用。
   >
   > 立志于连接全球职场人士，维护他们在商业交往中认识并信任的联系人，这些人被称为“人脉”（Connections）。
-
 - 知乎   [荐]
-
 - 网易云云课堂
-
 - 网易公开课
-
 - 慕课网
-
 - 极客学院
-
 - coursera
-
 - 七月在线
 
 ☛**阅读/学习/英语：**
@@ -382,7 +364,7 @@
 
   > 该插件能帮忙很好过滤与筛选信息。例如过滤其他人 Star 或 Fork 我的开源项目所产生的动态，如果你开源的项目比较多，或在某段时间 Star 上涨比较快，那么这些次要信息就可能对你产生较大干扰，这时借助这个插件就可以很轻松的过滤掉。
 
-- [Isometric Contributions](https://chrome.google.com/webstore/detail/isometric-contributions/mjoedlfflcchnleknnceiplgaeoegien?hl=en-US)
+- [Isometric Contributions](https://chrome.google.com/webstore/detail/isometric-contributions/mjoedlfflcchnleknnceiplgaeoegien?hl=en-US)  [荐]
 
   > 这个插件比较有趣，它可以把你的 GitHub Commit 转化为 3D 模式进行显示，让你的提交记录看起来更加直观与生动。
 
@@ -399,13 +381,6 @@
   > 安装了这个插件，那么在使用 GitHub 的时候就能享受到打开 Atom 的那种左侧漂亮的文件图标体验，它会自动根据 GitHub 项目文件类型自动替换文件图标，让文件看起来更加直观形象。
 
 (2) 实用插件
-
-- [OneTab](https://chrome.google.com/webstore/detail/onetab/chphlpgkkbolifaimnlloiipkdnihall?utm_source=chrome-ntp-icon)（这个插件可以把网页暂时挂起，从而节省很多内存）  [荐]
-
-- [掘金](https://chrome.google.com/webstore/detail/%E6%8E%98%E9%87%91/lecdifefmmfjnjjinhaennhdlmcaeeeb?utm_source=chrome-ntp-icon)  [荐]  [必备]
-
-- [壹伴 · 小插件](https://chrome.google.com/webstore/detail/%E5%A3%B9%E4%BC%B4-%C2%B7-%E5%B0%8F%E6%8F%92%E4%BB%B6/ibefaeehajgcpooopoegkifhgecigeeg?utm_source=chrome-ntp-icon)  [荐]
-
 - [Tampermonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo)  [荐]  [必备]
 
   > 用户脚本是一段代码，它们能够优化您的网页浏览体验。安装之后，有些脚本能为网站添加新的功能，有些能使网站的界面更加易用，有些则能隐藏网站上烦人的部分内容。在 Greasy Fork 上的用户脚本都是由用户编写并向全世界发表的，您可以免费安装，轻松体验。
@@ -415,6 +390,19 @@
   > 下载以及脚本搜索：https://greasyfork.org/zh-CN
   >
   > 脚本推荐：[Userscript+](https://greasyfork.org/zh-CN/scripts/24508-userscript-show-site-all-userjs)，该脚本可以显示当前网站所有可用的 UserJS 脚本，并可一键安装。
+  >
+  > 作用于 GitHub 网站的脚本推荐，这里有个仓库列举了很多【[Mottie/GitHub-userscripts](https://github.com/Mottie/GitHub-userscripts)】,以下重点列举几个常用的：
+  >
+  > 1.[GitHub Table of Contents](https://greasyfork.org/en/scripts/18344-github-table-of-contents)（在README和WIKI页面旁边自动生成目录）  [荐]  [必备]
+  >
+  > 2.[GitHub Image Preview](https://greasyfork.org/en/scripts/19773-github-image-preview)（图片预览）  [荐]  [必备]
+  >
+  > 3.[GitHub Code Colors](https://greasyfork.org/en/scripts/18141-github-code-colors)（在代码颜色定义旁边添加颜色）
+- [OneTab](https://chrome.google.com/webstore/detail/onetab/chphlpgkkbolifaimnlloiipkdnihall?utm_source=chrome-ntp-icon)（这个插件可以把网页暂时挂起，从而节省很多内存）  [荐]
+
+- [掘金](https://chrome.google.com/webstore/detail/%E6%8E%98%E9%87%91/lecdifefmmfjnjjinhaennhdlmcaeeeb?utm_source=chrome-ntp-icon)  [荐]  [必备]
+
+- [壹伴 · 小插件](https://chrome.google.com/webstore/detail/%E5%A3%B9%E4%BC%B4-%C2%B7-%E5%B0%8F%E6%8F%92%E4%BB%B6/ibefaeehajgcpooopoegkifhgecigeeg?utm_source=chrome-ntp-icon)  [荐]
 
 - [FireShot](https://chrome.google.com/webstore/detail/take-webpage-screenshots/mcbpblocgmgfnpjjppndjkmgjaogfceg?utm_source=chrome-ntp-icon)（网页截图用）  [荐]  [必备]
 
