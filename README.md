@@ -437,7 +437,16 @@
 
 - [IPIP.NET](https://www.ipip.net/ip.html)  [荐]
 
-## 四、手机&电脑
+## 四、资源下载
+
+**电脑系统：** 
+
+- [驱动精灵离线装机版 - 以及万能驱动包下载](http://www.drivergenius.com/zhuangji.asp)
+- [自由天空驱动包(万能驱动助理win10) v7.18.1225.1 完整版](https://www.3987.com/xiazai/1/278/Driver/8150.html)
+
+
+
+## 五、手机&电脑
 
 **手机维修：**
 
@@ -460,7 +469,7 @@
 - [ThinkPad E430笔记本怎么拆机清灰?](https://m.jb51.net/softjc/454333.html)
 
 
-## 五、影视后期
+## 六、影视后期
 
 **影视网站：** 
 

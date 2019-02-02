@@ -3,20 +3,43 @@
 ☛**实用软件：** 
 
 - [f.lux](https://justgetflux.com/)（护眼软件）  [荐] 
+
 - 网易邮箱大师（邮箱客户端）  [荐]
+
 - Total_Control（手机屏幕投影到电脑）
-- UltraISO破解版（方便打开iso文件）
+
+- UltraISO破解版（方便打开后缀iso文件，可在 download 文件夹找到）
+
 - WinRAR_x64破解版（注：可在 download 文件夹找到）
+
 - [Bandizip](http://www.bandisoft.com/bandizip/)（韩国人开发的解压缩软件）[荐]
 
   > 介绍：[你的最后一款 Windows 解压缩软件：Bandizip](https://sspai.com/post/35358)
 
-- 快速搜索磁盘文件工具：
+- 快速搜索磁盘文件：
   - [火萤酱](https://j.huoying666.com/)  [荐]
+
   - [Everything](https://www.voidtools.com/)  [荐]
-  - Listary
-  - Wox
-  - Fences
+
+    > 一款快速索引工具，这款仅小软件可以通过访问 NTFS 文件系统的 USN 日志，在数秒内检索完成几 TB 大小硬盘中的上百万个文件，并实时监测所有文件的增改情况，可以说是 Windows 平台上最快速的文件索引工具！就算文件所在目录很深，搜索出来基本感觉不到花了时间。
+
+  - [Listary](https://listary.cn.uptodown.com/windows)
+
+    > 和 Everything 一样，也是一款极其方便的磁盘文件搜索工具，它比 Everything 好的地方在于可以启动应用，特定的站内搜索或定义关键字。
+
+- [Wox](http://www.wox.one/)
+
+  > 国产开源免费的软件快捷启动工具 Wox。它可以搜索电脑上的程序，通过快捷键呼出搜索框，输入少量字母快速匹配出对应软件并启动、打开网页、翻译单词、或配合 Everything 插件搜索任意文件等等。
+  >
+  > 使用参考：[Wox - 开源免费强大的快捷启动器辅助工具，快速高效率打开软件/搜索文件！](https://www.iplaysoft.com/wox.html)
+
+- [Fences](https://fences.cn.uptodown.com/windows)
+
+  > 桌面整理神器，通过 Fences，你可以在桌面上创建若干区域，将桌面图标以文件类型、名称、日期、大小等自动归类，还可以自由定制区块外观、大小、位置等，让工作文件夹更醒目。
+
+- [Cold Turkey](https://getcoldturkey.com/)
+
+  > 效率利器，可以在特定时间内禁止访问某些网页，比如微博、知乎等等。对于自控能力差的，简直就是像老师一样的存在。
 
 - [小黄条](http://www.6fcsj.com/)（跨平台轻量级 ToDolist）
 
@@ -183,6 +206,32 @@
 - 「极简图床」浏览器插件（之前一直很好用的，但 2018-10-12 出现登陆异常，现已弃用）
 - [PicGo 客户端](https://github.com/Molunerfinn/PicGo)  [荐]  [必备]
 - 「qiniu upload files」浏览器插件（弃用）
+
+☛**与电脑系统有关：**
+
+- [微PE工具箱](http://www.wepe.com.cn)  [荐]
+
+  > 这款微PE的好处就是绝对纯净，没有任何的捆绑软件及主页，最重要的一点就是该工具绿色，没有软件安装过程，直接双击 exe 文件即可开始制作 u 盘启动盘。
+
+- [EasyBCD](https://neosmart.net/EasyBCD/)（用于配置和调整系统引导问题）
+
+- [CPU-Z](https://dl.pconline.com.cn/html_2/1/60/id=786&pn=0.html)（最权威的处理器和相关系统信息识别工具）
+
+- [AS SSD Benchmark](https://www.techspot.com/downloads/6014-as-ssd-benchmark.html)（一款固态硬盘性能的测试软体）
+
+- [鲁大师](http://www.ludashi.com/)
+
+  > 一款计算机硬件及手机硬件检测软件，可以向用户提供显示各种台式机、笔记本电脑的配置的厂商信息，辨别硬件真伪。鲁大师还提供监测、性能测试、驱动程序更新、电池健康监控、硬件温度监测、一键电脑优化等功能，对各个关键性部件实时监控预警。建议只是偶尔用下，下载一个绿色版的鲁大师使用就好——[鲁大师 5.15 绿色版](http://www.onlinedown.net/soft/634024.htm)。
+
+- [Oem7F7激活工具](https://dl.pconline.com.cn/download/487988.html)（一款易用的windows7激活工具）
+
+- [Microsoft Toolkit](http://xiazai.zol.com.cn/detail/44/437460.shtml)
+
+  > Microsoft Toolkit是一款老牌的激活工具，可以用来激活MS Office和Win系统，它和KMSpico原理是一样的，最新支持win10和office2016的激活。使用方法：激活非常简单，运行软件后，点击右下角的图标，分别可以激活 office 和 win 系统，在激活界面，直接点击绿色的“EZ-Activator”，一键激活。也可以安装 kms 激活服务，当激活时间快到期的时候，会再次自动激活，一劳永逸，相当于是永久激活了。
+  >
+  > PS：我有用来激活 Win7 下的 MS Office2013。激活步骤如下：打开Microsoft Toolkit，选择 Office 图标，然后切换到 Activation 选项卡，点 Activate 等待激活完成即可（每180天再激活一次）。
+
+- 各品牌电脑OEM（含Acer、Dell、HP、Lenovo、Thinkpad电脑OEM；可在 download 文件夹找到）
 
 
 
