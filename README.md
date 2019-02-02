@@ -443,6 +443,8 @@
 
 - [驱动精灵离线装机版 - 以及万能驱动包下载](http://www.drivergenius.com/zhuangji.asp)
 - [自由天空驱动包(万能驱动助理win10) v7.18.1225.1 完整版](https://www.3987.com/xiazai/1/278/Driver/8150.html)
+- [Microsoft .NET Framework 4.5官网下载](https://www.microsoft.com/zh-cn/download/details.aspx?id=30653)
+- [Internet Explorer 11（脱机安装程序）](https://support.microsoft.com/zh-cn/help/18520/download-internet-explorer-11-offline-installer)
 
 
 

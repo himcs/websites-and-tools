@@ -17,7 +17,9 @@
   > 介绍：[你的最后一款 Windows 解压缩软件：Bandizip](https://sspai.com/post/35358)
 
 - 快速搜索磁盘文件：
-  - [火萤酱](https://j.huoying666.com/)  [荐]
+  - [火萤酱](https://j.huoying666.com/)  [荐]  [必备]
+
+    > 火萤酱是一款基于 PC 端的 Windows 效率检索工具，对标 Everthing、Wox 以及苹果自带的Spotlight 以及 Alfred，具体功能包含本地文件搜索、网络搜索、软件快速启动高效搜索、快速启动软件，同时，还包括了系统命令、软件卸载、计算器、翻译、快递查询、二维码生成、天气、数字大小写转换、颜色转换、base64转码、时间戳转换、进制转换、股票查询、汇率转换、IP查询、号码归属地查询等及众多小工具。
 
   - [Everything](https://www.voidtools.com/)  [荐]
 
@@ -231,7 +233,21 @@
   >
   > PS：我有用来激活 Win7 下的 MS Office2013。激活步骤如下：打开Microsoft Toolkit，选择 Office 图标，然后切换到 Activation 选项卡，点 Activate 等待激活完成即可（每180天再激活一次）。
 
+- MSI Smart Tool
+
+  > MSI Smart Tool 是 MSI 微星官方提供的一个 USB3.0 注入工具，能够为 Win7 系统镜像注入 USB 3.0 驱动，并可以制作 Win7 系统安装 U 盘，从而解决微星以及其它品牌 Intel 100/200/300 系列主板以及 AMD 300 系列主板无法使用 U 盘安装 Win7 系统的问题。
+  >
+  > 参考：[微星USB3.0注入工具(MSI Smart Tool)下载 v1.0.0.25 官方版 - 比克尔下载](http://www.bkill.com/download/171033.html)
+
 - 各品牌电脑OEM（含Acer、Dell、HP、Lenovo、Thinkpad电脑OEM；可在 download 文件夹找到）
+
+- [VNC-Viewer](https://www.realvnc.com/en/connect/download/viewer/)（用来远程连接 Linux 系统，但前提要 IP 能 ping 通）
+
+  > VNC (Virtual Network Console)，即虚拟网络控制台，它是一款基于 UNIX 和 Linux 操作系统的优秀远程控制工具软件，由著名的 AT&T 的欧洲研究实验室开发，远程控制能力强大，高效实用，并且免费开源。
+  >
+  > VNC 基本上是由两部分组成：一部分是客户端的应用程序(vncviewer)；另外一部分是服务器端的应用程序(vncserver)。在任何安装了客户端的应用程序(vncviewer)的计算机都能十分方便地与安装了服务器端的应用程序(vncserver)的计算机相互连接。
+  >
+  > 参考：[如何使用VNC进行远程桌面控制](https://jingyan.baidu.com/article/d2b1d102b85a825c7e37d405.html)
 
 
 
