@@ -119,6 +119,10 @@
 
 - [PotPlayer](https://potplayer.daum.net/)  [荐]
 
+- [VLC media player](https://www.videolan.org/vlc/index.zh.html)
+
+  > VLC 是一款自由、开源的跨平台多媒体播放器及框架，可播放大多数多媒体文件，以及 DVD、音频 CD、VCD 及各类流媒体协议。可在所有平台运行：Windows, Linux, Mac OS X, Unix, iOS, Android 等。
+
 ☛**磁盘分区/数据恢复：** 
 
 - DiskGenius
