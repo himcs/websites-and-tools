@@ -2,11 +2,10 @@
 
 ☛**实用软件：** 
 
-- f.lux（护眼软件）  [荐] 
-- Keynote（做 Gif 动图演示软件）
+- [f.lux](https://justgetflux.com/)（护眼软件）  [荐] 
 - 网易邮箱大师（邮箱客户端）  [荐]
 - Total_Control（手机屏幕投影到电脑）
-- UltraISO破解版
+- UltraISO破解版（方便打开iso文件）
 - WinRAR_x64破解版（注：可在 download 文件夹找到）
 - [Bandizip](http://www.bandisoft.com/bandizip/)（韩国人开发的解压缩软件）[荐]
 
@@ -403,7 +402,7 @@
   >
   > 1.[GitHub Table of Contents](https://greasyfork.org/en/scripts/18344-github-table-of-contents)（在README和WIKI页面旁边自动生成目录）  [荐]  [必备]
   >
-  > 2.[GitHub Image Preview](https://greasyfork.org/en/scripts/19773-github-image-preview)（图片预览）  [荐]  [必备]
+  > 2.[GitHub Image Preview](https://greasyfork.org/en/scripts/19773-github-image-preview)（图片预览）  [荐]  
   >
   > 3.[GitHub Code Colors](https://greasyfork.org/en/scripts/18141-github-code-colors)（在代码颜色定义旁边添加颜色）
 
@@ -512,6 +511,8 @@
   > Tab Resize是一款可以将显示屏变成二、三个独立视图，并等分在显示屏的画面，当然用户也可以自行分割画面，当一键立即就可将页面等分，因此在一个屏幕中，同时看到多个网页。Tab Resize内建了五种不同的视窗排列样式，只要点一下 Tab Resize 按钮再按你要的分割方式，即可快速分割、排列并占满你的显示屏。要恢复时，只要再点“Undo”按钮即可恢复就可以了。
   >
   > 使用：[Tab Resize：浏览器屏幕分割插件](http://chromecj.com/accessibility/2017-09/809.html)
+
+- [Holmes](https://chrome.google.com/webstore/detail/holmes/gokficnebmomagijbakglkcmhdbchbhn/related)（搜索浏览器书签）
 
 (3) 编程相关：
 
