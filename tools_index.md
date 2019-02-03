@@ -83,12 +83,14 @@
   >
   > 工具使用：[使用指南](https://github.com/elliottzheng/CopyTranslator/wiki/Usage-%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97)
 
-☛**办公/团队协作：**
+☛**产品经理/办公/团队协作：**
 
+- [Axure](https://www.axure.com/)（制作产品原型软件）
+- [摹客（Mockplus）](https://www.mockplus.cn/)（制作产品原型软件）
+- [墨刀](https://modao.cc/)（强大易用的原型设计与协同工具）
+- Xmind（思维导图）
 - [石墨文档](https://shimo.im/)（可多人实时协作的云端 Office，如果不愿意本地安装 MS Office，这是一个选择）
-
 - Keynote（Keynote 是一个演示幻灯片应用软件，由苹果计算机公司出品，运行于 OS X 操作系统）
-
 - [坚果云](https://www.jianguoyun.com/)
 
   > 坚果云是一款便捷、安全的专业网盘产品，通过文件自动同步、共享、备份功能，为用户实现智能文件管理，提供高效办公解决方案。支持Windows、Mac、Linux、iOS（iPad及iPhone）、Android、Windows Phone、Web七大系统。
@@ -155,18 +157,29 @@
 - 易我数据恢复
 - 强力数据恢复
 
-☛**编辑器&IDE：** 
+☛**编辑器&IDE/开发：** 
 
 - [Notepad++](https://notepad-plus-plus.org/download/v7.6.1.html)  [荐]
+
 - EditPlus
+
 - Sublime Text3
+
 - [VS Code](https://code.visualstudio.com/)  [荐]
 
-  > Visual Studio Code（简称VS Code）是一个由微软开发的，同时支持Windows、Linux和macOS操作系统且开放源代码的文本编辑器，它支持调试，并内置了Git 版本控制功能，同时也具有开发环境功能，例如代码补全（类似于 IntelliSense）、代码片段和代码重构等，该编辑器支持用户自定义配置，例如改变主题颜色、键盘快捷方式等各种属性和参数，还在编辑器中内置了扩展程序管理的功能。
+  > Visual Studio Code（简称VS Code）是一个由微软开发的，同时支持 Windows、Linux 和 macOS 操作系统且开放源代码的文本编辑器，它支持调试，并内置了Git 版本控制功能，同时也具有开发环境功能，例如代码补全（类似于 IntelliSense）、代码片段和代码重构等，该编辑器支持用户自定义配置，例如改变主题颜色、键盘快捷方式等各种属性和参数，还在编辑器中内置了扩展程序管理的功能。
 
-- Atom
+- [Atom](https://atom.io/)
 
-  > Atom是由GitHub开发的自由及开放源代码的文字与代码编辑器，支持macOS、Windows和Linux操作系统[4]，支持Node.js所写的插件，并内置由Github提供的Git版本控制系统。多数的延伸包皆为开放源代码授权，并由社群建置与维护。Atom基于使用Chromium和Node.js的跨平台应用框架Electron（最初名为Atom Shell），并使用CoffeeScript和Less撰写。Atom也可当作IDE使用。被它的开发者称为“21 世纪的“黑客”文本编辑器（hackable text editor for the 21st Century）”。
+  > Atom 是由 GitHub 开发的自由及开放源代码的文字与代码编辑器，支持 macOS、Windows 和 Linux 操作系统，支持 Node.js 所写的插件，并内置由 Github 提供的 Git 版本控制系统。多数的延伸包皆为开放源代码授权，并由社群建置与维护。Atom 基于使用 Chromium 和 Node.js 的跨平台应用框架 Electron（最初名为 Atom Shell），并使用 CoffeeScript 和 Less 撰写。Atom 也可当作 IDE 使用。被它的开发者称为“21 世纪的“黑客”文本编辑器（hackable text editor for the 21st Century）”。
+
+- [HBuilder](http://www.dcloud.io/)
+
+  > HBuilder 是 DCloud（数字天堂）推出的一款支持 HTML5 的 Web 开发 IDE。HBuilder 的编写用到了 Java、C、Web 和 Ruby。HBuilder 本身主体是由 Java 编写，它基于 Eclipse，所以顺其自然地兼容了 Eclipse 的插件。快，是HBuilder的最大优势，通过完整的语法提示和代码输入法、代码块等，大幅提升HTML、JS、CSS 的开发效率。
+
+- [JD-Gui](http://jd.benow.ca/)
+
+  > JD 分为 JD-GUI、JD-Eclipse 两种运行方式，JD-GUI 是以单独的程序的方式运行，JD-Eclipse 则是以一个 Eclipse 插件的方式运行。JD-GUI 是一个独立图形界面的 Java 源代码 `.class` 文件反编译工具。）
 
 ☛**图片浏览/编辑：**
 
