@@ -471,7 +471,22 @@
 
 
 
-## 五、手机&电脑
+## 五、电脑
+
+**电脑维修：**
+
+- [网线RJ-45接头制作](https://tieba.baidu.com/p/2126498185?red_tag=3255758856)
+- [ThinkPad E430笔记本怎么拆机清灰?](https://m.jb51.net/softjc/454333.html)
+
+**电脑效率操作：**
+
+- [Windows效率操作(包括常用快捷键和命令及使用技巧).md](./01.computer/02-Windows效率操作(包括常用快捷键和命令及使用技巧).md)
+- [电脑系统安装教程(Windows、Mac、Linux).md](./01.computer/04-电脑系统安装教程(Windows、Mac、Linux).md)
+- [Win7图标丢失、不正常显示的修复方法.md](./01.computer/05-Win7图标丢失、不正常显示的修复方法.md)
+
+
+
+## 六、手机
 
 **手机维修：**
 
@@ -488,13 +503,10 @@
 
 - [电信设备进网管理-手机真伪查询](http://www.tenaa.com.cn/WSFW/flagvalidate.aspx)
 
-**电脑维修：**
-
-- [网线RJ-45接头制作](https://tieba.baidu.com/p/2126498185?red_tag=3255758856)
-- [ThinkPad E430笔记本怎么拆机清灰?](https://m.jb51.net/softjc/454333.html)
 
 
-## 六、影视后期
+
+## 七、影视后期
 
 **影视网站：** 
 

@@ -165,7 +165,7 @@
 
 - Sublime Text3
 
-- [VS Code](https://code.visualstudio.com/)  [荐]
+- [Visual Studio Code](https://code.visualstudio.com/)  [荐]
 
   > Visual Studio Code（简称VS Code）是一个由微软开发的，同时支持 Windows、Linux 和 macOS 操作系统且开放源代码的文本编辑器，它支持调试，并内置了Git 版本控制功能，同时也具有开发环境功能，例如代码补全（类似于 IntelliSense）、代码片段和代码重构等，该编辑器支持用户自定义配置，例如改变主题颜色、键盘快捷方式等各种属性和参数，还在编辑器中内置了扩展程序管理的功能。
 
