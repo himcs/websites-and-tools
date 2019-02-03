@@ -1,3 +1,4 @@
+<a name="top"></a>
 <div align="center">
     <img src="./assets/websites_and_tools_logo.png"></img>
 </div>
@@ -523,7 +524,8 @@
 - [音乐直链搜索](http://music.liuzhijin.cn/)
 
 <div align="right">
-    <a href="#前言">回到顶部</a>
+    <a href="#top">回到顶部</a>
 </div>
+
 
 
