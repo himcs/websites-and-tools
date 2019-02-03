@@ -3,6 +3,8 @@
 [![license](https://img.shields.io/badge/license-Attribution--NonCommercial%204.0%20-brightgreen.svg)](https://github.com/doocs/advanced-java/blob/master/LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-brightgreen.svg)](http://makeapullrequest.com)
 
+![](./assets/logo.png)
+
 分类收藏一些有用的网站，工具和软件，以及关于 Windows、Mac、Linux 系统的软件操作和使用技巧等，提高做事效率。“工欲善其事，必先利其器”。欢迎大家 star，也欢迎 PR，分享你觉得不错的。
 
 
@@ -80,20 +82,20 @@
 
 **网上课堂&培训架构：**
 
-1、学习
+1.学习
 
 - [Java知识分享网-免费Java资源下载](http://www.java1234.com/)
 - [爱酷学习网-免费高清视频教程在线观看](http://www.icoolxue.com/)
 - [深度开源 - Java开源大全，开源信息发掘、分享、交流](http://www.open-open.com/)
 
-2、知名网课
+2.知名网课
 
 - [网易公开课](https://open.163.com/)
 - [慕课网-程序员的梦工厂](https://www.imooc.com/)
 - [极客学院IT在线教育平台](http://www.jikexueyuan.com/)
   - [极客学院Wiki - IT 技术图文教程库](http://wiki.jikexueyuan.com/)
 
-3、培训机构
+3. 培训机构
 
 - [传智播客](http://www.itcast.cn/)
 - [黑马程序员](http://www.itheima.com/)
@@ -107,7 +109,7 @@
 - [珠峰培训-八年专注前端培训](http://www.zhufengpeixun.cn/)
 - [麦子学院](http://www.maiziedu.com/)
 
-4、网络培训/学习平台（偏 AI 相关课程）
+4.网络培训/学习平台（偏 AI 相关课程）
 
 - [优达学城 (Udacity)](https://cn.udacity.com/)  
 
@@ -156,25 +158,49 @@
 
 **免费图像网站：**
 
-- pexels：https://www.pexels.com/
-- lifeofpix：https://www.lifeofpix.com/
-- foter：https://foter.com/
-- picjumbo：https://picjumbo.com/
-- gratisography：https://gratisography.com/
-- unsplash：https://unsplash.com/  
-- freeimages：https://www.freeimages.com/
-- Pixabay：https://pixabay.com/
-- Canva：https://www.canva.com/photos/free/
-- reshot：https://www.reshot.com/
-- rawpixel：https://www.rawpixel.com/
-- Morguefile：https://morguefile.com/
-- pxhere：https://pxhere.com/
-- ISO Republic：<https://isorepublic.com/>
-- 泼辣有图：http://www.polayoutu.com
-- 别样网-沙沙野：https://www.ssyer.com/
-- 配图神器 Zoommy：https://zoommyapp.com/
+- [Pexels](https://www.pexels.com/)（无版权）
+- [lifeofpix](https://www.lifeofpix.com/)
+- [foter](https://foter.com/)
+- [picjumbo](https://picjumbo.com/)
+- [Gratisography](https://gratisography.com/)（无版权）
+- [Unsplash](https://unsplash.com/ )（无版权）
+- [freeimages](https://www.freeimages.com/)
+- [Pixabay](https://pixabay.com/)（无版权；有高清的照片素材，视频素材，插画素材，还有矢量图素材）
+- [Canva](https://www.canva.com/photos/free/)
+- [reshot](https://www.reshot.com/)
+- [rawpixel](https://www.rawpixel.com/)
+- [Morguefile](https://morguefile.com/)
+- [pxhere](https://pxhere.com/)
+- [ISO Republic](https://isorepublic.com/)
+- [泼辣有图](http://www.polayoutu.com)
+- [别样网-沙沙野](https://www.ssyer.com/)
+- [配图神器 Zoommy](https://zoommyapp.com/)
 
   > Zoommy 是一款桌面客户端应用，支持 Windows、macOS、Linux，可以从 50 家高质量图片网站中搜索超过 50000 张 CC0 授权，或者公有领域的图片，之后便可以随意使用这些图片。
+
+**图标素材：** 
+
+- [Flatlcon](https://www.flaticon.com/)（提供海量免费的 SVG、PNG、WebFont 格式图标素材下载的站点，该网站收录的图标都是单色、平面化素材）
+
+- [Fontello](http://fontello.com/)（可以自定义 icon）
+
+- [Iconfont](https://www.iconfont.cn/)
+
+  > 阿里巴巴矢量图标库是由阿里巴巴体验团队倾力打造的中国第一个最大且功能最全的矢量图标库，提供矢量图标下载、在线存储、格式转换等功能，是设计师和前端开发的便捷工具。
+
+- [Swifticons](https://www.swifticons.com/)（高品质多分类图标素材网站，提供 1456 种高品质图标素材，覆盖了 15 个广泛的分类样式）
+
+- [IconFinder-Free Icons](https://www.iconfinder.com/free_icons)
+
+- [Vexels](https://www.vexels.com/)
+
+- [Icons8](https://icons8.com/)
+
+**Logo素材/设计：**
+
+- [Logomakr](https://logomakr.com/)  [荐]
+- [Free Logo Design](https://www.freelogodesign.org/)
+- [Logo Garden](https://www.logogarden.com/)
 
 **Markdown写作公众号排版网站：**
 
