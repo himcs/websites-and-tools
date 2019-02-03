@@ -2,7 +2,7 @@
 <div align="center">
     <img src="./assets/websites_and_tools_logo.png"></img>
 </div>
-分类收藏一些有用的网站，工具和软件，以及关于 Windows、Mac、Linux 系统的软件操作和使用技巧等，提高做事效率。“工欲善其事，必先利其器”。欢迎大家 star，也欢迎 PR，分享你觉得不错的。
+分类收藏一些有用的网站，工具和软件，以及关于 Windows、Mac、Linux 系统的软件操作和使用技巧等，提高做事效率，“工欲善其事，必先利其器”。欢迎大家 star，也欢迎 PR，分享你觉得不错的。
 
 
 
@@ -534,6 +534,14 @@
 **音乐下载：**
 
 - [音乐直链搜索](http://music.liuzhijin.cn/)
+
+
+
+
+
+## Logo
+
+Power by [logomakr](https://logomakr.com/).
 
 <div align="right">
     <a href="#top">回到顶部</a>
