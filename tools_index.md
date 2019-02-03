@@ -626,6 +626,13 @@
 
 
 
+## :book: 推荐：
+
+- [Awesome-Windows/Awesome](https://github.com/Awesome-Windows/Awesome/blob/master/README-cn.md#%E9%9F%B3%E9%A2%91)：Windows上优质&精选的最佳应用程序及工具列表。
+- [AmazingApps/Amazing-Windows-Apps](https://github.com/AmazingApps/Amazing-Windows-Apps/tree/master/zh-CN)：受 GitHub 项目 [Awesome Windows](https://github.com/Awesome-Windows/Awesome) 启发，本书旨在介绍 Windows 绝妙项目。
+
+
+
 <div align="right">
     <a href="#电脑软件">回到顶部</a>
 </div>
