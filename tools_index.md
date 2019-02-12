@@ -8,6 +8,8 @@
 
 - Total_Control（手机屏幕投影到电脑）
 
+- [乐播投屏](http://www.hpplay.com.cn/)（手机投屏电视，电脑投屏电视的投屏神器）
+
 - UltraISO破解版（方便打开后缀iso文件，可在 download 文件夹找到）
 
 - WinRAR_x64破解版（注：可在 download 文件夹找到）
@@ -15,6 +17,10 @@
 - [Bandizip](http://www.bandisoft.com/bandizip/)（韩国人开发的解压缩软件）[荐]
 
   > 介绍：[你的最后一款 Windows 解压缩软件：Bandizip](https://sspai.com/post/35358)
+
+- [Motrix](https://github.com/agalwood/Motrix)  
+
+  > Motrix 是一款开源免费且界面非常清爽简约的全能型下载软件，它跨平台支持 Windows、Mac、Linux 三大系统，可以支持下载 HTTP、FTP、BT、磁力链接以及下载百度网盘等资源。
 
 - 快速搜索磁盘文件：
   - [火萤酱](https://j.huoying666.com/)  [荐]  [必备]
@@ -469,7 +475,7 @@
 
   > 安装了这个插件，那么在使用 GitHub 的时候就能享受到打开 Atom 的那种左侧漂亮的文件图标体验，它会自动根据 GitHub 项目文件类型自动替换文件图标，让文件看起来更加直观形象。
 
-(2) 实用插件
+(2) 功能增强插件
 - [Tampermonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo)  [荐]  [必备]
 
   > 用户脚本是一段代码，它们能够优化您的网页浏览体验。安装之后，有些脚本能为网站添加新的功能，有些能使网站的界面更加易用，有些则能隐藏网站上烦人的部分内容。在 Greasy Fork 上的用户脚本都是由用户编写并向全世界发表的，您可以免费安装，轻松体验。
@@ -518,6 +524,10 @@
 
 - [EPUBReader](https://chrome.google.com/webstore/detail/epubreader/jhhclmfgfllimlhabjkgkeebkbiadflb?utm_source=chrome-ntp-icon)（可以直接在浏览器中打开 EPUB 格式的电子书阅读）  [荐]
 
+- [Anything to QRcode](https://chrome.google.com/webstore/detail/anything-to-qrcode/calkaljlpglgogjfcidhlmmlgjnpmnmf/related)  [荐]
+
+  > 帮你将网页上的二维码解析出真实的链接地址，或者一键将当前的网页地址、图片网址、选中文字生成二维码图片。可完全离线使用。
+
 - [二維碼生成器 (Quick QR)](https://chrome.google.com/webstore/detail/quick-qr-code-generator/afpbjjgbdimpioenaedcjgkaigggcdpp/related?hl=zh-CN)  [荐]
 
   > 一键生成二维码，自动添加当前网页 URL 为二维码内容，或者手动添加其他内容，可以简单修改二维码样式。
@@ -534,6 +544,10 @@
   >  - chrome商店访问
 
 - [Extensity](https://chrome.google.com/webstore/detail/extensity/jjmflmamggggndanpgfnpelongoepncg/related?utm_source=chrome-ntp-icon)（Chrome插件和应用的开启和关闭）  [荐]  [必备]
+
+- [Context](https://chrome.google.com/webstore/detail/context/aalnjolghjkkogicompabhhbbkljnlka/related)
+
+  > 可以快速开启、禁用全部扩展，或者启用停止单个扩展，还可以让你对扩展进行分组，并且可以快速启用/禁用某个分组的扩展。
 
 - [一键管理所有扩展](https://chrome.google.com/webstore/detail/%E4%B8%80%E9%94%AE%E7%AE%A1%E7%90%86%E6%89%80%E6%9C%89%E6%89%A9%E5%B1%95/lboblnfejcmcaplhnbkkfcienhlhpnni)（浏览器插件开启和关闭）  [荐]
 
@@ -588,19 +602,35 @@
   >
   > 搜索功能，默认只有五条，只可以听，也没有提供下载。所以想单纯听个歌，它是个不错的选择。
 
+- [Holmes](https://chrome.google.com/webstore/detail/holmes/gokficnebmomagijbakglkcmhdbchbhn/related)（搜索浏览器书签）[荐]  [必备]
+
+- [Search by Image (by Google)](https://chrome.google.com/webstore/detail/search-by-image-by-google/dajedkncpodkggklbegccjpmnglmnflm/related)  [荐]  [必备]
+
+  > 通过图片搜索图片：可以在网页上任何的图片身上右键点击进行 Google 的“以图搜图”，缩略图找原图或找相似图片的利器。
+
+- [Context Menu Search](https://chrome.google.com/webstore/detail/context-menu-search/ocpcmghnefmdhljkoiapafejjohldoga/related)  [荐]
+
+  > Chrome 右键默认只能进行 Google 搜索，这枚插件可以为你的右键增加多个搜索引擎，百度、淘宝、必应、360 等等，想用什么搜就用什么搜。
+
+- [IE Tab](https://chrome.google.com/webstore/detail/ie-tab/hehijbfgiekmjfkfjpbkbammjbdenadd)（在 Windows 系统下可以快速切换到 IE 浏览器内核，对付那些不支持 Chrome 的网站）
+
+- [Pushbullet](https://chrome.google.com/webstore/detail/pushbullet/chlffgpmiacpedhhbkiomidkjlcfhogd)（可以快速在 iOS、Android 手机和电脑的 Chrome 之间互相传递文字、链接、图片等信息）
+
+- [APK Downloader](https://chrome.google.com/webstore/detail/apk-downloader/fgljidimohbcmjdabiecfeikkmpbjegm/related)（无需帐号即可直接在 Google Play 商店中直接下载 Android 的 apk 安装包）  [荐]
+
+- [Incognito-Filter](https://chrome.google.com/webstore/detail/incognito-filter/cifilbmpnkjinlkchohdfcpdkmpngiik/related)（让指定的网站在“隐身窗口”中打开，用来对付一些不太想留痕迹的网站）
+
+(3) 开发辅助类插件：
+
+- [WEB前端助手(FeHelper)](https://chrome.google.com/webstore/detail/web%E5%89%8D%E7%AB%AF%E5%8A%A9%E6%89%8Bfehelper/pkgccpejnmalmdinmhkkfafefagiiiad)
+
+  > 包括JSON格式化、二维码生成与解码、信息编解码、代码压缩、美化、页面取色、Markdown与HTML互转、网页滚动截屏、正则表达式、时间转换工具、编码规范检测、页面性能检测、Ajax接口调试、密码生成器、JSON比对工具、网页编码设置、便签笔记。
+
 - [Tab Resize](https://chrome.google.com/webstore/detail/tab-resize-split-screen-l/bkpenclhmiealbebdopglffmfdiilejc/related?utm_source=chrome-ntp-icon)
 
   > Tab Resize是一款可以将显示屏变成二、三个独立视图，并等分在显示屏的画面，当然用户也可以自行分割画面，当一键立即就可将页面等分，因此在一个屏幕中，同时看到多个网页。Tab Resize内建了五种不同的视窗排列样式，只要点一下 Tab Resize 按钮再按你要的分割方式，即可快速分割、排列并占满你的显示屏。要恢复时，只要再点“Undo”按钮即可恢复就可以了。
   >
   > 使用：[Tab Resize：浏览器屏幕分割插件](http://chromecj.com/accessibility/2017-09/809.html)
-
-- [Holmes](https://chrome.google.com/webstore/detail/holmes/gokficnebmomagijbakglkcmhdbchbhn/related)（搜索浏览器书签）
-
-(3) 编程相关：
-
-- [WEB前端助手(FeHelper)](https://chrome.google.com/webstore/detail/web%E5%89%8D%E7%AB%AF%E5%8A%A9%E6%89%8Bfehelper/pkgccpejnmalmdinmhkkfafefagiiiad)
-
-  > 包括JSON格式化、二维码生成与解码、信息编解码、代码压缩、美化、页面取色、Markdown与HTML互转、网页滚动截屏、正则表达式、时间转换工具、编码规范检测、页面性能检测、Ajax接口调试、密码生成器、JSON比对工具、网页编码设置、便签笔记。
 
 ## Ubuntu下软件
 
