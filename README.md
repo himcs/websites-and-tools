@@ -1,9 +1,8 @@
 <a name="top"></a>
 <h1 align="center">
-    <a href="https://github.com/strivebo/websites-and-tools">
-        <img src="./assets/websites_and_tools_logo.png"></img>
-    </a> 
+        <img src="./assets/websites_and_tools_logo.png"></img>  
 </h1>
+
 
 分类收藏一些有用的网站，工具和软件，以及关于 Windows、Mac、Linux 系统的软件操作和使用技巧等，提高做事效率，“工欲善其事，必先利其器”。欢迎大家 star，也欢迎 PR，分享你觉得不错的。
 
@@ -446,7 +445,7 @@
 
 **在线生成短地址：** 
 
-- [短链在线生成-短网址生成器](http://tool.tcode.me/shorturl.html)
+- [短链在线生成-短网址生成器](http://tool.tcode.me/shorturl.html)  [荐]
 - [网址缩短-suo.im短网址](http://suo.im/)
 - [短网址生成-ft12.com短网址](http://www.ft12.com/)
 

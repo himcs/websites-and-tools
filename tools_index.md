@@ -632,6 +632,12 @@
   >
   > 使用：[Tab Resize：浏览器屏幕分割插件](http://chromecj.com/accessibility/2017-09/809.html)
 
+- [Classic Cache Killer](https://chrome.google.com/webstore/detail/classic-cache-killer/kkmknnnjliniefekpicbaaobdnjjikfp?utm_source=chrome-ntp-icon)
+
+  > 是一款 Chrome 缓存自动清理插件，启用之后可以在每个页面加载之前自动清除掉 Chrome 的缓存。
+  >
+  > 插件安装完毕后会在右上角出现一个图标，点击即可控制插件的开关。插件打开时，就会禁用一切缓存，这样我们就可以随心所欲地进行任何设计和开发了，无需担心缓存卡住。不需要禁用缓存的时候，点击一下图标即可关闭插件，开启缓存。
+
 ## Ubuntu下软件
 
 - CrossOver
