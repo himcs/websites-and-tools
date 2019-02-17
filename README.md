@@ -1,7 +1,8 @@
 <a name="top"></a>
-<h1 align="center" style=“width:100%,height:500px”>
+<h1 align="center" style=“width:100%;”>
         <img src="./assets/websites_and_tools_logo.png"></img>  
 </h1>
+
 
 
 
