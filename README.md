@@ -1,7 +1,8 @@
 <a name="top"></a>
-<h1 align="center">
+<h1 align="center" style=“width:100%,height:500px”>
         <img src="./assets/websites_and_tools_logo.png"></img>  
 </h1>
+
 
 
 分类收藏一些有用的网站，工具和软件，以及关于 Windows、Mac、Linux 系统的软件操作和使用技巧等，提高做事效率，“工欲善其事，必先利其器”。欢迎大家 star，也欢迎 PR，分享你觉得不错的。
@@ -42,6 +43,10 @@
 
 - [InfoQ](http://www.infoq.com/cn) 
 - [IT之家](https://www.ithome.com/)
+
+**软件和工具：**
+
+- [少数派](https://sspai.com/)（致力于更好地运用数字产品或科学方法，帮助用户提升工作效率和生活品质）
 
 **学习资料/代码下载：**
 
