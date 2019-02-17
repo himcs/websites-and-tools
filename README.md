@@ -1,6 +1,6 @@
 <a name="top"></a>
 <h1 align="center" style=“width:100%;”>
-        <img src="./assets/websites_and_tools_logo.png"></img>  
+        <img src="./assets/logo.png"></img>  
 </h1>
 
 
