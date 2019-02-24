@@ -127,6 +127,10 @@
   >
   > 使用：[GifCam 5.5 绿色中文汉化版 超强 Gif 动画录制工具](http://www.dayanzai.me/gifcam.html)
 
+- [ScreenToGif ](https://www.screentogif.com/?l=zh_cn)
+
+  > 它是一款屏幕转 Gif 图的软件。而事实上，它不仅可以录制屏幕，同时也包含了摄像头录制，白板书写录制等功能，并且在录制后，可以对录制内容进行增删、修改、压缩等处理。
+
 - [Pointofix](http://www.pointofix.de/download.php)  
 
   > Pointofix 是个很有趣的免费小程序，它可以让我们直接在屏幕上画圈圈、线头、标箭头或打字，方便把整个电脑屏幕当做是个电子白板（或黑板），直接用各种线条、圈圈或箭头、勾勾...等符号，在屏幕的窗口、图案、各种图表中乱涂鸦或做各种标示，拿来当做上课、演讲或做简报时使用，也相当方便。画完之后，还可以直接把刚刚标示的内容与笔迹，保存为一个图像。
@@ -220,7 +224,19 @@
 ☛**远程控制：**
 
 - TeamViewer  [荐]
+
 - 向日葵
+
+- [AnyDesk](https://anydesk.com)
+
+  > AnyDesk 是一个敢在自己标题上宣称「世界上速度最快」的远程桌面工具，针对偶尔使用的个人用户免费，有中文界面，尺寸小巧，只需要一个单文件即可远程控制。各平台客户端都很小，不到 2M。
+  >
+  > 使用：[AnyDesk 中文绿色版 - 号称速度最快最流畅的免费远程桌面连接控制工具](https://www.iplaysoft.com/anydesk.html)
+
+☛**记账管钱：**
+
+- [网易有钱](https://qian.163.com/)
+- [随手记](https://www.sui.com/)
 
 ☛**图床工具：**
 
@@ -347,9 +363,16 @@
 ☛**购物/二手买卖：**
 
 - 闲鱼（阿里产品）
+
 - 孔夫子旧书网（买二手书很便宜）
+
 - 拼多多
+
 - 惠惠助手（找到便宜货）
+
+- [必要](http://www.biyao.com/home/index.html)
+
+  > 全球首家用户直连制造的电子商务平台，采用 C2M 模式实现用户到工厂的亮点直线连接，必要商城去除所有中间流通环节，连接顶级设计师、顶级制造师、顶级制造商，为用户提供顶级品质，平民价格，个性且专属的商品。
 
 ☛**生活/运动：**
 
@@ -637,6 +660,12 @@
   > 是一款 Chrome 缓存自动清理插件，启用之后可以在每个页面加载之前自动清除掉 Chrome 的缓存。
   >
   > 插件安装完毕后会在右上角出现一个图标，点击即可控制插件的开关。插件打开时，就会禁用一切缓存，这样我们就可以随心所欲地进行任何设计和开发了，无需担心缓存卡住。不需要禁用缓存的时候，点击一下图标即可关闭插件，开启缓存。
+
+- [Web Scraper](https://chrome.google.com/webstore/detail/web-scraper/jnhgnonknehpejjnehehllkliplmbmhn/related?utm_source=chrome-ntp-icon)
+
+  > Web Scraper是一款免费的 Chrome 扩展，通过建立 sitemap 遍历网站抓取相应的数据。无需写代码，即可抓取 95% 以上的网站。
+  >
+  > 使用：[ WebScraper 中文文档 · 看云](http://webscraper.top/543178)
 
 ## Ubuntu下软件
 
