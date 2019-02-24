@@ -1,7 +1,8 @@
 <a name="top"></a>
 <h1 align="center" style=“width:100%;”>
-        <img src="./assets/logo-600x307.png"></img>  
+        <img src="./images/logo-600x307.png"></img>  
 </h1>
+
 
 
 分类收藏一些有用的网站，工具和软件，以及关于 Windows、Mac、Linux 系统的软件操作和使用技巧等，提高做事效率，“工欲善其事，必先利其器”。欢迎大家 star，也欢迎 PR，分享你觉得不错的。
