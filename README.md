@@ -1,4 +1,5 @@
 <a name="top"></a>
+
 <h1 align="center" style=“width:100%;”>
         <img src="./images/logo-600x307.png"></img>  
 </h1>
@@ -9,9 +10,9 @@
 
 
 
-## 一、学习网站
+## 1. 学习网站
 
-**资源导航类：** 
+**(1) 资源导航类：** 
 
 - [编程导航-ITnavigation](http://www.redbanners.cn/)
 - [Tool321_不可错过任何一个工具](http://tool321.com/cn/index.html)
@@ -71,7 +72,7 @@
 - 国外：[GitHub](https://github.com/)（这个不用说了。 2018-06-04宣布 75 亿美元被微软收购）
 - 国外：[GitLab](https://www.gitlab.com/)（可以免费创建私有仓库；GitLab 让开发团队对他们的代码仓库拥有更多的控制）
 
-**技术书下载：** 
+**书籍搜索/下载：** 
 
 - [Love2.io](https://love2.io/)
 
@@ -79,6 +80,10 @@
   >
 
 - [SIMPLE求知网](http://www.simple000.com/index.php)（为编程爱好者提供计算机电子书等电子资料免费资源下载）
+
+- [bookset - 精品电子书免费下载](https://bookset.me/)
+
+- [SoBooks](https://sobooks.cc/)
 
 **资源下载：** 
 
@@ -225,7 +230,7 @@
 
 
 
-## 二、编程学习
+## 2. 编程开发
 
 ### 算法和数据结构
 
@@ -259,42 +264,6 @@
 **前端：**
 
 - [前端文档工具](http://www.css88.com/nav/)
-
-
-
-### 机器学习
-
-**（1）资料：** 
-
-- 莫凡 Python&机器学习：https://morvanzhou.github.io/about/
-- 吴恩达 Coursera 机器学习（即，2014斯坦福大学机器学习）:
-  > 课程免费，侧重于基本的原理和工程实现，对初学者相对友好。字幕中英可选。
-  >
-  > - 官方：https://www.coursera.org/learn/machine-learning
-  > - 或者 B 站观看：https://www.bilibili.com/video/av9912938/ 
-
-- 吴恩达深度学习课程：[网易云课堂 deeplearning.ai](https://mooc.study.163.com/university/deeplearning_ai#/c)
-- 李飞飞的 CS231n：
-  > B 站(中文)：[斯坦福深度学习课程CS231N 2017中文字幕版+全部作业参考](https://www.bilibili.com/video/av17204303?from=search&seid=9110297428234152748)
-  >
-  > B 站(英文)：[斯坦福2017季CS231n深度视觉识别课程视频（by Fei-Fei Li, Justin Jo](https://www.bilibili.com/video/av13260183/)
-
-- 台大_李宏毅老师：
-  > 大家可能看过《一天搞懂深度学习》的PPT，作者是台湾大学的李宏毅老师。其实，李宏毅老师还有门深度学习的课程，视频也挂在网上。这门课主要针对初学者，而且，不需要有经典的机器学习基础（其实，深度学习入门，比经典的机器学习更容易）。课程的内容深入浅出，训练和预测样本都是各种数码宝贝和二次元卡通人物，绝对让你耳目一新。好像没有字幕，中文授课（台湾腔）。课程链接：http://speech.ee.ntu.edu.tw/~tlkagk/courses_ML17.html 
-  >
-  > B站视频：李宏毅《一天搞懂深度学习》https://www.bilibili.com/video/av16543434/ 
-  >
-  > B站视频：[李宏毅机器学习(2017)](https://www.bilibili.com/video/av10590361?from=search&seid=4551168458676096923) 
-  >
-  > B站视频：[李宏毅深度学习(2017)](https://www.bilibili.com/video/av9770302/)
-
-- 台湾_林轩田老师的公开课《机器学习基石》和《机器学习技法》 都是中文授课：
-  > - 《机器学习基石》：https://www.bilibili.com/video/av1624332?from=search&seid=6409383070355550347
-  > - 《机器学习技法》：https://www.bilibili.com/video/av12469267/
-
-**（2）比赛：** 
-
-- [kaggle](https://www.kaggle.com/)
 
 ### 求职面试
 
@@ -364,7 +333,9 @@
   >
   > 了解下：[又是一个名叫草泥马的项目：thefuck](https://segmentfault.com/a/1190000002740344)
 
-## 三、在线网站
+
+
+## 3. 在线网站
 
 **在线工具：**
 
@@ -380,6 +351,7 @@
 **在线制作思维导图：**
 
 - [幕布](https://mubu.com/apps) （也有 Win、MacOS 等客户端）
+- [百度脑图](http://naotu.baidu.com/)
 
 **在线转换Chrome浏览器插件为crx文件：** 
 
@@ -473,7 +445,9 @@
 
 - [IPIP.NET](https://www.ipip.net/ip.html)  [荐]
 
-## 四、资源下载
+
+
+## 4. 资源下载
 
 **电脑系统：** 
 
@@ -484,7 +458,7 @@
 
 
 
-## 五、电脑
+## 5. 电脑技能
 
 **电脑维修：**
 
@@ -499,7 +473,7 @@
 
 
 
-## 六、手机
+## 6. 手机技能
 
 **手机维修：**
 
@@ -519,7 +493,7 @@
 
 
 
-## 七、影视后期
+## 7. 影视后期
 
 **影视网站：** 
 

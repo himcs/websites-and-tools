@@ -1,4 +1,6 @@
-## 电脑软件
+<a name="top"></a>
+
+## 1. 电脑工具
 
 ☛**实用软件：** 
 
@@ -286,7 +288,7 @@
 
 
 
-## 手机APP
+## 2. 手机应用
 
 ☛**技术学习/行业新闻：**
 
@@ -436,7 +438,7 @@
 
 
 
-## Chrome插件
+## 3. 谷歌扩展
 
 (1) GitHub 插件
 
@@ -667,7 +669,9 @@
   >
   > 使用：[ WebScraper 中文文档 · 看云](http://webscraper.top/543178)
 
-## Ubuntu下软件
+
+
+## 4. Linux工具
 
 - CrossOver
 
@@ -675,7 +679,7 @@
 
 
 
-## MacOS下软件
+## 5. Mac工具
 
 - [Things](https://culturedcode.com/things/whats-new/)
 
@@ -699,6 +703,7 @@
 
 
 <div align="right">
-    <a href="#电脑软件">回到顶部</a>
+    <a href="#top">回到顶部</a>
 </div>
+
 
