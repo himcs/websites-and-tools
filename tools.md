@@ -93,12 +93,18 @@
 
 ☛**产品经理/办公/团队协作：**
 
-- [Axure](https://www.axure.com/)（制作产品原型软件）
-- [摹客（Mockplus）](https://www.mockplus.cn/)（制作产品原型软件）
+- [Axure](https://www.axure.com/)（产品原型制作）
+
+- [摹客（Mockplus）](https://www.mockplus.cn/)（产品原型制作）
+
 - [墨刀](https://modao.cc/)（强大易用的原型设计与协同工具）
-- Xmind（思维导图）
+
+- Xmind（思维导图~）
+
 - [石墨文档](https://shimo.im/)（可多人实时协作的云端 Office，如果不愿意本地安装 MS Office，这是一个选择）
+
 - Keynote（Keynote 是一个演示幻灯片应用软件，由苹果计算机公司出品，运行于 OS X 操作系统）
+
 - [坚果云](https://www.jianguoyun.com/)
 
   > 坚果云是一款便捷、安全的专业网盘产品，通过文件自动同步、共享、备份功能，为用户实现智能文件管理，提供高效办公解决方案。支持Windows、Mac、Linux、iOS（iPad及iPhone）、Android、Windows Phone、Web七大系统。
@@ -364,13 +370,19 @@
 
 ☛**购物/二手买卖：**
 
-- 闲鱼（阿里产品）
+- 淘宝
+
+- 网易考拉（网易旗下以跨境业务为主的综合型电商）
+
+- 唯品会（主营业务为互联网在线销售品牌折扣商品）
+
+- 闲鱼（阿里旗下产品）
 
 - 孔夫子旧书网（买二手书很便宜）
 
 - 拼多多
 
-- 惠惠助手（找到便宜货）
+- 惠惠助手（网易有道旗下购物比价工具，也有浏览器插件~）
 
 - [必要](http://www.biyao.com/home/index.html)
 
@@ -691,7 +703,15 @@
 
 - [iTerm2](https://www.iterm2.com/)
 
-  > macOS 下的一款开源的终端工具，功能十分强大，可以作为原生的终端工具的替代者。
+  > MacOS 下的一款开源的终端工具，功能十分强大，可以作为原生的终端工具的替代者。
+  >
+  > 使用：[使用iTerm2替代Mac自带Terminal终端](https://blog.csdn.net/CHENYUFENG1991/article/details/50492626)
+
+- SSH Shell Mac
+
+  > 一款 Mac 上专业的终端 SSH 工具，SSH Shell Mac版类似于SecureCRT，支持 SSH1、SSH2、Telnet 等远程连接，同时具有很多实用和专业的辅助功能，支持广泛的终端仿真、文件传输、脚本等。
+
+- Mindnode（Mac、iOS平台思维导图制作~）
 
 
 
@@ -699,6 +719,7 @@
 
 - [Awesome-Windows/Awesome](https://github.com/Awesome-Windows/Awesome/blob/master/README-cn.md#%E9%9F%B3%E9%A2%91)：Windows上优质&精选的最佳应用程序及工具列表。
 - [AmazingApps/Amazing-Windows-Apps](https://github.com/AmazingApps/Amazing-Windows-Apps/tree/master/zh-CN)：受 GitHub 项目 [Awesome Windows](https://github.com/Awesome-Windows/Awesome) 启发，本书旨在介绍 Windows 绝妙项目。
+- （待更……
 
 
 

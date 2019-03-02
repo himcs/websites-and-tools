@@ -10,9 +10,26 @@
 
 
 
-## 1. 学习网站
+## 1. 有用网站
 
-**(1) 资源导航类：** 
+**浏览器主页推荐：**
+
+-  [KIM主页](https://www.zhuye.kim/)
+-  [星空导航](https://www.starnavi.cn)
+-  [大马路](https://dama.lu/)
+-  [简约导航](https://www.jianavi.cn/)
+-  [某柠檬导航](https://www.moulem.com/j.html)
+-  [Infinity](https://cn.infinitynewtab.com/)（插件；新一代的标签页，一个更好用，更强大的新标签页~）
+
+**搜索类网站：** 
+
+- [国外搜索引擎大全-百鸣](http://www.baimin.com/world/557.htm)
+- [虫部落 — 让搜索更简单](http://www.chongbuluo.com/)  [荐]
+- [Bird.so 小众搜索引擎](https://bird.so/)
+- [史莱姆搜索](http://www.slimego.cn/)
+- [我的盘 - 最好用的网盘搜索引擎](http://www.wodepan.com/)
+
+**资源导航类：** 
 
 - [编程导航-ITnavigation](http://www.redbanners.cn/)
 - [Tool321_不可错过任何一个工具](http://tool321.com/cn/index.html)
@@ -141,14 +158,6 @@
 - [机器之心](https://www.jiqizhixin.com/)
   - 知乎专栏：[机器之心](https://zhuanlan.zhihu.com/jiqizhixin)
 - [专知](http://www.zhuanzhi.ai/)
-
-**搜索类网站：** 
-
-- [国外搜索引擎大全-百鸣](http://www.baimin.com/world/557.htm)
-- [虫部落 — 让搜索更简单](http://www.chongbuluo.com/)  [荐]
-- [Bird.so 小众搜索引擎](https://bird.so/)
-- [史莱姆搜索](http://www.slimego.cn/)
-- [我的盘 - 最好用的网盘搜索引擎](http://www.wodepan.com/)
 
 **兼职&实习：** 
 
@@ -335,7 +344,7 @@
 
 
 
-## 3. 在线网站
+## 3. 在线工作
 
 **在线工具：**
 
