@@ -303,10 +303,20 @@
 
 **（4）制作简历：**
 
+- [冷熊简历](http://cv.ftqq.com/#)  [荐]
+
+  > 一款 Markdown 简历工具，支持 Markdown 实时预览，下载 MD 文件，一键转化为 PDF。另外添加了常用内容片段，简历内容自动实时保存。
+
+- [CyC2018/Markdown-Resume](https://github.com/CyC2018/Markdown-Resume)
+
 - [五百丁 - 中国领先的简历制作平台](http://www.500d.me/)
+
 - [乔布简历](http://cv.qiaobutang.com/)
+
 - [Docer稻壳儿](http://www.docer.com/)
+
 - [超级简历](https://www.wondercv.com/)
+
 - [OfficePLUS](http://office.mmais.com.cn/Template/Home.shtml)
 
 **（5）接项目平台：** 

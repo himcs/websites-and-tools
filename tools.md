@@ -83,31 +83,20 @@
   >
   > 参考知乎：[用这个漂亮的工具将方程式截图迅速转换为 LaTeX](https://zhuanlan.zhihu.com/p/48077774)
 
-- [CopyTranslator](https://hypercube.top/copytranslator/)  [荐]
+- [CopyTranslator](https://hypercube.top/copytranslator/)  [荐] 
 
   > 在 PDF 文件中阅读外文 paper 的时候，复制内容，即可翻译。这款软件使用的是谷歌翻译的 API，在翻译的质量和响应速度上都有保证。
   >
-  > GitHub 地址：https://github.com/elliottzheng/CopyTranslator
+  > GitHub 地址：https://github.com/CopyTranslator/CopyTranslator
   >
   > 工具使用：[使用指南](https://github.com/elliottzheng/CopyTranslator/wiki/Usage-%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97)
-
-☛**产品经理/办公/团队协作：**
-
-- [Axure](https://www.axure.com/)（产品原型制作）
-
-- [摹客（Mockplus）](https://www.mockplus.cn/)（产品原型制作）
-
-- [墨刀](https://modao.cc/)（强大易用的原型设计与协同工具）
-
-- Xmind（思维导图~）
-
-- [石墨文档](https://shimo.im/)（可多人实时协作的云端 Office，如果不愿意本地安装 MS Office，这是一个选择）
-
-- Keynote（Keynote 是一个演示幻灯片应用软件，由苹果计算机公司出品，运行于 OS X 操作系统）
-
-- [坚果云](https://www.jianguoyun.com/)
-
-  > 坚果云是一款便捷、安全的专业网盘产品，通过文件自动同步、共享、备份功能，为用户实现智能文件管理，提供高效办公解决方案。支持Windows、Mac、Linux、iOS（iPad及iPhone）、Android、Windows Phone、Web七大系统。
+  >
+  > - 在打开 `监听剪贴板` 选项后，只需选中文字，并将鼠标悬停在选中文字上方长按不动超过 0.3s 后释放鼠标，也就是长按后释放，即可复制
+  > - 全局热键 `Shift+F1`：可以用它来托盘化和恢复 CopyTranslator
+  > - 全局热键 `Shift+F2`：可以用它在 `对照模式` 和 `专注模式` 中切换
+  > - 在 `对照模式` 中，可以在原文框中 `Ctrl+Enter` 可以快速翻译框内内容
+  >
+  > 注：除了该软件，「天若OCR文字识别工具」这个也可以实现翻译，可以考虑使用。
 
 **☞效率工具：** 
 
@@ -147,13 +136,37 @@
 
 - 天若OCR文字识别工具  [荐]  [必备]
 
-  > 我们在平时办公或上网时常常会遇到想要「复制图片里的文字」的难题，这时我们就需要 OCR 软件来将图片识别成文字了。尽管专业的 OCR 文字识别电脑端软件很多，手机 APP 也不少，但如果你想快速复制电脑屏幕上任意地方的文字的话，大多这类工具都不够便捷。如果能像 QQ 截图那么方便，鼠标拉个框框选择区域，然后直接识别出截图里的文字那就很好了。天若 OCR 文字识别工具正是这样一款好用的免费软件。没有找到官网，这个为网上找到的百度网盘下载地址：[天若OCR更新网盘](<https://pan.baidu.com/s/1P2xb9kBwX1gj8j2_APivZw>)（注：也可以在 download 文件夹找到）
+  > 我们在平时办公或上网时常常会遇到想要「复制图片里的文字」的难题，这时我们就需要 OCR 软件来将图片识别成文字了。尽管专业的 OCR 文字识别电脑端软件很多，手机 APP 也不少，但如果你想快速复制电脑屏幕上任意地方的文字的话，大多这类工具都不够便捷。如果能像 QQ 截图那么方便，鼠标拉个框框选择区域，然后直接识别出截图里的文字那就很好了。天若 OCR 文字识别工具正是这样一款好用的免费软件。没有找到官网，这个为网上找到的百度网盘下载地址：[天若OCR更新网盘](<https://pan.baidu.com/s/1P2xb9kBwX1gj8j2_APivZw>)（注：也可以在 tools-download 文件夹找到）
   >
   > 使用方法：[天若ocr文字识别工具，集合百度、腾讯、有道、搜狗  - 吾爱破解](https://www.52pojie.cn/thread-692917-1-1.html)
 
 - [PanDownload](https://pandownload.com/)
 
   > PanDownload 是 kiryuu 制作的一个百度网盘第三方客户端工具，PanDownload 不限速下载，可以最大限度的利用带宽对百度网盘的文件进行下载。
+
+☛**产品经理/办公/团队协作：** 
+
+- [Axure](https://www.axure.com/)（产品原型制作） 
+
+- [摹客（Mockplus）](https://www.mockplus .cn/)（产品原型制作） 
+
+- [墨刀](https://modao.cc/)（强大易用的原型设计与协同工具） 
+
+- Xmind（思维导图~） 
+
+- [石墨文档](https ://shimo.im/)（可多人实时协作的云端Office，如果不愿意本地安装MS Office，这是一个选择） 
+
+- Keynote（Keynote 是一个演示幻灯片应用软件，由苹果计算机公司出品，运行于OS X 操作系统） 
+
+- [坚果云](https://www.jianguoyun.com/) 
+
+  > 坚果云是一款便捷、安全的专业网盘产品，通过文件自动同步、共享、备份功能，为用户实现智能文件管理，提供高效办公解决方案。支持Windows、Mac、Linux、iOS（iPad及iPhone）、Android、Windows Phone、Web七大系统。
+
+- [小恐龙公文排版助手](http://xkonglong.com/wordaddin/)
+
+  > 小恐龙公文排版助手是一个 Word 排版工具。能根据《党政机关公文格式国家标准》的格式要求，快速设置页面版式、快速设置常用文字格式、插入常用符号、版记、公文页码。支持对文字的快速排版，中文首行缩进 2 字符、删除空白，断句重排等。
+  >
+  > 支持对文档盖章、可以在文档同目录下生成 `pdf文档`/ `Word97-2003格式doc` /`png图片格式的副本`。
 
 ☛**手机模拟器：** 
 
@@ -240,6 +253,14 @@
   > AnyDesk 是一个敢在自己标题上宣称「世界上速度最快」的远程桌面工具，针对偶尔使用的个人用户免费，有中文界面，尺寸小巧，只需要一个单文件即可远程控制。各平台客户端都很小，不到 2M。
   >
   > 使用：[AnyDesk 中文绿色版 - 号称速度最快最流畅的免费远程桌面连接控制工具](https://www.iplaysoft.com/anydesk.html)
+
+☛**视频会议：**
+
+- [zoom](https://zoom.us/)
+
+  > Zoom 是一款多人手机云视频会议软件，为用户提供兼备高清视频会议与移动网络会议功能的免费云视频通话服务。用户可通过手机、平板电脑、PC 与工作伙伴进行多人视频及语音通话、屏幕分享、会议预约管理等商务沟通。Zoom 适用于 Windows、Mac、Linux、iOS、Android 系统。
+  >
+  > 使用：[视频会议系统ZOOM使用手册2017.10](http://inc.xmu.edu.cn/_upload/article/files/3c/87/f21a48824717869f4b9970fc6188/d385c302-7aa5-4662-ba2a-26d0587e36f2.pdf)
 
 ☛**记账管钱：**
 
