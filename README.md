@@ -159,12 +159,6 @@
   - 知乎专栏：[机器之心](https://zhuanlan.zhihu.com/jiqizhixin)
 - [专知](http://www.zhuanzhi.ai/)
 
-**兼职&实习：** 
-
-- [实习生-找实习-刺猬实习-最受信赖的实习招聘平台](http://www.ciweishixi.com/)
-- [求职找工作 - 人才招聘 - 大街网](https://www.dajie.com/)
-- [兼职猫app-免费、安全、靠谱｜大学生蓝领喜爱的临时工软件](https://www.jianzhimao.com/)
-
 **购书/阅读：**
 
 - [图灵社区](http://www.ituring.com.cn/book)  [荐]
@@ -284,7 +278,7 @@
 **（2）企业信息查询：**
 
 - [国家企业信用信息公示系统](http://www.gsxt.gov.cn/index.html)  
-- [天眼查](https://www.tianyancha.com/)
+- [天眼查](https://www.tianyancha.com/) [荐]
 - [企查猫(企业查询宝)](https://www.qichamao.com/)
 - [启信宝|企业查询|企业信息查询|企业信用查询](http://www.qixin.com/)
 - [全国企业营业执照查询系统(红盾网)-中国工商局注册信用信息公示网](http://www.xiechuangw.com/chaxun/)
@@ -294,7 +288,7 @@
 - IT/互联网专业的招聘网站：
   - [拉勾网-专业的互联网招聘平台_找工作_招聘_人才网_求职](https://www.lagou.com/)
   - [BOSS直聘-互联网招聘神器！](https://www.zhipin.com/)
-  - [跟对人_互联网it公司最新招聘信息_互联网人才求职找工作网站](http://www.genduiren.cn/)
+  - [跟对人\_互联网it公司最新招聘信息_互联网人才求职找工作网站](http://www.genduiren.cn/)
 - 其他招聘网站：
   - [智联招聘](https://www.zhaopin.com/)
   - [前程无忧](https://www.51job.com/)
@@ -319,14 +313,24 @@
 
 - [OfficePLUS](http://office.mmais.com.cn/Template/Home.shtml)
 
-**（5）接项目平台：** 
+**（5）兼职&实习：** 
+
+- [实习生-找实习-刺猬实习-最受信赖的实习招聘平台](http://www.ciweishixi.com/)
+- [求职找工作 - 人才招聘 - 大街网](https://www.dajie.com/)
+- [兼职猫app-免费、安全、靠谱｜大学生蓝领喜爱的临时工软件](https://www.jianzhimao.com/)
+
+**（6）接项目平台：** 
 
 - [程序员客栈](https://www.proginn.com/)
 - [猪八戒网站](http://www.zbj.com/)
 
-**（6）远程工作：** 
+**（7）外包/远程工作：** 
 
 - [远程.work](https://yuancheng.work/)
+
+- [码市 – 互联网软件外包服务平台](https://codemart.com/projects)
+
+  > 码市是 Coding 推出的互联网软件外包服务平台，意在连接需求方与广大开发者。让项目的需求方快速的找到合适的开发者，完成项目开发工作。
 
 ### GitHub仓库
 
@@ -376,10 +380,16 @@
 
 - [Crx离线安装包下载](http://yurl.sinaapp.com/crx.php)
 
-**在线文档转换/处理：** 
+**在线办公/文档转换/处理：** 
+
+- [UZER.ME](https://uzer.me/)
+
+  > UZER 是一个无需下载安装，就可以在浏览器中使用各种企业级大型软件（比如 Office 系列，PS，AutoCAD），无需安装插件，也不会占很多内存，打开网页就可以体验使用，而且几乎没有卡顿。
 
 - [PDF2go](https://www.pdf2go.com/zh/)
+
 - [Smallpdf](https://smallpdf.com/cn)
+
 - [iLovePDF](https://www.ilovepdf.com/zh_cn)
 
 **全能文件格式在线转换：** 
@@ -397,12 +407,12 @@
 - [Convertio](https://convertio.co/zh/)  
   > Convertio 是在线文档转换工具，支持45种常见格式的文档转换工具，包括办公文档、图片、电子书、音频、压缩文件等类型。可以快速实现 PDF 转换 Word、PNG 转换 JPG、WAV 转换 MP3 等操作。
   >
-  > 有对应的 Chrome 插件：[Convertio插件在线安装](https://chrome.google.com/webstore/detail/convertio/eppjkefeiehhflmgkhdooajgbkkegpcl/related)
+  > 有对应的 hrome 插件：[Convertio插件在线安装](https://chrome.google.com/webstore/detail/convertio/eppjkefeiehhflmgkhdooajgbkkegpcl/related)
 
 **在线处理图片：** 
 
 - [iLoveIMG](https://www.iloveimg.com/zh-cn)  [荐]
-  > iLoveIMG 是一个在线“图像文件处理”网络应用软件，提供多种图像文件基础编辑功能。其中包括：图片文件格式转换、图片压缩、图片剪裁服务的工具集合，支持图片格式有JPG、PNG、GIF。
+  > iLoveIMG 是一个在线“图像文件处理”网络应用软件，提供多种图像文件基础编辑功能。其中包括：图片文件格式转换、图片压缩、图片剪裁服务的工具集合，支持图片格式有 JPG、PNG、GIF。
   >
   > 它的优点：一次调整多个图像文件的尺寸、压缩多个图像文件、裁剪多个图像文件，以及转换多个图像文件的格式。
 
@@ -421,6 +431,7 @@
 
 - [舒克高清视频下载](http://www.shokdown.com/)
 - [硕鼠下载](http://www.flvcd.com/)
+- [微博、秒拍、小咖秀、晃咖视频解析下载](https://weibo.iiilab.com/)
 
 国外：
 

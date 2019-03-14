@@ -51,12 +51,6 @@
 
   > 效率利器，可以在特定时间内禁止访问某些网页，比如微博、知乎等等。对于自控能力差的，简直就是像老师一样的存在。
 
-- [小黄条](http://www.6fcsj.com/)（跨平台轻量级 ToDolist）
-
-  > 小黄条是一款跨平台todolist，已支持Windows、Android、IOS。Windows客户端支持嵌入桌面，完美融入系统桌面，允许自定义字体、字号、间距、文字颜色搭配【极简】模式可适配任何风格的壁纸。应用程序窗口在靠近屏幕边沿时，自动隐藏，配合快捷键使用便于保护隐私。支持任务排序，已完成的任务根据任务实际完成时间归档，方便快速回顾工作输出周报。
-  >
-  > 适合喜欢“简单直接”地将事情“贴”在电脑桌面显眼位置的朋友。
-
 - [Dual Monitor Taskbar]()
 
   > 该软件可以把任务栏扩展到双屏幕。
@@ -65,15 +59,25 @@
   >
   > Win10 多个显示屏显示任务栏方法：[Win10多个扩展显示器，怎么都显示任务栏？](http://www.xitonghe.com/jiaocheng/Windows10-8621.html)
 
+- Todo 类应用：
+
+  - [小黄条](http://www.6fcsj.com/)（跨平台轻量级 ToDolist）
+
+    > 小黄条是一款跨平台 todolist，已支持 Windows、Android、IOS。Windows 客户端支持嵌入桌面，完美融入系统桌面，允许自定义字体、字号、间距、文字颜色搭配【极简】模式可适配任何风格的壁纸。应用程序窗口在靠近屏幕边沿时，自动隐藏，配合快捷键使用便于保护隐私。支持任务排序，已完成的任务根据任务实际完成时间归档，方便快速回顾工作输出周报。
+    >
+    > 适合喜欢“简单直接”地将事情“贴”在电脑桌面显眼位置的朋友。如果你需要一款轻量级待办事项软件，小黄条是一个不错的选择。
+
+  - [滴答清单](https://dida365.com/)
+
+  - [Todoist](https://todoist.com/)
+
+  - [奇妙清单](https://www.wunderlist.com/zh/)
+
 ☛**科研可能用得上：**
 
 - [Mathpix](https://mathpix.com/)  [荐] 
 
-  > 可以将方程式截图转为 LaTex。
-  >
-  > Mathpix 适用于 Linux、macOS、Windows 和 iOS。暂时还没有 Android 应用。
-  >
-  > 注意：Mathpix 是一个免费使用的工具，但它不是开源的。
+  > **可以将方程式截图转为 LaTex。**Mathpix 适用于 Linux、macOS、Windows 和 iOS。暂时还没有 Android 应用。注意：Mathpix 是一个免费使用的工具，但它不是开源的。
   >
   > 在 Linux 上，Mathpix 有一个 Snap 包。这意味着如果你在 Linux 发行版上启用了 Snap 支持，你可以用这个简单命令安装 Mathpix：
   >
@@ -97,6 +101,34 @@
   > - 在 `对照模式` 中，可以在原文框中 `Ctrl+Enter` 可以快速翻译框内内容
   >
   > 注：除了该软件，「天若OCR文字识别工具」这个也可以实现翻译，可以考虑使用。
+
+- [Zotero](https://www.zotero.org/download/)
+
+  > 简单来说，Zotero 是一款文献管理工具。帮助你收集、管理和引用具有参考价值的论文、期刊、书籍等知识性资源。初期的 Zotero 是基于 Firefox 浏览器的一款插件，目前已有独立单机版可下载。
+  >
+  > Zotero 的软件界面是基于浏览器内核的，支持 Windows, MacOS, Linux 多种操作系统。作为一款协助科研工作者收集、管理以及引用研究资源的免费软件，如今已被广泛使用。
+  >
+  > 浏览器扩展：Chrome 下的安装 [Zotero Connector](https://chrome.google.com/webstore/detail/zotero-connector/ekhagklcjbdpajgpjgmbionohlpdbjgc/related?utm_source=chrome-ntp-icon)，这个插件安装后，会在浏览器中产生一个按钮（支持Chrome，Firefox 等），当你在线搜索到一篇或一系列文献时，这个按钮会检测到你目前的页面中所包含的文献信息和 pdf 附件。只要轻点按钮，就可以把这些信息和所有的附件下载到本地的 Zotero 软件中。
+  >
+  > 如何分享引用研究资源、插入文献、坚果云同步文献：[科研工作者的神器-zotero论文管理工具](https://mp.weixin.qq.com/s/rUv0d05xJgMxm2YoefWH5A)（我使用的该方式）  |  [标准论文参考文献添加方法——Zotero入门使用教程](https://blog.csdn.net/misayaaaaa/article/details/53559689)
+  >
+  > - 注：插入文献时候，如果需删除「域」，碰到直接删除卡顿，可以先「解除域」再删除，这样会很快。接触域的快捷键为 `Ctrl＋Shift＋F9`。参考：[怎样全部去掉word中的域_百度知道](https://zhidao.baidu.com/question/166021389.html)。如果文件已进行了保存，想要还原域是没办法了，否则可以通过撤销上一步操作还原。
+  >
+  > 详细的：[Zotero（1）：文献管理软件Zotero基础及进阶示范 - 阳志平的网志](https://www.yangzhiping.com/tech/zotero1.html)
+
+- MathType
+
+  > 下载：[MathType6.9b激活码生成器(附密钥) - 软件学堂](http://www.xue51.com/soft/14783.html)，你也可在该仓库目录下载到。
+  >
+  > 参考：[如何在office中嵌入MathType-MathType中文官网](http://www.mathtype.cn/wenti/qianru-mathtype.html)
+
+- [Microsoft Visio](https://msdn.itellyou.cn/)
+
+  > Office Visio 是 office 软件系列中的负责绘制流程图和示意图的软件，是一款便于 IT 和商务人员就复杂信息、系统和流程进行可视化处理、分析和交流的软件。
+
+- [亿图图示](https://www.edrawsoft.cn/download-edrawmax.php)
+
+  > 亿图图示是一款综合图形图表设计软件。解决跨平台，多领域的图形设计，图文混排和工程制图等需求。点击下面的链接下载亿图图示软件安装包。支持 Windows，Mac 和 Linux。
 
 **☞效率工具：** 
 
@@ -740,9 +772,8 @@
 
 - [Awesome-Windows/Awesome](https://github.com/Awesome-Windows/Awesome/blob/master/README-cn.md#%E9%9F%B3%E9%A2%91)：Windows上优质&精选的最佳应用程序及工具列表。
 - [AmazingApps/Amazing-Windows-Apps](https://github.com/AmazingApps/Amazing-Windows-Apps/tree/master/zh-CN)：受 GitHub 项目 [Awesome Windows](https://github.com/Awesome-Windows/Awesome) 启发，本书旨在介绍 Windows 绝妙项目。
+- [少数派](https://sspai.com/)（少数派致力于更好地运用数字产品或科学方法，帮助用户提升工作效率和生活品质.）
 - （待更……
-
-
 
 <div align="right">
     <a href="#top">回到顶部</a>
