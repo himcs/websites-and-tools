@@ -220,8 +220,9 @@
 - [Free Logo Design](https://www.freelogodesign.org/)
 - [Logo Garden](https://www.logogarden.com/)
 
-**Markdown写作公众号排版网站：**
+**Markdown写作/公众号排版网站：**
 
+- Lyric：[微信公众号格式化编辑器](https://lab.lyric.im/wxformat/)
 - 小胡子哥：[Online Markdown Converter](http://md.barretlee.com/)
 - 颜家大少：[Md2All](http://md.aclickall.com/)
 - 在线 Markdown 写作：[MdEditor](https://www.mdeditor.com/)

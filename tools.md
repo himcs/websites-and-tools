@@ -59,6 +59,32 @@
   >
   > Win10 多个显示屏显示任务栏方法：[Win10多个扩展显示器，怎么都显示任务栏？](http://www.xitonghe.com/jiaocheng/Windows10-8621.html)
 
+- [Feem](https://feem.io/index.html)
+
+  > 对于同时使用 macOS、Windows、iOS 和 Android 来说，如何在多设备间传输文件是件烦心事，而 Feem 这款应用，就能自动连接局域网内设备，并快速共享文本、图片和文件，延迟极低。
+
+- [GlassWire](https://www.glasswire.com/)  
+
+  > 如果你想时刻了解电脑的网络动态，界面友好、易于上手的 GlassWire 是个不错的选择。它提供了直观的可视化界面，让你依据时间、应用程序、IP 等条件过滤流量使用情况，一目了然。
+  >
+  > 此外，GlassWire 还可以提示新应用请求联网和空闲时段的网络占用情况、禁用单个程序联网、设置流量套餐，并调用 VirusTotal 联网查杀可疑文件等，是一款全能型的防火墙。
+
+- [Geek Uninstaller](https://geekuninstaller.com/)  [荐]
+
+  > Windows 的另一缺陷，就是卸载软件后留下的遍地狼藉了，这也成了卫士管家们的卖点之一。Geek Uninstaller 可以帮你解决，精简纯净的深度卸载工具。它仅有 6 MB 大小，绿色免安装，一键单击，就可以自动卸载并删除残余文件。
+
+- [SpaceSniffer](http://www.uderzo.it/main_products/space_sniffer/)
+
+  > 眼看着硬盘空间越来越少，翻遍目录却也难找讨厌的大文件。这时，SpaceSniffer 就能帮助你。它可以将整个硬盘的目录树划成片区，让你直观感受每个文件夹所占用的空间。你可以双击查看文件夹详情，并右键在文件资源管理器中找到它。
+
+- [XMeters](https://entropy6.com/xmeters/)
+
+  > 不乏常碰到网络处于薛定谔状态，时刻了解当前网速可以说是刚需。而 XMeters 就能够在任务栏显示网速、CPU、内存及硬盘资源占用情况，并提供了多种个性化设置，再也不用请任务管理器出山了。
+
+- [EarTrumpet ](https://www.microsoft.com/zh-cn/p/eartrumpet/9nblggh516xp?activetab=pivot%3Aoverviewtab)
+
+  > 听音乐、看视频、玩游戏……在各应用切换过程中，你可能会频繁调整系统音量大小，以适应自己的耳朵。而 EarTrumpet 则可以为每个软件单独设置音量，还能选择要使用哪个麦克风，再也不用按音量键了。
+
 - Todo 类应用：
 
   - [小黄条](http://www.6fcsj.com/)（跨平台轻量级 ToDolist）
@@ -110,7 +136,7 @@
   >
   > 浏览器扩展：Chrome 下的安装 [Zotero Connector](https://chrome.google.com/webstore/detail/zotero-connector/ekhagklcjbdpajgpjgmbionohlpdbjgc/related?utm_source=chrome-ntp-icon)，这个插件安装后，会在浏览器中产生一个按钮（支持Chrome，Firefox 等），当你在线搜索到一篇或一系列文献时，这个按钮会检测到你目前的页面中所包含的文献信息和 pdf 附件。只要轻点按钮，就可以把这些信息和所有的附件下载到本地的 Zotero 软件中。
   >
-  > 如何分享引用研究资源、插入文献、坚果云同步文献：[科研工作者的神器-zotero论文管理工具](https://mp.weixin.qq.com/s/rUv0d05xJgMxm2YoefWH5A)（我使用的该方式）  |  [标准论文参考文献添加方法——Zotero入门使用教程](https://blog.csdn.net/misayaaaaa/article/details/53559689)
+  > 如何分享引用研究资源、插入文献、坚果云同步文献：[科研工作者的神器-zotero论文管理工具](https://mp.weixin.qq.com/s/rUv0d05xJgMxm2YoefWH5A)（我使用的该方式）  |  [标准论文参考文献添加方法——Zotero入门使用教程](https://blog.csdn.net/misayaaaaa/article/details/53559689)  | [如何在Zotero中设置webdav连接到坚果云？](http://help.jianguoyun.com/?p=3168)
   >
   > - 注：插入文献时候，如果需删除「域」，碰到直接删除卡顿，可以先「解除域」再删除，这样会很快。接触域的快捷键为 `Ctrl＋Shift＋F9`。参考：[怎样全部去掉word中的域_百度知道](https://zhidao.baidu.com/question/166021389.html)。如果文件已进行了保存，想要还原域是没办法了，否则可以通过撤销上一步操作还原。
   >
@@ -180,7 +206,7 @@
 
   > PanDownload 是 kiryuu 制作的一个百度网盘第三方客户端工具，PanDownload 不限速下载，可以最大限度的利用带宽对百度网盘的文件进行下载。
 
-☛**产品经理/办公/团队协作：** 
+☛**产品经理/办公/团队协作/素材：** 
 
 - [Axure](https://www.axure.com/)（产品原型制作） 
 
@@ -204,6 +230,14 @@
   >
   > 支持对文档盖章、可以在文档同目录下生成 `pdf文档`/ `Word97-2003格式doc` /`png图片格式的副本`。
 
+- [Eagle](https://cn.eagle.cool/)
+
+  > 要整理堆积如山的图片素材，Eagle 是一个选择。它能应对从 PSD 到 PDF 的数十种文件格式，并通过智能文件夹、标签、注释、颜色等方式有效筛选素材。如果在网页中看到喜欢的图片，你也可以用 Eagle 的浏览器扩展一键收集它。
+
+- [字由](http://www.hellofont.cn/)
+
+  > 如何管理上百种字体也是件烦心事。字由则收集了数千种中西文字体，可以通过类型、风格、用途、字重等筛选。激活相应字体后，无需下载安装，就能直接应用至 Photoshop、PowerPoint、CorelDRAW 等设计软件中，简单易用。
+
 ☛**手机模拟器：** 
 
 - BlueStacks蓝叠安卓模拟器：[BlueStacks蓝叠](https://www.bluestacks.cn/)（ 英文：[BlueStacks](https://bluestacks.vip/)）  
@@ -224,7 +258,7 @@
 - 易我数据恢复
 - 强力数据恢复
 
-☛**编辑器&IDE/开发：** 
+☛**编辑器/IDE/开发：** 
 
 - [Notepad++](https://notepad-plus-plus.org/download/v7.6.1.html)  [荐]
 
@@ -250,8 +284,18 @@
 
 ☛**图片浏览/编辑：**
 
-- PhotoShop
-- [Honeyview](https://cn.bandisoft.com/honeyview/)（一款快速图像查看器，可打开Gif动图）
+- Adobe PhotoShop
+
+- Affinity Photo（它对标的是 Photoshop，它的界面布局也与 Photoshop 比较相似）
+
+- Affinity Designer（一款矢量处理与像素绘图工具）
+
+- [泼辣修图](http://www.polaxiong.com/editor/0)（简单专业的免费修图软件）
+
+  > 泼辣修图是一款轻量级的照片处理工具，如果你懒得打开 Affinity Photo，就会用它做一些后期调整工作。贴心的预设滤镜、自动人脸识别、图层、蒙版等特性，让你不用费太多心思，也能修出一张好照片。支持网页版、Windows、macOS、ChromeOS、Linux。
+
+- [Honeyview](https://cn.bandisoft.com/honeyview/)（一款快速图像查看器，可打开Gif动图）  [荐]
+
 - [QQ影像](https://pc.qq.com/detail/15/detail_755.html) 
 
   > QQ影像是腾讯公司2010年推出的一款桌面图片处理软件。具有轻松浏览、常用快调、一键上传、时尚特效、相框饰品、快速扫描等特点。可以快速浏览管理本地图片，使用编辑功能处理照片，上传到QQ空间。
@@ -384,6 +428,7 @@
 
 - 得到（罗振宇，「逻辑思维」产品）
 - 喜马拉雅FM（电台、听书等内容）
+- 蜻蜓FM（全球华语地区下载量第一电台收音机，新闻音乐相声小说英语段子全搜罗）
 - 网易蜗牛读书   
 - 樊登读书
 - 藏书馆   
@@ -451,11 +496,11 @@
 
   > 小红书是一个生活方式分享社区。用户通过文字、图片、视频笔记的分享，记录了这个时代年轻人的正能量和美好生活。
 
-- Keep  [荐]
+- Keep  [荐] 
 
   > Keep 是一款具有社交属性的健身工具类产品。
   >
-  > PS：我在用的跑步 APP。
+  > PS：跑步我用的该 App。
 
 - LOFTER
 
