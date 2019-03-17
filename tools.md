@@ -71,7 +71,7 @@
 
 - [Geek Uninstaller](https://geekuninstaller.com/)  [荐]
 
-  > Windows 的另一缺陷，就是卸载软件后留下的遍地狼藉了，这也成了卫士管家们的卖点之一。Geek Uninstaller 可以帮你解决，精简纯净的深度卸载工具。它仅有 6 MB 大小，绿色免安装，一键单击，就可以自动卸载并删除残余文件。
+  > Geek Uninstaller 是一款快速、有效、免安装的程序移除工具。由于软件被移除后往往会在系统中留下一些不想要的垃圾文件，这款免费的反安装工具在删除软件后还会深入扫描残余的文件、文件夹和登录文件，力求「除恶务尽」，让系统保持干净。对于顽固、毁损的程序，它会采用强制删除（Force Removal）来将它们一扫而空，清理得干干净净。它仅有 6 MB 大小，绿色免安装，一键单击，就可以自动卸载并删除残余文件。
 
 - [SpaceSniffer](http://www.uderzo.it/main_products/space_sniffer/)
 
@@ -403,7 +403,7 @@
 - [掘金](https://juejin.im)  [荐]
 - 极客时间  [荐]
 - 开发者头条
-- [即刻](https://www.ruguoapp.com/)
+- [即刻](https://www.ruguoapp.com/)（一个聚集年轻人的同好社区）
 - W3Cschool 客户端
 - IT之家
 - CSDN
