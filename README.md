@@ -316,6 +316,7 @@
 
 **（5）兼职&实习：** 
 
+- [大学生找实习求职招聘网站 | 实习僧](https://www.shixiseng.com/)
 - [实习生-找实习-刺猬实习-最受信赖的实习招聘平台](http://www.ciweishixi.com/)
 - [求职找工作 - 人才招聘 - 大街网](https://www.dajie.com/)
 - [兼职猫app-免费、安全、靠谱｜大学生蓝领喜爱的临时工软件](https://www.jianzhimao.com/)
