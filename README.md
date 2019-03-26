@@ -16,9 +16,9 @@
 
 <h3 align="center">电脑使用技巧</h3>
 
-- [Windows效率操作(包括常用快捷键和命令及使用技巧)](./02-Windows效率操作(包括常用快捷键和命令及使用技巧).md)
-- [Mac常用快捷键和命令及使用技巧](./03-Mac常用快捷键和命令及使用技巧.md)
-- [电脑系统安装教程(Windows、Mac、Linux).md](./04-电脑系统安装教程(Windows、Mac、Linux).md)
+- [Windows效率操作(包括常用快捷键和命令及使用技巧)](./notes/02-Windows效率操作(包括常用快捷键和命令及使用技巧).md)
+- [Mac常用快捷键和命令及使用技巧](./notes/03-Mac常用快捷键和命令及使用技巧.md)
+- [电脑系统安装教程(Windows、Mac、Linux).md](./notes/04-电脑系统安装教程(Windows、Mac、Linux).md)
 - ……
 
 <h3 align="center">网站</h3>
