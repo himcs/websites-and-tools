@@ -8,7 +8,13 @@
 
 分类收藏一些有用的网站，工具和软件，以及关于 Windows、Mac、Linux 系统的软件操作和使用技巧等，提高做事效率，“工欲善其事，必先利其器”。欢迎大家 star，也欢迎 PR，分享你觉得不错的。
 
+<h3 align="center">工具</h3>
 
+| :city_sunrise:                        | :city_sunrise:                                 | :city_sunrise:                            | :city_sunrise:                      | :city_sunrise:                        | :city_sunrise:                    | :city_sunrise:            |
+| ------------------------------------- | ---------------------------------------------- | ----------------------------------------- | ----------------------------------- | ------------------------------------- | --------------------------------- | ------------------------- |
+| [编程-IDE 插件](0. IDE_extensions.md) | [Chrome 扩展和应用](./0. chrome_extensions.md) | [Windows 软件和工具](1. windows_tools.md) | [MacOS 软件和工具](2. mac_tools.md) | [Linux 软件和工具](3. linux_tools.md) | [Android 应用](4. android_app.md) | [iOS 应用](5. iOS_app.md) |
+
+<h3 align="center">网站</h3>
 
 ## 1. 有用网站
 
@@ -112,6 +118,12 @@
 
   > 汽车之家为汽车消费者提供选车、买车、用车、换车等所有环节的全面、准确、快捷的一站式服务。
 
+**理财/炒股/炒币：**
+
+- [雪球](https://xueqiu.com/)
+
+  > 雪球（Snowball / Xueqiu），是一家成立于 2010 年 3 月的投资者垂直社交媒体，用户可以在雪球关注股票及基金等证券代码，查看沪深/港/美股票的实时行情；关注各类投资者进行投资见解的交流；创建和分享个人投资组合；创建沪深及美股股票账户、基金交易账户，实盘买卖股票和基金。
+
 **网上课堂&培训架构：**
 
 1.学习
@@ -152,12 +164,6 @@
 - [小象学院 ](http://www.chinahadoop.cn/)
 
 - [七月在线](https://www.julyedu.com/)
-
-**人工智能优质网站和专栏等：**
-
-- [机器之心](https://www.jiqizhixin.com/)
-  - 知乎专栏：[机器之心](https://zhuanlan.zhihu.com/jiqizhixin)
-- [专知](http://www.zhuanzhi.ai/)
 
 **购书/阅读：**
 
