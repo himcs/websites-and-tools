@@ -10,7 +10,7 @@
 
 <h3 align="center">工具</h3>
 
-| :stars:                                | :stars:                                       | :stars:                                    | :stars:                              | :stars:                                | :stars:                            | :stars:                    |
+| :fish_cake:                               | :fish_cake:                                      | :fish_cake:                                  | :fish_cake:                             | :fish_cake:                               | :fish_cake:                           | :fish_cake:                    |
 | -------------------------------------- | --------------------------------------------- | ------------------------------------------ | ------------------------------------ | -------------------------------------- | ---------------------------------- | -------------------------- |
 | [编程-IDE 插件](./0.IDE_extensions.md) | [Chrome 扩展和应用](./0.chrome_extensions.md) | [Windows 软件和工具](./1.windows_tools.md) | [MacOS 软件和工具](./2.mac_tools.md) | [Linux 软件和工具](./3.linux_tools.md) | [Android 应用](./4.android_app.md) | [iOS 应用](./5.iOS_app.md) |
 
