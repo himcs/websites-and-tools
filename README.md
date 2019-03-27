@@ -1,8 +1,9 @@
 <a name="top"></a>
 
 <h1 align="center" style=“width:100%;”>
-        <img src="./images/logo-600x307.png"></img>  
+        <img src="./assets/logo/logo-600x307.png"></img>  
 </h1>
+
 
 
 
@@ -13,13 +14,6 @@
 | :fish_cake:                               | :fish_cake:                                      | :fish_cake:                                  | :fish_cake:                             | :fish_cake:                               | :fish_cake:                           | :fish_cake:                    |
 | -------------------------------------- | --------------------------------------------- | ------------------------------------------ | ------------------------------------ | -------------------------------------- | ---------------------------------- | -------------------------- |
 | [编程-IDE 插件](./0.IDE_extensions.md) | [Chrome 扩展和应用](./0.chrome_extensions.md) | [Windows 软件和工具](./1.windows_tools.md) | [MacOS 软件和工具](./2.mac_tools.md) | [Linux 软件和工具](./3.linux_tools.md) | [Android 应用](./4.android_app.md) | [iOS 应用](./5.iOS_app.md) |
-
-<h3 align="center">电脑使用技巧</h3>
-
-- [Windows效率操作(包括常用快捷键和命令及使用技巧)](./notes/02-Windows效率操作(包括常用快捷键和命令及使用技巧).md)
-- [Mac常用快捷键和命令及使用技巧](./notes/03-Mac常用快捷键和命令及使用技巧.md)
-- [电脑系统安装教程(Windows、Mac、Linux).md](./notes/04-电脑系统安装教程(Windows、Mac、Linux).md)
-- ……
 
 <h3 align="center">网站</h3>
 
