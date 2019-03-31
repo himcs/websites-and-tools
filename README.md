@@ -6,7 +6,6 @@
 
 
 
-
 分类收藏一些有用的网站，工具和软件，以及关于 Windows、Mac、Linux 系统的软件操作和使用技巧等，提高做事效率，“工欲善其事，必先利其器”。欢迎大家 star，也欢迎 PR 或 issue，分享你觉得不错的。
 
 <h3 align="center">工具</h3>
@@ -19,18 +18,17 @@
 
 ***Office 操作和使用技巧：***
 
-- [PowerPoint2013使用之键盘快捷键操作](./notes/office-skills/PowerPoint2013使用之键盘快捷键操作.md)
-- [Office使用大全，不断更新…](./notes/office-skills/Office使用大全，不断更新....md)
+- [PowerPoint2013 快捷键操作](./notes/office-skills/PowerPoint2013 快捷键操作.md)
+- [Office 使用大全，不断更新…](./notes/office-skills/Office使用大全，不断更新....md)
 
 ***电脑系统操作和使用技巧：***
 
-- [Windows效率操作(包括常用快捷键和命令及使用技巧)](./notes/pc-skills/01-Windows效率操作(包括常用快捷键和命令及使用技巧).md)
-- [Win7图标丢失、不正常显示的修复方法](./notes/pc-skills/02-Win7图标丢失、不正常显示的修复方法.md)
-- [Mac常用快捷键和命令及使用技巧](./notes/pc-skills/99-Mac常用快捷键和命令及使用技巧.md)
+- [Windows 效率操作(含常用快捷键和命令及使用技巧)](./notes/pc-skills/01-Windows效率操作.md)
+- [Win7 图标丢失和不正常显示的修复方法](./notes/pc-skills/02-Win7图标丢失和不正常显示的修复方法.md)
+- [MacOS 效率操作](./notes/pc-skills/99-MacOS效率操作.md)
+- [电脑系统安装教程(Windows&MacOS&Linux)](./notes/pc-skills/电脑系统安装教程.md)
 
-- [电脑系统安装教程(Windows&MacOS&Linux)](./notes/pc-skills/电脑系统安装教程(Windows&MacOS&Linux).md)
-
-***Chrome 浏览器的使用：*** [Chrome 浏览器使用技巧.md](./notes/Chrome浏览器使用技巧.md)
+***Chrome 浏览器的使用：*** [Chrome 浏览器效率操作.md](./notes/Chrome浏览器使用技巧.md)
 
 
 <h3 align="center">网站</h3>
