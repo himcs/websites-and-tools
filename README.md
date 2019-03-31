@@ -18,22 +18,24 @@
 
 ***Office 操作和使用技巧：***
 
-- [PowerPoint2013 快捷键操作](./notes/office-skills/PowerPoint2013 快捷键操作.md)
+- [PowerPoint2013 快捷键操作](./notes/office-skills/PowerPoint2013快捷键操作.md)
 - [Office 使用大全，不断更新…](./notes/office-skills/Office使用大全，不断更新....md)
 
-***电脑系统操作和使用技巧：***
+***电脑操作和使用技巧：***
 
 - [Windows 效率操作(含常用快捷键和命令及使用技巧)](./notes/pc-skills/01-Windows效率操作.md)
 - [Win7 图标丢失和不正常显示的修复方法](./notes/pc-skills/02-Win7图标丢失和不正常显示的修复方法.md)
 - [MacOS 效率操作](./notes/pc-skills/99-MacOS效率操作.md)
 - [电脑系统安装教程(Windows&MacOS&Linux)](./notes/pc-skills/电脑系统安装教程.md)
+- [网线RJ-45接头制作](https://tieba.baidu.com/p/2126498185?red_tag=3255758856)
+- [ThinkPad E430笔记本怎么拆机清灰?](https://m.jb51.net/softjc/454333.html)
 
 ***Chrome 浏览器的使用：*** [Chrome 浏览器效率操作.md](./notes/Chrome浏览器使用技巧.md)
 
 
 <h3 align="center">网站</h3>
 
-## 1. 有用网站
+## （一）有用网站
 
 **浏览器主页推荐：**
 
@@ -143,20 +145,20 @@
 
 **网上课堂&培训架构：**
 
-1.学习
+（1）学习
 
 - [Java知识分享网-免费Java资源下载](http://www.java1234.com/)
 - [爱酷学习网-免费高清视频教程在线观看](http://www.icoolxue.com/)
 - [深度开源 - Java开源大全，开源信息发掘、分享、交流](http://www.open-open.com/)
 
-2.知名网课
+（2）知名网课
 
 - [网易公开课](https://open.163.com/)
 - [慕课网-程序员的梦工厂](https://www.imooc.com/)
 - [极客学院IT在线教育平台](http://www.jikexueyuan.com/)
   - [极客学院Wiki - IT 技术图文教程库](http://wiki.jikexueyuan.com/)
 
-3. 培训机构
+（3）培训机构
 
 - [传智播客](http://www.itcast.cn/)
 - [黑马程序员](http://www.itheima.com/)
@@ -170,7 +172,7 @@
 - [珠峰培训-八年专注前端培训](http://www.zhufengpeixun.cn/)
 - [麦子学院](http://www.maiziedu.com/)
 
-4.网络培训/学习平台（偏 AI 相关课程）
+（4）网络培训/学习平台（偏 AI 相关课程）
 
 - [优达学城 (Udacity)](https://cn.udacity.com/)  
 
@@ -257,9 +259,9 @@
 
 
 
-## 2. 编程开发
+## （二）编程开发
 
-### 算法和数据结构
+### 1. 算法和数据结构
 
 **OJ 平台** 
 
@@ -284,7 +286,7 @@
 
 - [PAT | 计算机程序设计能力考试](https://www.patest.cn/p/index#)
 
-### 编程技术
+### 2. 编程技术
 
 - 统计服务商：[【友盟+】全球领先的第三方全域数据服务商](https://www.umeng.com/)
 
@@ -292,7 +294,7 @@
 
 - [前端文档工具](http://www.css88.com/nav/)
 
-### 求职面试
+### 3. 求职面试
 
 **（1）考试评测：** 
 
@@ -357,33 +359,9 @@
 
   > 码市是 Coding 推出的互联网软件外包服务平台，意在连接需求方与广大开发者。让项目的需求方快速的找到合适的开发者，完成项目开发工作。
 
-### GitHub仓库
-
-- [Interview-Notebook](https://github.com/guobinhit/cg-blog)（技术面试需要掌握的基础知识整理）
-- [Charies Gavin's Blog](https://github.com/guobinhit/cg-blog)
-- [Windows 绝赞应用](https://amazing-apps.gitbooks.io/windows-apps-that-amaze-us/content/zh-CN/)
-- [Coursera-ML-AndrewNg-Notes](https://github.com/fengdu78/Coursera-ML-AndrewNg-Notes)（吴恩达老师的机器学习课程个人笔记）
-- [dawnlabs/carbon](https://github.com/dawnlabs/carbon/blob/master/docs/README.cn.zh.md)
-  > Carbon 是一个免费的开源库，用于创建和分享源代码的美丽图像。
-  >
-  > 如何使用：[使用Carbon和Polacode从你的编辑器创建代码截图](https://segmentfault.com/a/1190000014579171)
-  >
-  > 使用说明：[中文简体版](https://github.com/dawnlabs/carbon/blob/master/docs/README.cn.zh.md)
-  >
-  > - 在线使用：https://carbon.now.sh/
-  >
-  > - VS Code 中安装插件使用：[Polacode](https://marketplace.visualstudio.com/items?itemName=pnp.polacode)
-  > - IntelliJ IDEA 中安装插件使用： [carbon-now-sh](https://plugins.jetbrains.com/plugin/10469-carbon-now-sh)
-
-- [nvbn/thefuck](https://github.com/nvbn/thefuck)
-
-  > The Fuck 是一款用于检查上一条出错的指令中的错误，并提供修正选项的软件。它不仅适合新手学习和了解自己的错误，同样也适合一个稳固在一个 Linux 发行版上突然要使用另一个发型版不适应的老鸟。The Fuck 不仅支持 Linux 发行版，还支持 macOS 和 FreeBSD。安装参考：https://www.mf8.biz/thefuck/
-  >
-  > 了解下：[又是一个名叫草泥马的项目：thefuck](https://segmentfault.com/a/1190000002740344)
 
 
-
-## 3. 在线工作
+## （三）在线做事
 
 **在线工具：**
 
@@ -502,7 +480,7 @@
 
 
 
-## 4. 资源下载
+## （四）资源网站
 
 **电脑系统：** 
 
@@ -513,22 +491,8 @@
 
 
 
-## 5. 电脑技能
 
-**电脑维修：**
-
-- [网线RJ-45接头制作](https://tieba.baidu.com/p/2126498185?red_tag=3255758856)
-- [ThinkPad E430笔记本怎么拆机清灰?](https://m.jb51.net/softjc/454333.html)
-
-**电脑效率操作：**
-
-- [Windows效率操作(包括常用快捷键和命令及使用技巧).md](./01.computer/02-Windows效率操作(包括常用快捷键和命令及使用技巧).md)
-- [电脑系统安装教程(Windows、Mac、Linux).md](./01.computer/04-电脑系统安装教程(Windows、Mac、Linux).md)
-- [Win7图标丢失、不正常显示的修复方法.md](./01.computer/05-Win7图标丢失、不正常显示的修复方法.md)
-
-
-
-## 6. 手机技能
+## （五）手机有关
 
 **手机维修：**
 
@@ -548,7 +512,7 @@
 
 
 
-## 7. 影视后期
+## （六）影视后期
 
 **影视网站：** 
 
@@ -576,8 +540,6 @@
 **音乐下载：**
 
 - [音乐直链搜索](http://music.liuzhijin.cn/)
-
-
 
 
 
