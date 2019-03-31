@@ -7,13 +7,31 @@
 
 
 
-分类收藏一些有用的网站，工具和软件，以及关于 Windows、Mac、Linux 系统的软件操作和使用技巧等，提高做事效率，“工欲善其事，必先利其器”。欢迎大家 star，也欢迎 PR，分享你觉得不错的。
+分类收藏一些有用的网站，工具和软件，以及关于 Windows、Mac、Linux 系统的软件操作和使用技巧等，提高做事效率，“工欲善其事，必先利其器”。欢迎大家 star，也欢迎 PR 或 issue，分享你觉得不错的。
 
 <h3 align="center">工具</h3>
 
 | :fish_cake:                               | :fish_cake:                                      | :fish_cake:                                  | :fish_cake:                             | :fish_cake:                               | :fish_cake:                           | :fish_cake:                    |
 | -------------------------------------- | --------------------------------------------- | ------------------------------------------ | ------------------------------------ | -------------------------------------- | ---------------------------------- | -------------------------- |
-| [编程-IDE 插件](./0.IDE_extensions.md) | [Chrome 扩展和应用](./0.chrome_extensions.md) | [Windows 软件和工具](./1.windows_tools.md) | [MacOS 软件和工具](./2.mac_tools.md) | [Linux 软件和工具](./3.linux_tools.md) | [Android 应用](./4.android_app.md) | [iOS 应用](./5.iOS_app.md) |
+| [IDE 插件](./0.IDE_extensions.md) | [Chrome 扩展和应用](./0.chrome_extensions.md) | [Windows 软件和工具](./1.windows_tools.md) | [MacOS 软件和工具](./2.mac_tools.md) | [Linux 软件和工具](./3.linux_tools.md) | [Android 应用](./4.android_app.md) | [iOS 应用](./5.iOS_app.md) |
+
+<h3 align="center">操作和技巧</h3>
+
+***Office 操作和使用技巧：***
+
+- [PowerPoint2013使用之键盘快捷键操作](./notes/office-skills/PowerPoint2013使用之键盘快捷键操作.md)
+- [Office使用大全，不断更新…](./notes/office-skills/Office使用大全，不断更新....md)
+
+***电脑系统操作和使用技巧：***
+
+- [Windows效率操作(包括常用快捷键和命令及使用技巧)](./notes/pc-skills/01-Windows效率操作(包括常用快捷键和命令及使用技巧).md)
+- [Win7图标丢失、不正常显示的修复方法](./notes/pc-skills/02-Win7图标丢失、不正常显示的修复方法.md)
+- [Mac常用快捷键和命令及使用技巧](./notes/pc-skills/99-Mac常用快捷键和命令及使用技巧.md)
+
+- [电脑系统安装教程(Windows&MacOS&Linux)](./notes/pc-skills/电脑系统安装教程(Windows&MacOS&Linux).md)
+
+***Chrome 浏览器的使用：*** [Chrome 浏览器使用技巧.md](./notes/Chrome浏览器使用技巧.md)
+
 
 <h3 align="center">网站</h3>
 
