@@ -16,21 +16,17 @@
 
 <h3 align="center">操作和技巧</h3>
 
-***Office 操作和使用技巧：***
-
-- [PowerPoint2013 快捷键操作](./notes/office-skills/PowerPoint2013快捷键操作.md)
-- [Office 使用大全，不断更新…](./notes/office-skills/Office使用大全，不断更新....md)
+***Office 操作和使用技巧：*** [Office 使用大全，不断更新…](./notes/01-Office使用大全，不断更新.md)
 
 ***电脑操作和使用技巧：***
 
-- [Windows 效率操作(含常用快捷键和命令及使用技巧)](./notes/pc-skills/01-Windows效率操作.md)
-- [Win7 图标丢失和不正常显示的修复方法](./notes/pc-skills/02-Win7图标丢失和不正常显示的修复方法.md)
-- [MacOS 效率操作](./notes/pc-skills/99-MacOS效率操作.md)
-- [电脑系统安装教程(Windows&MacOS&Linux)](./notes/pc-skills/电脑系统安装教程.md)
-- [网线RJ-45接头制作](https://tieba.baidu.com/p/2126498185?red_tag=3255758856)
-- [ThinkPad E430笔记本怎么拆机清灰?](https://m.jb51.net/softjc/454333.html)
+- [Windows 效率操作](./notes/02-Windows效率操作.md)
+- [MacOS 效率操作](./notes/03-MacOS效率操作.md)
+- [系统安装 | 硬件知识 | 电脑维修… - 电脑技能大杂烩](./notes/06-电脑技能大杂烩.md)
 
-***Chrome 浏览器的使用：*** [Chrome 浏览器效率操作.md](./notes/Chrome浏览器使用技巧.md)
+***Chrome 浏览器的使用：*** [Chrome 效率操作.md](./notes/04-Chrome效率操作.md)
+
+***手机的操作和使用：*** [手机的操作和使用.md](./notes/05-手机的操作和使用.md)
 
 
 <h3 align="center">网站</h3>
