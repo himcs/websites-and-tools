@@ -474,7 +474,10 @@
 
 - [IPIP.NET](https://www.ipip.net/ip.html)  [荐]
 
+**LaTeX公式编辑器：**
 
+- [在线 LaTeX 公式编辑器](<https://www.codecogs.com/latex/eqneditor.php>)
+- [LaTeX公式编辑器](<https://zh.numberempire.com/latexequationeditor.php>)
 
 ## （四）资源网站
 
