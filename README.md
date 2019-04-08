@@ -331,7 +331,7 @@
 
 - [Docer稻壳儿](http://www.docer.com/)
 
-- [超级简历](https://www.wondercv.com/)
+- [超级简历](https://www.wondercv.com/)  [荐]
 
 - [OfficePLUS](http://office.mmais.com.cn/Template/Home.shtml)
 
