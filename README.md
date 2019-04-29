@@ -1,8 +1,9 @@
 <a name="top"></a>
 
 <h1 align="center" style=“width:100%;”>
-        <img src="./assets/logo/logo-600x307.png"></img>  
+        <img src="./assets/logo/logo-600x307.png" href="https://github.com/strivebo/websites-and-tools"></img>  
 </h1>
+
 
 
 
