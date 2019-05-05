@@ -13,7 +13,7 @@
 
 | :fish_cake:                               | :fish_cake:                                      | :fish_cake:                                  | :fish_cake:                             | :fish_cake:                               | :fish_cake:                           | :fish_cake:                    |
 | -------------------------------------- | --------------------------------------------- | ------------------------------------------ | ------------------------------------ | -------------------------------------- | ---------------------------------- | -------------------------- |
-| [IDE 插件](./0.IDE_extensions.md) | [Chrome 扩展和应用](./0.chrome_extensions.md) | [Windows 软件和工具](./1.windows_tools.md) | [MacOS 软件和工具](./2.mac_tools.md) | [Linux 软件和工具](./3.linux_tools.md) | [Android 应用](./4.android_app.md) | [iOS 应用](./5.iOS_app.md) |
+| [IDE 插件](./0.IDE_extensions.md) | [Chrome 扩展和应用](./1.chrome_extensions.md) | [Windows 软件和工具](./2.windows_tools.md) | [MacOS 软件和工具](./3.mac_tools.md) | [Linux 软件和工具](./4.linux_tools.md) | [Android 应用](./5.android_app.md) | [iOS 应用](./6.iOS_app.md) |
 
 <h3 align="center">操作和技巧</h3>
 
