@@ -1,11 +1,8 @@
 <a name="top"></a>
 
 <h1 align="center" style=“width:100%;”>
-        <img src="./assets/logo/logo-600x307.png" href="https://github.com/strivebo/websites-and-tools"></img>  
+        <img src="./assets/logo/logo.png" href="https://github.com/strivebo/websites-and-tools"></img>  
 </h1>
-
-
-
 
 分类收藏一些有用的网站，工具和软件，以及关于 Windows、Mac、Linux 系统的软件操作和使用技巧等，提高做事效率，“工欲善其事，必先利其器”。欢迎大家 star，也欢迎 PR 或 issue，分享你觉得不错的。
 
@@ -57,6 +54,7 @@
 - [Tool321_不可错过任何一个工具](http://tool321.com/cn/index.html)
 - [Web前端导航](http://www.alloyteam.com/nav/)
 - [GitNavi ](http://www.gitnavi.com/)
+- [科塔学术 - 科研与学术资源导航平台](<https://www.sciping.com/>)
 
 **编程学习：** 
 
@@ -88,9 +86,13 @@
 
 - [少数派](https://sspai.com/)（致力于更好地运用数字产品或科学方法，帮助用户提升工作效率和生活品质）
 
-**学习资料/代码下载：**
+**资料/下载：**
 
 - [DevStore](http://www.devstore.cn/)
+
+- [GugeApps](<https://www.gugeapps.net/>)
+
+  > 使用它可以轻松下载Chrome 的扩展插件和主题背景。有一点不方便的，就是不能直接添加，需要手动添加。在 Chrome 中访问：【chrome://extensions】，把开发者打开，然后在左上角的【加载已解压的扩展程序】选择就可以使用了。同时它还提供了 Chrome 浏览器下载镜像。
 
 **代码搜索：**（学习以及避免重复造轮子）
 
@@ -199,21 +201,41 @@
 **免费图像网站：**
 
 - [Pexels](https://www.pexels.com/)（无版权）
+
+- [PxHere](<https://pxhere.com/>)（无版权）
+
+  > PxHere 是一个图片搜索网站，它上面所有的图片的都是遵循 CC0 协议的，你可以免费商用或者使用，而不需要标注来源。它上面不乏有很多高清的图片，基本上可以满足很多你的需求，而且没有法律的风险。
+
 - [lifeofpix](https://www.lifeofpix.com/)
+
 - [foter](https://foter.com/)
+
 - [picjumbo](https://picjumbo.com/)
+
 - [Gratisography](https://gratisography.com/)（无版权）
+
 - [Unsplash](https://unsplash.com/ )（无版权）
+
 - [freeimages](https://www.freeimages.com/)
+
 - [Pixabay](https://pixabay.com/)（无版权；有高清的照片素材，视频素材，插画素材，还有矢量图素材）
+
 - [Canva](https://www.canva.com/photos/free/)
+
 - [reshot](https://www.reshot.com/)
+
 - [rawpixel](https://www.rawpixel.com/)
+
 - [Morguefile](https://morguefile.com/)
+
 - [pxhere](https://pxhere.com/)
+
 - [ISO Republic](https://isorepublic.com/)
+
 - [泼辣有图](http://www.polayoutu.com)
+
 - [别样网-沙沙野](https://www.ssyer.com/)
+
 - [配图神器 Zoommy](https://zoommyapp.com/)
 
   > Zoommy 是一款桌面客户端应用，支持 Windows、macOS、Linux，可以从 50 家高质量图片网站中搜索超过 50000 张 CC0 授权，或者公有领域的图片，之后便可以随意使用这些图片。
