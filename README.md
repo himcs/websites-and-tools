@@ -14,18 +14,9 @@
 
 <h3 align="center">操作和技巧</h3>
 
-***Office 操作和使用技巧：*** [Office 使用大全，不断更新…](./notes/01-Office使用大全，不断更新.md)
-
-***电脑操作和使用技巧：***
-
-- [Windows 效率操作](./notes/02-Windows效率操作.md)
-- [MacOS 效率操作](./notes/03-MacOS效率操作.md)
-- [系统安装 | 硬件知识 | 电脑维修… - 电脑技能大杂烩](./notes/06-电脑技能大杂烩.md)
-
-***Chrome 浏览器的使用：*** [Chrome 效率操作.md](./notes/04-Chrome效率操作.md)
-
-***手机的操作和使用：*** [手机的操作和使用.md](./notes/05-手机的操作和使用.md)
-
+| :full_moon:                             | :full_moon:                               | :full_moon:                           | :full_moon:                             | :full_moon:                                | :full_moon:                            |
+| --------------------------------------- | ----------------------------------------- | ------------------------------------- | --------------------------------------- | ------------------------------------------ | -------------------------------------- |
+| [Office 操作](./notes/01-Office操作.md) | [Windows 操作](./notes/02-Windows操作.md) | [MacOS 操作](./notes/03-MacOS操作.md) | [Chrome 操作](./notes/04-Chrome操作.md) | [Android/iOS 操作](./notes/05-手机操作.md) | [技能大杂烩](./notes/06-技能大杂烩.md) |
 
 <h3 align="center">网站</h3>
 
