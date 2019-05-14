@@ -14,9 +14,9 @@
 
 <h3 align="center">操作和技巧</h3>
 
-| :full_moon:                             | :full_moon:                               | :full_moon:                           | :full_moon:                             | :full_moon:                                | :full_moon:                            |
-| --------------------------------------- | ----------------------------------------- | ------------------------------------- | --------------------------------------- | ------------------------------------------ | -------------------------------------- |
-| [Office 操作](./notes/01-Office操作.md) | [Windows 操作](./notes/02-Windows操作.md) | [MacOS 操作](./notes/03-MacOS操作.md) | [Chrome 操作](./notes/04-Chrome操作.md) | [Android/iOS 操作](./notes/05-手机操作.md) | [技能大杂烩](./notes/06-技能大杂烩.md) |
+| :full_moon:                             | :full_moon:                               | :full_moon:                           | :full_moon:                             | :full_moon:                                | :full_moon:                            | :full_moon: | :full_moon: |
+| --------------------------------------- | ----------------------------------------- | ------------------------------------- | --------------------------------------- | ------------------------------------------ | -------------------------------------- | ----------- | ----------- |
+| [Office 操作](./notes/01-Office操作.md) | [Windows 操作](./notes/02-Windows操作.md) | [MacOS 操作](./notes/03-MacOS操作.md) | [Chrome 操作](./notes/04-Chrome操作.md) | [Android/iOS 操作](./notes/05-手机操作.md) | [技能大杂烩](./notes/06-技能大杂烩.md) | 其他        | 其他        |
 
 <h3 align="center">网站</h3>
 
@@ -47,13 +47,21 @@
 - [GitNavi ](http://www.gitnavi.com/)
 - [科塔学术 - 科研与学术资源导航平台](<https://www.sciping.com/>)
 
-**编程学习：** 
+**编程/技术：** 
 
 - [菜鸟教程](http://www.runoob.com/)
+
 - [w3school 在线教程](http://www.w3school.com.cn/)
+
 - [w3cschool - 学编程](https://www.w3cschool.cn/)（有会员制的那个~）
+
 - [W3Schools 中文教程](http://www.w3s.com.cn/)
+
 - [C语言中文网](http://c.biancheng.net/cpp/)
+
+- [FreeSSL.cn](<https://freessl.cn/>)
+
+  > 一个免费提供 HTTPS 证书申请、HTTPS 证书管理和 HTTPS 证书到期提醒服务的网站。
 
 **程序员技术/问答/社区：**
 
@@ -377,6 +385,14 @@
 
 - [在线工具 —— 开源中国社区](http://tool.oschina.net/)
 - [在线工具 - 程序员的工具箱](https://tool.lu/)
+
+**科研工作：**
+
+- [Overleaf中文版](<https://cn.overleaf.com/>)
+
+  > Overleaf 是一个使用 LaTeX 进行多人协同编辑的平台，可以免费注册和使用，不用下载 LaTeX 软件，是最为著名的 LaTeX 在线协作系统。主要特色是有 LaTeX 插件，编辑功能十分完善，有实时预览（即编即看，无需手动编译）的功能。
+  >
+  > 使用：[LaTeX基本命令使用教程（清晰实例）（Overleaf平台）（论文排版）](<https://blog.csdn.net/Gentleman_Qin/article/details/79963396>)  |  [Overleaf功能入门](<https://www.letpub.com.cn/index.php?page=sci_writing_112>)  |  …
 
 **在线作图：** 
 
