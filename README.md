@@ -10,13 +10,13 @@
 
 | :fish_cake:                               | :fish_cake:                                      | :fish_cake:                                  | :fish_cake:                             | :fish_cake:                               | :fish_cake:                           | :fish_cake:                    |
 | -------------------------------------- | --------------------------------------------- | ------------------------------------------ | ------------------------------------ | -------------------------------------- | ---------------------------------- | -------------------------- |
-| [IDE 插件](./0.IDE_extensions.md) | [Chrome 扩展和应用](./1.chrome_extensions.md) | [Windows 软件和工具](./2.windows_tools.md) | [MacOS 软件和工具](./3.mac_tools.md) | [Linux 软件和工具](./4.linux_tools.md) | [Android 应用](./5.android_app.md) | [iOS 应用](./6.iOS_app.md) |
+| [IDE 插件](./0.IDE_plugins.md) | [Chrome 扩展和应用](./1.chrome_extensions.md) | [Windows 软件和工具](./2.windows_tools.md) | [MacOS 软件和工具](./3.mac_tools.md) | [Linux 软件和工具](./4.linux_tools.md) | [Android 应用](./5.android_app.md) | [iOS 应用](./6.iOS_app.md) |
 
 <h3 align="center">操作和技巧</h3>
 
-| :full_moon:                             | :full_moon:                               | :full_moon:                           | :full_moon:                             | :full_moon:                                | :full_moon:                            | :full_moon: | :full_moon: |
-| --------------------------------------- | ----------------------------------------- | ------------------------------------- | --------------------------------------- | ------------------------------------------ | -------------------------------------- | ----------- | ----------- |
-| [Office 操作](./notes/01-Office操作.md) | [Windows 操作](./notes/02-Windows操作.md) | [MacOS 操作](./notes/03-MacOS操作.md) | [Chrome 操作](./notes/04-Chrome操作.md) | [Android/iOS 操作](./notes/05-手机操作.md) | [技能大杂烩](./notes/06-技能大杂烩.md) | 其他        | 其他        |
+| :full_moon:                             | :full_moon:                               | :full_moon:                           | :full_moon:                             | :full_moon:                                | :full_moon:                            | :full_moon: | :full_moon: | :full_moon: |
+| --------------------------------------- | ----------------------------------------- | ------------------------------------- | --------------------------------------- | ------------------------------------------ | -------------------------------------- | ----------- | ----------- | ----------- |
+| [Office 操作](./notes/01-Office操作.md) | [Windows 操作](./notes/02-Windows操作.md) | [MacOS 操作](./notes/03-MacOS操作.md) | [Chrome 操作](./notes/04-Chrome操作.md) | [Android/iOS 操作](./notes/05-手机操作.md) | [技能大杂烩](./notes/06-技能大杂烩.md) | 其他        | 其他        | 其他        |
 
 <h3 align="center">网站</h3>
 
@@ -29,7 +29,7 @@
 -  [大马路](https://dama.lu/)
 -  [简约导航](https://www.jianavi.cn/)
 -  [某柠檬导航](https://www.moulem.com/j.html)
--  [Infinity](https://cn.infinitynewtab.com/)（插件；新一代的标签页，一个更好用，更强大的新标签页~）
+-  [Infinity](https://cn.infinitynewtab.com/)（插件；新一代的标签页，一个更好用，更强大的新标签页）
 
 **搜索类网站：** 
 
@@ -124,6 +124,8 @@
 - [bookset - 精品电子书免费下载](https://bookset.me/)
 
 - [SoBooks](https://sobooks.cc/)
+
+- [[搬书匠] - 电子书(EBook)](<http://www.banshujiang.cn/>)
 
 **资源下载：** 
 
@@ -265,10 +267,10 @@
 
 **Markdown写作/公众号排版网站：**
 
+- 在线 Markdown 写作：[MdEditor](https://www.mdeditor.com/)
 - Lyric：[微信公众号格式化编辑器](https://lab.lyric.im/wxformat/)
 - 小胡子哥：[Online Markdown Converter](http://md.barretlee.com/)
 - 颜家大少：[Md2All](http://md.aclickall.com/)
-- 在线 Markdown 写作：[MdEditor](https://www.mdeditor.com/)
 
 **制作在线电子书&在线创作：**
 

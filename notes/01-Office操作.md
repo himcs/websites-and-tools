@@ -1,4 +1,4 @@
-### Word
+# Word
 
 
 
@@ -10,7 +10,7 @@
 
 
 
-### Excel
+# Excel
 
 
 
@@ -20,8 +20,14 @@
 
 
 
-### PPT
+# PPT
+
+官方：[使用键盘快捷方式创建 PowerPoint 演示文稿 - PowerPoint](https://support.office.com/zh-cn/article/%E4%BD%BF%E7%94%A8%E9%94%AE%E7%9B%98%E5%BF%AB%E6%8D%B7%E6%96%B9%E5%BC%8F%E5%88%9B%E5%BB%BA-powerpoint-%E6%BC%94%E7%A4%BA%E6%96%87%E7%A8%BF-ebb3d20e-dcd4-444f-a38e-bb5c5ed180f4)
+
 
 
 
 - [动画设置――PowerPoint 2007 多媒体课件制作攻略（六）](http://office.wps.cn/officeppt/33940-2013-04-10-18-41-23-8.html)
+
+
+
