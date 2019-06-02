@@ -98,6 +98,12 @@ PS：关于硬盘分区，不管什么系统，(MBR)硬盘最多能分4个主分
 
 
 
+## 2.3 Windows上安装Mac系统（安装“黑苹果”）
+
+[ThinkPad X220 单硬盘安装 windows + mac os 完全教程]()
+
+
+
 
 
 # 三、Linux 发行版安装
@@ -202,11 +208,11 @@ the grub-efi-amd64-signed package failed to install into /target/.
 
 > 1、给Linux Ubuntu 分区的时候，我没有单独分boot分区，只分了 \(根分区)和Swap(交换分区)。
 >
->  2、(我的电脑是支持UEFI的)进入BIOS，找到BootMode，有三个选项Auto 、UEFI Only、Legacy Only。  选择Legacy       Only（传统模式）。
+> 2、(我的电脑是支持UEFI的)进入BIOS，找到BootMode，有三个选项Auto 、UEFI Only、Legacy Only。  选择Legacy       Only（传统模式）。
 >
->  3、之后保存重启进入GNU GRUB进行选择。
+> 3、之后保存重启进入GNU GRUB进行选择。
 >
->  4、UEFI和Legacy 
+> 4、UEFI和Legacy 
 >
 > ​	可扩展固件接口（Extensible Firmware Interface，EFI）是 Intel 为全新类型的 PC 固件的体系结构、接口和服务提出的建议标准。　其主要目的是为了提供一组在 OS 加载之前（启动前）在所有平台上一致的、正确指定的启动服务，被看做是有近20多年历史的PC BIOS的继任者。
 >
@@ -214,7 +220,21 @@ the grub-efi-amd64-signed package failed to install into /target/.
 >
 > ……
 
-(2) 开机界面多余的选项
+(2) Win7 和 Ubuntu 双系统时间不一样问题
+
+解决方法1：
+
+- 修改 Windows 对硬件时间的对待方式，让 Windows 把硬件时间当作 UTC（需要重启），在命令提示符下输入：
+
+  ``` xml
+  Reg add HKLM\SYSTEM\CurrentControlSet\Control\TimeZoneInformation /v RealTimeIsUniversal /t REG_DWORD /d 1
+  ```
+
+  即可成功解决。
+
+参考来源：<https://blog.csdn.net/zyqblog/article/details/79318955>
+
+(3) 开机界面多余的选项
 
 - [ubuntu删除开机界面中多余的选项](<https://blog.csdn.net/ztl0013/article/details/7936134>)
 - [ubuntu 引导修复，grub2多余选项删除](<https://blog.csdn.net/u013270341/article/details/79005827>)
@@ -233,7 +253,9 @@ the grub-efi-amd64-signed package failed to install into /target/.
 
 
 
-### 遇到的坑
+## 遇到的坑
+
+以下为在安装实验室服务器（CPU：至强E5-2620v4，主板：技嘉x99 ud4）下的遇到的问题。
 
 **问题 1：**
 
@@ -266,18 +288,6 @@ ntldr /bootmgr
 boot
 }
 ```
-
-
-
-
-
-# 三、黑苹果安装(Windows上安装Mac系统)
-
-
-
-[ThinkPad X220 单硬盘安装 windows + mac os 完全教程]()
-
-
 
 
 
