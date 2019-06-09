@@ -1,3 +1,11 @@
+## Windows 终端
+
+开源地址：<https://github.com/microsoft/terminal>
+
+Win 10 上安装教程：[Windows Terminal微软新版终端工具安装教程（附配置文件）](https://baiyue.one/archives/484.html)  |  视频：[第45期 Windows Terminal微软新版终端工具安装教程](<https://www.bilibili.com/video/av51726432/>)
+
+
+
 ## windows 常用快捷键
 
 - `Ctrl+R`：打开运行窗口
