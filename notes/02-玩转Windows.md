@@ -23,13 +23,15 @@ Win 10 上安装教程：[Windows Terminal微软新版终端工具安装教程�
 ## windows cmd 命令
 
 - `regedit`：打开注册表
-- `netstat -ano`：查看端口占用
+- `netstat -ano`：列出所有端口的情况。
+  - 若端口占用，可以先在列表中我们观察被占用的端口
 - `mstsc`：打开远程桌面连接
 - `calc`：打开计算器
 - `cls`：清除窗口信息
 - `systeminfo`：查看系统的详细状态，除了基本系统信息，还可以查看系统补丁及网络信息和 CPU 主板等信息
 - `shutdown -s -t 30`：电脑倒计时，将会在 30 秒后关机
 - `msconfig`：是 Microsoft System Configuration 的缩写。在开始菜单里运行中输入然后确认就可以找到程序开启或者禁用，可以帮助电脑禁止不需要运行的程序，这样可以加快你的电脑运行。
+- 
 
 
 
