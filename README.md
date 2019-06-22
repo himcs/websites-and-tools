@@ -7,19 +7,16 @@
 分类收藏一些网站，工具和软件，记录些关于 Windows、Mac、Linux 系统的软件操作和使用技巧等，“工欲善其事，必先利其器”，提高做事效率。欢迎大家 star，也欢迎 PR 或 issue，分享你觉得不错的。
 
 <h3 align="center">工具</h3>
-
 | :fish_cake:                               | :fish_cake:                                      | :fish_cake:                                  | :fish_cake:                             | :fish_cake:                               | :fish_cake:                           | :fish_cake:                    |
 | -------------------------------------- | --------------------------------------------- | ------------------------------------------ | ------------------------------------ | -------------------------------------- | ---------------------------------- | -------------------------- |
 | [IDE 插件](./0.IDE_plugins.md) | [Chrome 扩展和应用](./1.chrome_extensions.md) | [Windows 软件和工具](./2.windows_tools.md) | [MacOS 软件和工具](./3.mac_tools.md) | [Linux 软件和工具](./4.linux_tools.md) | [Android 应用](./5.android_app.md) | [iOS 应用](./6.iOS_app.md) |
 
 <h3 align="center">操作和技巧</h3>
-
 | :full_moon:                             | :full_moon:                               | :full_moon:                           | :full_moon:                             | :full_moon:                                     | :full_moon:                                    | :full_moon:                            | :full_moon: | :full_moon: |
 | --------------------------------------- | ----------------------------------------- | ------------------------------------- | --------------------------------------- | ----------------------------------------------- | ---------------------------------------------- | -------------------------------------- | ----------- | ----------- |
 | [玩转 Office](./notes/01-玩转Office.md) | [玩转 Windows](./notes/02-玩转Windows.md) | [玩转 MacOS](./notes/03-玩转MacOS.md) | [玩转 Chrome](./notes/04-玩转Chrome.md) | [玩转 Android/iOS 手机](./notes/05-玩转手机.md) | [玩转各类操作系统](./notes/06-玩转操作系统.md) | [技能大杂烩](./notes/07-技能大杂烩.md) | 其他        | 其他        |
 
 <h3 align="center">网站</h3>
-
 ## （一）有用网站
 
 **浏览器主页推荐：**
@@ -187,13 +184,24 @@
 **购书/阅读：**
 
 - [图灵社区](http://www.ituring.com.cn/book)  [荐]
-- [豆瓣读书](https://book.douban.com/)  [荐]
-- [当当网](http://www.dangdang.com/)
-- [china-pub网上书店](http://www.china-pub.com/)
-- [孔夫子旧书网](http://www.kongfz.com/)（可以买到很多便宜的二手书）
-- [闲鱼.淘宝二手 - 轻松卖闲置，放心淘二手](https://2.taobao.com/)（二手买卖平台）
 
-**代码之外：**
+- [豆瓣读书](https://book.douban.com/)  [荐]
+
+- [当当网](http://www.dangdang.com/)
+
+- [china-pub网上书店](http://www.china-pub.com/)
+
+- [孔夫子旧书网](http://www.kongfz.com/) - 买卖二手书
+
+- [闲鱼.淘宝二手 - 轻松卖闲置，放心淘二手](https://2.taobao.com/) - 二手买卖平台
+
+- [拍拍](<https://www.paipai.com/>)  |  [拍拍二手京东自营旗舰店 - 京东](<https://jingdongyoupin.jd.com/>)
+
+  > 拍拍，原名拍拍网、拍拍二手，起初是腾讯公司2005年推出的网络拍卖平台，现为京东旗下二手交易平台。
+  
+- [转转](<http://www.zhuanzhuan.com/>) - 二手交易网
+
+**代码之外：** 
 
 - 油管：[sikana视频课堂](https://www.youtube.com/user/SikanaChina/about)
 

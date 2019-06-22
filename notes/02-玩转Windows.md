@@ -37,7 +37,7 @@ Win 10 上安装教程：[Windows Terminal微软新版终端工具安装教程�
 
 ## windows 使用技巧
 
-### Windows 常见设置
+### Windows 常见设置？
 
 (1) 在 Windows 文件管理器中，输入`%APPDATA%`,回车，进入电脑`...\AppData\Roaming`目录。
 
@@ -72,13 +72,51 @@ Windows 下，`Ctrl+R`，输入 `\\192.168.x.x` 即可访问局域网的远程�
 
 #### 3. 使用软件远程连接，如 Teamviewer
 
+### 如何正确的修改administrator用户名？
+
+在“运行”里面输入“gpedit.msc”就打开了组策略 -> 计算机配置 -> Windows 设置 -> 安全设置 -> 本地策略 -> 安全选项 -> 账户：重命名系统管理员账户
+
+参考来源：[如何正确的修改administrator用户名-百度经验](https://jingyan.baidu.com/article/4dc408488b2187c8d946f1b2.html)
 
 
- 
+
+### 如何查看局域网ip被占用？
+
+windows键＋R键，打开cmd
+
+输入：`arp -a`，回车（“arp”与“-a”之间有空格）
+
+显示如下：
+
+![](https://img-1256179949.cos.ap-shanghai.myqcloud.com/20190622162929.png)
+
+——from：[查看公司内网 IP 占用情况](https://blog.csdn.net/Snow_loveLife/article/details/79290752)
+
+
+
+### 如何更改电脑自动获取的局域网IP地址？
+
+打开“运行”，打开 CMD 窗口，输入 ipconfig，查看本地 ip 地址、子网掩码、默认网关信息。
+
+![](https://img-1256179949.cos.ap-shanghai.myqcloud.com/20190622163303.png)
+
+然后进入 IPV4 协议修改为填写的即可。
+
+![](https://img-1256179949.cos.ap-shanghai.myqcloud.com/20190622163401.png)
+
+参考来源：https://www.pc841.com/Win10/201509-54222_all.html
+
+### DNS 服务器地址 8.8.8.8 和 8.8.4.4 是？
+
+8.8.8.8 是一个 IP 地址，是 Google 提供的免费 DNS 服务器的 IP 地址，Google 提供的另外一个免费 DNS 服务器的 IP 地址是：8.8.4.4 。用户可以使用 Google 提供的 DNS 服务器上网。 
+
+2009 年 12 月 04 日 Google 给了我们一个惊喜，并沉重的打击了 OpenDNS。他们宣布向所有的互联网用户提供一组快速，安全并且完全免费的 DNS 解析服务器，地址分别是：主 8.8.8.8，备 8.8.4.4。
+
+——from：[8.8.8.8_百度百科](https://baike.baidu.com/item/8.8.8.8)
 
 
 
 ---
 
-*update：2019-05-21* 
+*update：2019-06-22* 
 
