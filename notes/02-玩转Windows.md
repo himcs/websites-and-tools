@@ -1,11 +1,3 @@
-## Windows 终端
-
-开源地址：<https://github.com/microsoft/terminal>
-
-Win 10 上安装教程：[Windows Terminal微软新版终端工具安装教程（附配置文件）](https://baiyue.one/archives/484.html)  |  视频：[第45期 Windows Terminal微软新版终端工具安装教程](<https://www.bilibili.com/video/av51726432/>)
-
-
-
 ## windows 常用快捷键
 
 - `Ctrl+R`：打开运行窗口
@@ -17,6 +9,14 @@ Win 10 上安装教程：[Windows Terminal微软新版终端工具安装教程�
 - `Ctrl+W`：关闭窗口（浏览器下也可用。浏览器下新开窗口：`Ctrl+T`）
 - `Ctrl+P`：关于与投影仪的连接（断开、复制、扩展、仅投影仪）
 - `Win+L`：锁屏
+
+### 某些笔记本之快捷键
+
+惠普笔记本：
+
+- 锁定和取消 Fn 键：`Shift+fn`
+
+
 
 
 
@@ -116,6 +116,20 @@ windows键＋R键，打开cmd
 
 
 
+## Windows10 安装新版终端
+
+开源地址：<https://github.com/microsoft/terminal>
+
+Win 10 上安装教程：[Windows Terminal微软新版终端工具安装教程（附配置文件）](https://baiyue.one/archives/484.html)  |  视频：[第45期 Windows Terminal微软新版终端工具安装教程](<https://www.bilibili.com/video/av51726432/>) （实际：我在使用win10最新版专业版系统上不能成功安装。）
+
+[win10超级终端在哪怎么用，附Windows Terminal下载](http://pc.poppur.com/taishiji/9095.html)
+
+> 自微软发布Win95操作系统，它就打算用视窗界面来取代Dos状态下繁琐的命令行操作，让电脑（结合操作系统）更容易被普通用户上手和使用。然而当时有很大一部分电脑用户（从业者）是从MS DOS升级上来的，为了避免他们的不适应，微软还是于Windows里内置了一款终端（命令行执行软件）。之后windows又进化了好多个版本，对于第一版就使用Win7的90后来说，有多少平常使用windows的用户会使用生涩难懂的命令行操作呢，于是在win7之后，微软取消了内置在windows里的超级终端（命令行执行）程序。
+>
+> 对于普通电脑用家来说，这一点问题都没有，可对于程序员或者网站运维来说，这就非常不方便了，他们很多人只能无奈地安装putty或者是SecureCRT这样的远程终端软件。为什么那么多搞设计和程序开发的人会购买苹果电脑，就是因为MacOS是基于Linux系统，天生基因与命令行代码相近，同时MacOS自 Terminal（终端程序，命令行执行界面），打开这软件后就感觉是在Linux上直接操作，这就使得程序员在生产环境中非常倾向于使用苹果电脑。而先有鸡，还是先有蛋的问题微软在苹果App Store发展到如火如荼的今天也是终于意识到了，自他们收购了程序员大本营GitHub后，Windows也向程序员们抛出了橄榄枝，发布了由微软官方打造的win10超级终端程序 - Windows Terminal。
+
+截止到 2019-06-25，可以到 win10 应用商店可以下载到该终端，名称为：`Windows Terminal(Preview)`。
+
 ## Windows 10 操作
 
 ### 1. win10系统怎么关闭自动更新
@@ -144,7 +158,15 @@ windows键＋R键，打开cmd
 
 
 
+### 3. 设置 Win10 语言栏停靠在系统托盘最左边
 
+**解决方法：**
+
+1. WIN键+x > 控制面板 > 时钟、语言和区域 > 语言 > 高级设置
+
+2. 选中“使用桌面语言栏”，在后面的“选项”中，把语言栏移到系统盘左侧，选择“停靠于任务栏”
+
+——from：<https://zww.me/win10-language-bar-problem.z-turn>
 
 
 
