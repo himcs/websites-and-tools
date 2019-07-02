@@ -574,8 +574,8 @@
 - [88k影院](http://97kp.cc/)
 - [VIP影视](www.vipsite.info)
 - [八哥电影](http://www.bgdyhd.com/)
-- [平行影院](http://www.myaiqi.com/)
-- [97电影网](http://www.id97.com/)
+- [平行影院](http://www.myaiqi.com/)  
+- [97看片吧](<http://www.97kpb.com/>)  [荐]
 - [七七电视](http://www.77ds.net/)
 - [E视网](http://www.ewang.com/)
 - [热播网](https://www.y3600.com/)
