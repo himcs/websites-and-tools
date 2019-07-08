@@ -1,11 +1,12 @@
 <a name="top"></a>
 
-<h1 align="center" style=“width:100%;”>
+<div align="center" style=“width:100%;”>
         <img src="./assets/logo/logo.png" href="https://github.com/strivebo/websites-and-tools"></img>  
-</h1>
+</div>
 
 
-分类收藏一些网站，工具和软件，记录些关于 Windows、Mac、Linux 系统的软件操作和使用技巧等，“工欲善其事，必先利其器”，提高做事效率。欢迎大家 star，也欢迎 PR 或 issue，分享你觉得不错的。
+
+分类收藏一些网站，工具和软件，记录些关于 Windows、Mac、Linux 系统的软件操作和使用技巧等，“工欲善其事，必先利其器”，提高做事效率。欢迎大家 star，也欢迎 PR 或 issue，分享和推荐你觉得不错的。
 
 
 <h3 align="center">工具</h3>
@@ -31,7 +32,7 @@
 
 **浏览器主页推荐：**
 
--  [KIM主页](https://www.zhuye.kim/)
+-  [KIM主页](<https://kim.plopco.com/>)
 -  [星空导航](https://www.starnavi.cn)
 -  [大马路](https://dama.lu/)
 -  [简约导航](https://www.jianavi.cn/)
