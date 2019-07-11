@@ -9,9 +9,7 @@
 
 
 
-<p align="center" style="font-size:25px;font-weight: bold;">工具</p>
-
-
+<h2 align="center" style="font-size:25px;">工具</h2>
 
 
 | :fish_cake:                    | :fish_cake:                                   | :fish_cake:                                | :fish_cake:                          | :fish_cake:                            | :fish_cake:                        | :fish_cake:                |
@@ -20,8 +18,7 @@
 
 
 
-<p align="center" style="font-size:25px;font-weight: bold;">操作和技巧<p>
-
+<h2 align="center" style="font-size:25px;font-weight: bold;">操作和技巧</h2>
 
 
 
@@ -31,7 +28,7 @@
 
 
 
-<p align="center" style="font-size:25px;font-weight: bold;">网站</p>
+<h2 align="center" style="font-size:25px;">网站</h2>
 
 
 
