@@ -8,21 +8,21 @@
 
 分类收藏一些网站，工具和软件，记录些关于 Windows/Mac/Linux 系统的软件操作和使用技巧等，“工欲善其事，必先利其器”，提高做事效率。欢迎大家 star，也欢迎 PR 或 issue，分享和推荐你觉得不错的。
 
-<h2 align="center" style="border:0px">工具</h2>
+<div align="center" style="font-size:24px;font-weight: bold;">工具</div>
 
 
 | :fish_cake:                    | :fish_cake:                                   | :fish_cake:                                | :fish_cake:                          | :fish_cake:                            | :fish_cake:                        | :fish_cake:                |
 | ------------------------------ | --------------------------------------------- | ------------------------------------------ | ------------------------------------ | -------------------------------------- | ---------------------------------- | -------------------------- |
 | [IDE 插件](./0.IDE_plugins.md) | [Chrome 扩展和应用](./1.chrome_extensions.md) | [Windows 软件和工具](./2.windows_tools.md) | [MacOS 软件和工具](./3.mac_tools.md) | [Linux 软件和工具](./4.linux_tools.md) | [Android 应用](./5.android_app.md) | [iOS 应用](./6.iOS_app.md) |
 
-<h2 align="center" style="border:0px">操作和技巧</h2>
+<div align="center" style="font-size:24px;font-weight: bold;">操作和技巧</div>
 
 
 | :full_moon:                             | :full_moon:                               | :full_moon:                           | :full_moon:                             | :full_moon:                                     | :full_moon:                                | :full_moon:                            | :full_moon: | :full_moon: |
 | --------------------------------------- | ----------------------------------------- | ------------------------------------- | --------------------------------------- | ----------------------------------------------- | ------------------------------------------ | -------------------------------------- | ----------- | ----------- |
 | [玩转 Office](./notes/01-玩转Office.md) | [玩转 Windows](./notes/02-玩转Windows.md) | [玩转 MacOS](./notes/03-玩转MacOS.md) | [玩转 Chrome](./notes/04-玩转Chrome.md) | [玩转 Android/iOS 手机](./notes/05-玩转手机.md) | [玩转操作系统](./notes/06-玩转操作系统.md) | [技能大杂烩](./notes/07-技能大杂烩.md) | 其他        | 其他        |
 
-<h2 align="center" style="border:0px">网站</h2>
+<div align="center" style="font-size:24px;font-weight: bold;">网站</div>
 
 ### 1. 各类网站
 
@@ -67,19 +67,12 @@
 **购书/交易：**
 
 - [图灵社区](http://www.ituring.com.cn/book)  [荐]
-
 - [豆瓣读书](https://book.douban.com/)  [荐]
-
 - [当当网](http://www.dangdang.com/)
-
 - [china-pub网上书店](http://www.china-pub.com/)
-
 - [孔夫子旧书网](http://www.kongfz.com/) - 买卖二手书。
-
 - [闲鱼.淘宝二手 - 轻松卖闲置，放心淘二手](https://2.taobao.com/) - 二手买卖平台。
-
 - [拍拍](<https://www.paipai.com/>)  |  [拍拍二手京东自营旗舰店 - 京东](<https://jingdongyoupin.jd.com/>) - 拍拍，原名拍拍网、拍拍二手，起初是腾讯公司2005年推出的网络拍卖平台，现为京东旗下二手交易平台。
-
 - [转转](<http://www.zhuanzhuan.com/>) - 二手交易网。
 
 **技能学习：** 
@@ -95,55 +88,32 @@
 **免费图像网站：**
 
 - [Pexels](https://www.pexels.com/)  [无版权]
-
 - [PxHere](<https://pxhere.com/>) - PxHere 是一个图片搜索网站，它上面所有的图片的都是遵循 CC0 协议的，你可以免费商用或者使用，而不需要标注来源。它上面不乏有很多高清的图片，基本上可以满足很多你的需求，而且没有法律的风险。  [无版权]
-
 - [lifeofpix](https://www.lifeofpix.com/)
-
 - [foter](https://foter.com/)
-
 - [picjumbo](https://picjumbo.com/)
-
 - [Gratisography](https://gratisography.com/)  [无版权]
-
 - [Unsplash](https://unsplash.com/ )  [无版权]
-
 - [freeimages](https://www.freeimages.com/)
-
 - [Pixabay](https://pixabay.com/) - 有高清的照片素材，视频素材，插画素材，还有矢量图素材。  [无版权]
-
 - [Canva](https://www.canva.com/photos/free/)
-
 - [reshot](https://www.reshot.com/)
-
 - [rawpixel](https://www.rawpixel.com/)
-
 - [Morguefile](https://morguefile.com/)
-
 - [pxhere](https://pxhere.com/)
-
 - [ISO Republic](https://isorepublic.com/)
-
 - [泼辣有图](http://www.polayoutu.com)
-
 - [别样网-沙沙野](https://www.ssyer.com/)
-
 - [配图神器 Zoommy](https://zoommyapp.com/) - Zoommy 是一款桌面客户端应用，支持 Windows、macOS、Linux，可以从 50 家高质量图片网站中搜索超过 50000 张 CC0 授权，或者公有领域的图片，之后便可以随意使用这些图片。
 
 **图标素材：** 
 
 - [Flatlcon](https://www.flaticon.com/) - 提供海量免费的 SVG、PNG、WebFont 格式图标素材下载的站点，该网站收录的图标都是单色、平面化素材。
-
 - [Fontello](http://fontello.com/) - 可以自定义 icon。
-
 - [Iconfont](https://www.iconfont.cn/) - 阿里巴巴矢量图标库是由阿里巴巴体验团队倾力打造的中国第一个最大且功能最全的矢量图标库，提供矢量图标下载、在线存储、格式转换等功能，是设计师和前端开发的便捷工具。
-
 - [Swifticons](https://www.swifticons.com/) - 高品质多分类图标素材网站，提供 1456 种高品质图标素材，覆盖了 15 个广泛的分类样式。
-
 - [IconFinder-Free Icons](https://www.iconfinder.com/free_icons)
-
 - [Vexels](https://www.vexels.com/)
-
 - [Icons8](https://icons8.com/)
 
 **LOGO设计：**
@@ -222,7 +192,7 @@
 
 - [码云 Gitee](https://gitee.com/) - 为开源中国旗下的。
 - [CODING](https://coding.net/)
-- 国外：[GitHub](https://github.com/) - 2018-06-04宣布 75 亿美元被微软收购。现可以免费创建私有仓库。
+- 国外：[GitHub](https://github.com/) - 2018-06-04 宣布 75 亿美元被微软收购。现可以免费创建私有仓库。
 - 国外：[GitLab](https://www.gitlab.com/) - 可以免费创建私有仓库；GitLab 让开发团队对他们的代码仓库拥有更多的控制。
 
 **编程资源：**
@@ -298,15 +268,10 @@
 **简历制作：**
 
 - [冷熊简历](http://cv.ftqq.com/#) - 一款 Markdown 简历工具，支持 Markdown 实时预览，下载 MD 文件，一键转化为 PDF。另外添加了常用内容片段，简历内容自动实时保存。
-
 - [CyC2018/Markdown-Resume](https://github.com/CyC2018/Markdown-Resume)
-
 - [五百丁 - 中国领先的简历制作平台](http://www.500d.me/)
-
 - [乔布简历](http://cv.qiaobutang.com/)
-
 - [Docer稻壳儿](http://www.docer.com/)
-
 - [超级简历](https://www.wondercv.com/)
 
 
@@ -351,21 +316,16 @@
 **在线办公/文档转换/处理：** 
 
 - [UZER.ME](https://uzer.me/) - UZER 是一个无需下载安装，就可以在浏览器中使用各种企业级大型软件（比如 Office 系列，PS，AutoCAD），无需安装插件，也不会占很多内存，打开网页就可以体验使用，而且几乎没有卡顿。
-
 - [PDF2go](https://www.pdf2go.com/zh/)
-
 - [Smallpdf](https://smallpdf.com/cn)
-
 - [iLovePDF](https://www.ilovepdf.com/zh_cn)
 
 **全能文件格式在线转换：** 
 
 - [office-converter](https://cn.office-converter.com/) - Office Converter 是世界上最大的在线文件转换工具集合网站，你能免费在线转换包括视频、音频、图形、文档和压缩等服务，目前能够做到输出超过500种格式，输入格式转换超过2000种不同的格式转换。目前网站提供的在线转换文件包括，在线文档转换、在线视频转换、在线音乐转换、在线电子书转换、在线文件压缩、在线二维码生成器、在线 YouTube 转换和下载、在线翻译/免费、在线单位转换： 热门单位换算、 在线力学转算、在线运动转算、 在线维度转算等等。
-  
 - [Aconvert.com](https://www.aconvert.com/cn/) - 各类文件类型转换；音视频分割、合并、裁剪等；在线压缩。
 - [CloudConvert](https://cloudconvert.com/) - 各类文件类型相互之间转换。
   - 在线 WMA 转 GIF 图片：<https://cloudconvert.com/wmv-to-gif>
-
 - [Convertio](https://convertio.co/zh/) - Convertio 是在线文档转换工具，支持45种常见格式的文档转换工具，包括办公文档、图片、电子书、音频、压缩文件等类型。可以快速实现 PDF 转换 Word、PNG 转换 JPG、WAV 转换 MP3 等操作。对应的 chrome 插件：[Convertio插件在线安装](https://chrome.google.com/webstore/detail/convertio/eppjkefeiehhflmgkhdooajgbkkegpcl/related)。
 
 **在线图片处理：** 
