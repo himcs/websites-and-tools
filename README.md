@@ -5,24 +5,35 @@
 </div>
 
 
-
 分类收藏一些网站，工具和软件，记录些关于 Windows/Mac/Linux 系统的软件操作和使用技巧等，“工欲善其事，必先利其器”，提高做事效率。欢迎大家 star，也欢迎 PR 或 issue，分享和推荐你觉得不错的。
 
+
+
 <div align="center" style="font-size:24px;font-weight: bold;">工具</div>
+
+
 
 
 | :fish_cake:                    | :fish_cake:                                   | :fish_cake:                                | :fish_cake:                          | :fish_cake:                            | :fish_cake:                        | :fish_cake:                |
 | ------------------------------ | --------------------------------------------- | ------------------------------------------ | ------------------------------------ | -------------------------------------- | ---------------------------------- | -------------------------- |
 | [IDE 插件](./0.IDE_plugins.md) | [Chrome 扩展和应用](./1.chrome_extensions.md) | [Windows 软件和工具](./2.windows_tools.md) | [MacOS 软件和工具](./3.mac_tools.md) | [Linux 软件和工具](./4.linux_tools.md) | [Android 应用](./5.android_app.md) | [iOS 应用](./6.iOS_app.md) |
 
+
+
 <div align="center" style="font-size:24px;font-weight: bold;">操作和技巧</div>
+
+
 
 
 | :full_moon:                             | :full_moon:                               | :full_moon:                           | :full_moon:                             | :full_moon:                                     | :full_moon:                                | :full_moon:                            | :full_moon: | :full_moon: |
 | --------------------------------------- | ----------------------------------------- | ------------------------------------- | --------------------------------------- | ----------------------------------------------- | ------------------------------------------ | -------------------------------------- | ----------- | ----------- |
 | [玩转 Office](./notes/01-玩转Office.md) | [玩转 Windows](./notes/02-玩转Windows.md) | [玩转 MacOS](./notes/03-玩转MacOS.md) | [玩转 Chrome](./notes/04-玩转Chrome.md) | [玩转 Android/iOS 手机](./notes/05-玩转手机.md) | [玩转操作系统](./notes/06-玩转操作系统.md) | [技能大杂烩](./notes/07-技能大杂烩.md) | 其他        | 其他        |
 
+
+
 <div align="center" style="font-size:24px;font-weight: bold;">网站</div>
+
+
 
 ### 1. 各类网站
 
@@ -237,7 +248,6 @@
 - [ZOJ（浙江大学）](http://acm.zju.edu.cn/onlinejudge/showProblemsets.do)
 - [南阳理工学院](http://acm.nyist.edu.cn/JudgeOnline/problemset.php)
 - [炮姐 OJ 平台](http://acm.timus.ru/problemset.aspx)
-
 - [Codeforces](http://codeforces.com/) - 国外
 
 **算法考试/比赛：** 
@@ -345,7 +355,6 @@
 - [舒克高清视频下载](http://www.shokdown.com/)
 - [硕鼠下载](http://www.flvcd.com/)
 - [微博、秒拍、小咖秀、晃咖视频解析下载](https://weibo.iiilab.com/)
-
 - [Apowersoft免费在线视频下载](https://www.apowersoft.cn/online-video-downloader) - 国外
 - [ClipConverter.cc](https://www.clipconverter.cc/) - 国外
 - [免费在线 YouTube 下载器-savefrom.net](https://zh.savefrom.net/) - 国外
