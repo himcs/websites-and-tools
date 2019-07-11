@@ -9,7 +9,7 @@
 
 
 
-<div align="center" style="font-size:24px;font-weight: bold;">工具</div>
+<p align="center" style="font-size:25px;font-weight: bold;">工具</p>
 
 
 
@@ -20,7 +20,7 @@
 
 
 
-<div align="center" style="font-size:24px;font-weight: bold;">操作和技巧</div>
+<p align="center" style="font-size:25px;font-weight: bold;">操作和技巧<p>
 
 
 
@@ -31,7 +31,7 @@
 
 
 
-<div align="center" style="font-size:24px;font-weight: bold;">网站</div>
+<p align="center" style="font-size:25px;font-weight: bold;">网站</p>
 
 
 
