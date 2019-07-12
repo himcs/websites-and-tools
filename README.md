@@ -9,26 +9,26 @@
 
 
 
-<h2 align="center" style="font-size:25px;">工具</h2>
+<h2 align="center" style="font-size:24px;font-weight: bold;">工具和应用</h2>
 
 
-| :fish_cake:                    | :fish_cake:                                   | :fish_cake:                                | :fish_cake:                          | :fish_cake:                            | :fish_cake:                        | :fish_cake:                |
-| ------------------------------ | --------------------------------------------- | ------------------------------------------ | ------------------------------------ | -------------------------------------- | ---------------------------------- | -------------------------- |
-| [IDE 插件](./0.IDE_plugins.md) | [Chrome 扩展和应用](./1.chrome_extensions.md) | [Windows 软件和工具](./2.windows_tools.md) | [MacOS 软件和工具](./3.mac_tools.md) | [Linux 软件和工具](./4.linux_tools.md) | [Android 应用](./5.android_app.md) | [iOS 应用](./6.iOS_app.md) |
-
-
-
-<h2 align="center" style="font-size:25px;font-weight: bold;">操作和技巧</h2>
+| :fish_cake:                    | :fish_cake:                             | :fish_cake:                          | :fish_cake:                    | :fish_cake:                      | :fish_cake:                        | :fish_cake:                | :fish_cake: |
+| ------------------------------ | --------------------------------------- | ------------------------------------ | ------------------------------ | -------------------------------- | ---------------------------------- | -------------------------- | ----------- |
+| [IDE 插件](./0.IDE_plugins.md) | [Chrome 插件](./1.chrome_extensions.md) | [Windows 工具](./2.windows_tools.md) | [MacOS 工具](./3.mac_tools.md) | [Linux 工具](./4.linux_tools.md) | [Android 应用](./5.android_app.md) | [iOS 应用](./6.iOS_app.md) | ......      |
 
 
 
-| :full_moon:                             | :full_moon:                               | :full_moon:                           | :full_moon:                             | :full_moon:                                     | :full_moon:                                | :full_moon:                            | :full_moon: | :full_moon: |
-| --------------------------------------- | ----------------------------------------- | ------------------------------------- | --------------------------------------- | ----------------------------------------------- | ------------------------------------------ | -------------------------------------- | ----------- | ----------- |
-| [玩转 Office](./notes/01-玩转Office.md) | [玩转 Windows](./notes/02-玩转Windows.md) | [玩转 MacOS](./notes/03-玩转MacOS.md) | [玩转 Chrome](./notes/04-玩转Chrome.md) | [玩转 Android/iOS 手机](./notes/05-玩转手机.md) | [玩转操作系统](./notes/06-玩转操作系统.md) | [技能大杂烩](./notes/07-技能大杂烩.md) | 其他        | 其他        |
+<h2 align="center" style="font-size:24px;">操作和技巧</h2>
 
 
 
-<h2 align="center" style="font-size:25px;">网站</h2>
+| :full_moon:                             | :full_moon:                               | :full_moon:                           | :full_moon:                             | :full_moon:                        | :full_moon:                                | :full_moon:                        | :full_moon: |
+| --------------------------------------- | ----------------------------------------- | ------------------------------------- | --------------------------------------- | ---------------------------------- | ------------------------------------------ | ---------------------------------- | ----------- |
+| [玩转 Office](./notes/01-玩转Office.md) | [玩转 Windows](./notes/02-玩转Windows.md) | [玩转 MacOS](./notes/03-玩转MacOS.md) | [玩转 Chrome](./notes/04-玩转Chrome.md) | [玩转手机](./notes/05-玩转手机.md) | [玩转操作系统](./notes/06-玩转操作系统.md) | [技能杂烩](./notes/07-技能杂烩.md) | ......      |
+
+
+
+<h2 align="center" style="font-size:24px;">网站和书签</h2>
 
 
 
@@ -43,36 +43,36 @@
 -  [某柠檬导航](https://www.moulem.com/j.html)
 -  [Infinity](https://cn.infinitynewtab.com/) - 新一代的标签页，一个更好用，更强大的新标签页。 [浏览器插件]
 
-**资料搜索：** 
+**资源|网盘|搜索：** 
 
 - [国外搜索引擎大全-百鸣](http://www.baimin.com/world/557.htm)
 - [虫部落 — 让搜索更简单](http://www.chongbuluo.com/)  [荐]
 - [Bird.so 小众搜索引擎](https://bird.so/)
 - [史莱姆搜索](http://www.slimego.cn/)
 - [我的盘 - 最好用的网盘搜索引擎](http://www.wodepan.com/)
+- [南瓜线报资源网](<https://www.630906.com/>)
 
 **电子书下载：** 
 
 - [Love2.io](https://love2.io/) - Love2.io 是一个全新的开源技术文档分享平台，我们致力于提供用户更优雅的阅读和写作体验。技术改变世界，用文档传播。有很多来自 GitHub 的技术书籍。  [荐]
 - [SIMPLE求知网-互联网+程序猿](<http://www.simple000.com/>) - 为编程爱好者提供计算机电子书等电子资料免费资源下载。
-- [bookset - 精品电子书免费下载](https://bookset.me/)
 - [SoBooks](https://sobooks.cc/)
 - [[搬书匠] - 电子书(EBook)](<http://www.banshujiang.cn/>)
 
-**科研/学术：**
+**科研|学术：**
 
 - [科塔学术 - 科研与学术资源导航平台](<https://www.sciping.com/>)
 - [Overleaf中文版](<https://cn.overleaf.com/>) - Overleaf 是一个使用 LaTeX 进行多人协同编辑的平台，可以免费注册和使用，不用下载 LaTeX 软件，是最为著名的 LaTeX 在线协作系统。主要特色是有 LaTeX 插件，编辑功能十分完善，有实时预览（即编即看，无需手动编译）的功能。使用：[LaTeX基本命令使用教程（清晰实例）（Overleaf平台）（论文排版）](<https://blog.csdn.net/Gentleman_Qin/article/details/79963396>)  |  [Overleaf功能入门](<https://www.letpub.com.cn/index.php?page=sci_writing_112>)  |  …
 
-**汽车**
+**汽车：**
 
 - [汽车之家](https://www.autohome.com.cn/) - 汽车之家为汽车消费者提供选车、买车、用车、换车等所有环节的全面、准确、快捷的一站式服务。
 
-**理财/炒股/炒币：**
+**理财|炒股|炒币：**
 
 - [雪球](https://xueqiu.com/) - 雪球（Snowball / Xueqiu），是一家成立于 2010 年 3 月的投资者垂直社交媒体，用户可以在雪球关注股票及基金等证券代码，查看沪深/港/美股票的实时行情；关注各类投资者进行投资见解的交流；创建和分享个人投资组合；创建沪深及美股股票账户、基金交易账户，实盘买卖股票和基金。
 
-**购书/交易：**
+**购书|交易：**
 
 - [图灵社区](http://www.ituring.com.cn/book)  [荐]
 - [豆瓣读书](https://book.douban.com/)  [荐]
@@ -87,16 +87,15 @@
 
 - [YouTube：sikana视频课堂](https://www.youtube.com/user/SikanaChina/about) - 专注精品网络技能教育课程，内容涵盖艺术，音乐，烹饪，手工，健康，装修，自然和体育等多个方面。
 
-**工具/下载：**
+**工具|下载：**
 
 - [少数派](https://sspai.com/) - 致力于更好地运用数字产品或科学方法，帮助用户提升工作效率和生活品质。
 - [GugeApps](<https://www.gugeapps.net/>) - 使用它可以轻松下载 Chrome 的扩展插件和主题背景。有一点不方便的，就是不能直接添加，需要手动添加。在 Chrome 中访问：chrome://extensions，把开发者打开，然后在左上角的”加载已解压的扩展程序“选择就可以使用了。同时它还提供了 Chrome 浏览器下载镜像。
-- [DownGit](https://minhaskamal.github.io/DownGit/#/home) | [DownGit中文版](http://downgit.zhoudaxiaa.com/#/home) - 想要下载 GitHub 整个项目，或说项目中的指定文件夹或文件，只要复制相应链接拷贝粘贴，然后点击 Download 就可以下载。
 
 **免费图像网站：**
 
 - [Pexels](https://www.pexels.com/)  [无版权]
-- [PxHere](<https://pxhere.com/>) - PxHere 是一个图片搜索网站，它上面所有的图片的都是遵循 CC0 协议的，你可以免费商用或者使用，而不需要标注来源。它上面不乏有很多高清的图片，基本上可以满足很多你的需求，而且没有法律的风险。  [无版权]
+- [PxHere](<https://pxhere.com/>) - PxHere 是一个图片搜索网站，它上面所有的图片的都是遵循 CC0 协议的，你可以免费商用或者使用，而不需要标注来源。它上面不乏有很多高清的图片，基本上可以满足很多你的需求，而且没有法律的风险。  [无版权]  [荐]
 - [lifeofpix](https://www.lifeofpix.com/)
 - [foter](https://foter.com/)
 - [picjumbo](https://picjumbo.com/)
@@ -124,13 +123,20 @@
 - [Vexels](https://www.vexels.com/)
 - [Icons8](https://icons8.com/)
 
+**免费图床：**
+
+- [SM.MS](https://sm.ms/) - 无外链限制，无流量限制的图床，简易的在线图床工具。
+- [路过图床](<https://imgchr.com/>)
+- [Qchan图床](http://tuchuang.org/)
+- [小贱贱图床](http://pic.xiaojianjian.net/) - 每日上传图片限制数：30张。
+
 **LOGO设计：**
 
 - [Logomakr](https://logomakr.com/)  [荐]
 - [Free Logo Design](https://www.freelogodesign.org/)
 - [Logo Garden](https://www.logogarden.com/)
 
-**MD写作/公号排版/封图制作：**
+**公号排版|封图制作：**
 
 - 在线 Markdown 写作：[MdEditor](https://www.mdeditor.com/)
 - Lyric：[微信公众号格式化编辑器](https://lab.lyric.im/wxformat/)
@@ -144,7 +150,90 @@
 
 
 
-### 2. 编程相关
+### 2. 在线工具
+
+**在线作图：** 
+
+- [draw.io](https://www.draw.io/)
+- [ProcessOn](https://www.processon.com/)
+- [gliffy](https://www.gliffy.com/diagram-software)
+
+**工具|下载：** 
+
+- [Crx离线安装包下载](http://yurl.sinaapp.com/crx.php) - 可将 Chrome 插件转为 crx 文件。
+- [中文转换工具](https://www.chineseconverter.com/zh-cn/convert/chinese-to-pinyin) - 中文转换一系列工具。
+- [免费在线文字识别，文字提取，OCR服务](http://www.ocrmaker.com/)  [荐]
+- [DownGit](https://minhaskamal.github.io/DownGit/#/home) | [DownGit中文版](http://downgit.zhoudaxiaa.com/#/home) - 想要下载 GitHub 整个项目，或说项目中的指定文件夹或文件，只要复制相应链接拷贝粘贴，然后点击 Download 就可以下载。
+- [百度文库文档解析抓取工具](<http://bdwk.588230.com/>) - 百度文库付费 RMB 文档免费下载。
+- [PanDownload网页版](<https://www.baiduwp.com/>)  [荐]
+
+**在线制作思维导图：**
+
+- [幕布](https://mubu.com/apps)
+- [百度脑图](http://naotu.baidu.com/)
+
+**在线办公|文档转换|处理：** 
+
+- [UZER.ME](https://uzer.me/) - UZER 是一个无需下载安装，就可以在浏览器中使用各种企业级大型软件（比如 Office 系列，PS，AutoCAD），无需安装插件，也不会占很多内存，打开网页就可以体验使用，而且几乎没有卡顿。
+- [PDF2go](https://www.pdf2go.com/zh/)
+- [Smallpdf](https://smallpdf.com/cn)
+- [iLovePDF](https://www.ilovepdf.com/zh_cn)
+
+**格式转换：** 
+
+- [office-converter](https://cn.office-converter.com/) - Office Converter 是世界上最大的在线文件转换工具集合网站，你能免费在线转换包括视频、音频、图形、文档和压缩等服务，目前能够做到输出超过500种格式，输入格式转换超过2000种不同的格式转换。目前网站提供的在线转换文件包括，在线文档转换、在线视频转换、在线音乐转换、在线电子书转换、在线文件压缩、在线二维码生成器、在线 YouTube 转换和下载、在线翻译/免费、在线单位转换： 热门单位换算、 在线力学转算、在线运动转算、 在线维度转算等等。
+- [Aconvert.com](https://www.aconvert.com/cn/) - 各类文件类型转换；音视频分割、合并、裁剪等；在线压缩。
+- [CloudConvert](https://cloudconvert.com/) - 各类文件类型相互之间转换。
+  - 在线 WMA 转 GIF 图片：<https://cloudconvert.com/wmv-to-gif>
+- [Convertio](https://convertio.co/zh/) - Convertio 是在线文档转换工具，支持45种常见格式的文档转换工具，包括办公文档、图片、电子书、音频、压缩文件等类型。可以快速实现 PDF 转换 Word、PNG 转换 JPG、WAV 转换 MP3 等操作。对应的 chrome 插件：[Convertio插件在线安装](https://chrome.google.com/webstore/detail/convertio/eppjkefeiehhflmgkhdooajgbkkegpcl/related)。
+
+**图片处理：** 
+
+- [iLoveIMG](https://www.iloveimg.com/zh-cn) - iLoveIMG 是一个在线“图像文件处理”网络应用软件，提供多种图像文件基础编辑功能。其中包括：图片文件格式转换、图片压缩、图片剪裁服务的工具集合，支持图片格式有 JPG、PNG、GIF。它的优点：一次调整多个图像文件的尺寸、压缩多个图像文件、裁剪多个图像文件，以及转换多个图像文件的格式。
+- [压缩图](https://www.yasuotu.com/) - 在线图片压缩工具。
+- [在线图片大小修改器](https://www.sojson.com/image/change.html)
+- [改图宝](http://www.gaitubao.com/) - 在线修改照片大小尺寸工具。
+
+**视频|音频处理：**
+
+- [在线编辑视频](https://online-video-cutter.com/cn/)
+- [在线提取视频中音频](http://audio-extractor.net/cn/) 
+
+**视频下载：** 
+
+- [舒克高清视频下载](http://www.shokdown.com/)
+- [硕鼠下载](http://www.flvcd.com/)
+- [微博、秒拍、小咖秀、晃咖视频解析下载](https://weibo.iiilab.com/)
+- [Apowersoft免费在线视频下载](https://www.apowersoft.cn/online-video-downloader) - 国外
+- [ClipConverter.cc](https://www.clipconverter.cc/) - 国外
+- [免费在线 YouTube 下载器-savefrom.net](https://zh.savefrom.net/) - 国外
+- [Video Grabber免费下载海量视频资源](https://www.videograbber.net/zh/) - 国外
+
+**短地址：** 
+
+- [短链在线生成-短网址生成器](http://tool.tcode.me/shorturl.html)  [荐]
+- [网址缩短-suo.im短网址](http://suo.im/)
+- [短网址生成-ft12.com短网址](http://www.ft12.com/)
+
+**加密解密：**
+
+- [MD5在线加密/解密/破解—MD5在线](https://www.sojson.com/encrypt_md5.html)
+- [MD5在线加密/解密/破解 - 站长工具](http://tool.chinaz.com/Tools/md5.aspx)
+- [SOMD5](https://www.somd5.com/)
+
+**特殊符号：** 
+
+- [特殊符號大全](https://www.ifreesite.com/typing/keyboard-symbols.htm)
+- [特殊字符大全](http://xh.5156edu.com/page/18466.html)
+
+**latex公式编辑：**
+
+- [在线 LaTeX 公式编辑器](<https://www.codecogs.com/latex/eqneditor.php>)
+- [LaTeX公式编辑器](<https://zh.numberempire.com/latexequationeditor.php>)
+
+
+
+### 3. 编程学习
 
 **编程导航：** 
 
@@ -152,6 +241,11 @@
 - [Tool321_不可错过任何一个工具](http://tool321.com/cn/index.html)
 - [Web前端导航](http://www.alloyteam.com/nav/)
 - [前端文档工具](http://www.css88.com/nav/)
+
+**编程工具箱：**
+
+- [在线工具 —— 开源中国社区](http://tool.oschina.net/)
+- [在线工具 - 程序员的工具箱](https://tool.lu/)
 
 **编程学习：** 
 
@@ -167,7 +261,7 @@
 - [【友盟+】全球领先的第三方全域数据服务商](https://www.umeng.com/)
 - [IPIP.NET](https://www.ipip.net/ip.html) - 在线查询 IP  [荐]
 
-**技术社区/平台：**
+**技术社区|平台：**
 
 - [GitHub](https://github.com/)
 - [Stack Overflow](https://stackoverflow.com/) - 优质问答社区。
@@ -185,7 +279,7 @@
 - 国外：[GitBook](https://www.gitbook.com/)
 - 国内：[看云](https://www.kancloud.cn/)
 
-**行业新闻：** 
+**行业动态：** 
 
 - [36氪](<https://36kr.com/>)
 - [InfoQ](http://www.infoq.com/cn) 
@@ -247,7 +341,7 @@
 - [炮姐 OJ 平台](http://acm.timus.ru/problemset.aspx)
 - [Codeforces](http://codeforces.com/) - 国外
 
-**算法考试/比赛：** 
+**算法考试|比赛：** 
 
 - [PAT | 计算机程序设计能力考试](<https://www.patest.cn/>)
 
@@ -259,7 +353,7 @@
 - [启信宝|企业查询|企业信息查询|企业信用查询](http://www.qixin.com/)
 - [全国企业营业执照查询系统(红盾网)-中国工商局注册信用信息公示网](http://www.xiechuangw.com/chaxun/)
 
-**求职/招聘：**
+**求职|招聘：**
 
 - [牛客网](https://www.nowcoder.com/) - IT行业求职、招聘、刷题等。
 - IT/互联网专业的招聘网站：
@@ -281,15 +375,14 @@
 - [Docer稻壳儿](http://www.docer.com/)
 - [超级简历](https://www.wondercv.com/)
 
-
-**兼职/实习：** 
+**兼职|实习：** 
 
 - [大学生找实习求职招聘网站 | 实习僧](https://www.shixiseng.com/)
 - [实习生-找实习-刺猬实习-最受信赖的实习招聘平台](http://www.ciweishixi.com/)
 - [求职找工作 - 人才招聘 - 大街网](https://www.dajie.com/)
 - [兼职猫app-免费、安全、靠谱｜大学生蓝领喜爱的临时工软件](https://www.jianzhimao.com/)
 
-**项目/外包：** 
+**项目|外包：** 
 
 - [程序员客栈](https://www.proginn.com/)
 - [猪八戒网站](http://www.zbj.com/)
@@ -298,98 +391,7 @@
 
 
 
-### 3. 在线工作
-
-**在线工具箱：**
-
-- [在线工具 —— 开源中国社区](http://tool.oschina.net/)
-- [在线工具 - 程序员的工具箱](https://tool.lu/)
-
-**在线作图：** 
-
-- [draw.io](https://www.draw.io/)
-- [ProcessOn](https://www.processon.com/)
-- [gliffy](https://www.gliffy.com/diagram-software)
-
-**在线制作思维导图：**
-
-- [幕布](https://mubu.com/apps)
-- [百度脑图](http://naotu.baidu.com/)
-
-**在线Chrome插件转为crx文件：** 
-
-- [Crx离线安装包下载](http://yurl.sinaapp.com/crx.php)
-
-**在线办公/文档转换/处理：** 
-
-- [UZER.ME](https://uzer.me/) - UZER 是一个无需下载安装，就可以在浏览器中使用各种企业级大型软件（比如 Office 系列，PS，AutoCAD），无需安装插件，也不会占很多内存，打开网页就可以体验使用，而且几乎没有卡顿。
-- [PDF2go](https://www.pdf2go.com/zh/)
-- [Smallpdf](https://smallpdf.com/cn)
-- [iLovePDF](https://www.ilovepdf.com/zh_cn)
-
-**全能文件格式在线转换：** 
-
-- [office-converter](https://cn.office-converter.com/) - Office Converter 是世界上最大的在线文件转换工具集合网站，你能免费在线转换包括视频、音频、图形、文档和压缩等服务，目前能够做到输出超过500种格式，输入格式转换超过2000种不同的格式转换。目前网站提供的在线转换文件包括，在线文档转换、在线视频转换、在线音乐转换、在线电子书转换、在线文件压缩、在线二维码生成器、在线 YouTube 转换和下载、在线翻译/免费、在线单位转换： 热门单位换算、 在线力学转算、在线运动转算、 在线维度转算等等。
-- [Aconvert.com](https://www.aconvert.com/cn/) - 各类文件类型转换；音视频分割、合并、裁剪等；在线压缩。
-- [CloudConvert](https://cloudconvert.com/) - 各类文件类型相互之间转换。
-  - 在线 WMA 转 GIF 图片：<https://cloudconvert.com/wmv-to-gif>
-- [Convertio](https://convertio.co/zh/) - Convertio 是在线文档转换工具，支持45种常见格式的文档转换工具，包括办公文档、图片、电子书、音频、压缩文件等类型。可以快速实现 PDF 转换 Word、PNG 转换 JPG、WAV 转换 MP3 等操作。对应的 chrome 插件：[Convertio插件在线安装](https://chrome.google.com/webstore/detail/convertio/eppjkefeiehhflmgkhdooajgbkkegpcl/related)。
-
-**在线图片处理：** 
-
-- [iLoveIMG](https://www.iloveimg.com/zh-cn) - iLoveIMG 是一个在线“图像文件处理”网络应用软件，提供多种图像文件基础编辑功能。其中包括：图片文件格式转换、图片压缩、图片剪裁服务的工具集合，支持图片格式有 JPG、PNG、GIF。它的优点：一次调整多个图像文件的尺寸、压缩多个图像文件、裁剪多个图像文件，以及转换多个图像文件的格式。
-- [压缩图](https://www.yasuotu.com/) - 在线图片压缩工具。
-- [在线图片大小修改器](https://www.sojson.com/image/change.html)
-- [改图宝](http://www.gaitubao.com/) - 在线修改照片大小尺寸工具。
-
-**在线视频/音频处理：**
-
-- [在线编辑视频](https://online-video-cutter.com/cn/)
-- [在线提取视频中音频](http://audio-extractor.net/cn/) 
-
-**在线视频下载：** 
-
-- [舒克高清视频下载](http://www.shokdown.com/)
-- [硕鼠下载](http://www.flvcd.com/)
-- [微博、秒拍、小咖秀、晃咖视频解析下载](https://weibo.iiilab.com/)
-- [Apowersoft免费在线视频下载](https://www.apowersoft.cn/online-video-downloader) - 国外
-- [ClipConverter.cc](https://www.clipconverter.cc/) - 国外
-- [免费在线 YouTube 下载器-savefrom.net](https://zh.savefrom.net/) - 国外
-- [Video Grabber免费下载海量视频资源](https://www.videograbber.net/zh/) - 国外
-
-**中文转换一系列工具：** 
-
-- [中文转换工具](https://www.chineseconverter.com/zh-cn/convert/chinese-to-pinyin)
-
-**在线生成短地址：** 
-
-- [短链在线生成-短网址生成器](http://tool.tcode.me/shorturl.html)  [荐]
-- [网址缩短-suo.im短网址](http://suo.im/)
-- [短网址生成-ft12.com短网址](http://www.ft12.com/)
-
-**在线加密/解密：**
-
-- [MD5在线加密/解密/破解—MD5在线](https://www.sojson.com/encrypt_md5.html)
-- [MD5在线加密/解密/破解 - 站长工具](http://tool.chinaz.com/Tools/md5.aspx)
-- [SOMD5](https://www.somd5.com/)
-
-**在线文字识别：** 
-
-- [免费在线文字识别，文字提取，OCR服务](http://www.ocrmaker.com/)  [荐]
-
-**在线特殊符号：** 
-
-- [特殊符號大全](https://www.ifreesite.com/typing/keyboard-symbols.htm)
-- [特殊字符大全](http://xh.5156edu.com/page/18466.html)
-
-**在线latex公式编辑：**
-
-- [在线 LaTeX 公式编辑器](<https://www.codecogs.com/latex/eqneditor.php>)
-- [LaTeX公式编辑器](<https://zh.numberempire.com/latexequationeditor.php>)
-
-
-
-### 4. 资源网站
+### 4. 资源下载
 
 **系统有关：** 
 
@@ -404,26 +406,7 @@
 
 
 
-### 5. 手机有关
-
-**手机维修：**
-
-- [中兴努比亚Z9 mini拆机教程努比亚Z9 mini拆机换屏视频教程](https://v.youku.com/v_show/id_XMTU1MDIwMjI3Mg%3D%3D.html)
-- [努比亚NX511J拆机视频换屏幕带金属框屏幕教程努比亚Z9MINI维修](https://v.youku.com/v_show/id_XMTMxNzEwNDc4NA==.html?from=y1.7-1.2)
-- [努比亚NX507J拆机视频维修屏幕中兴Z7mini拆机教程拆机图解](https://v.youku.com/v_show/id_XODMyNDAyNTUy.html?tpa=dW5pb25faWQ9MTAyMjEzXzEwMDAwMl8wMV8wMQ)
-
-**手机知识：**
-
-- [关于手机ISO、光圈和快门的那点事](http://www.igao7.com/news/201406/iso-shutter.html) 
-- [雷锋科普：主流手机屏幕材质有哪些？](https://www.leiphone.com/news/201406/0731-zzl-kepu-pingmu1.html)
-
-**手机真伪查询：**
-
-- [电信设备进网管理-手机真伪查询](http://www.tenaa.com.cn/WSFW/flagvalidate.aspx)
-
-
-
-### 6. 影视后期
+### 5. 影视资源
 
 **影视：** 
 
@@ -431,7 +414,7 @@
 - [时光网](http://www.mtime.com/)
 - [爱微电影](http://www.197c.com/)
 
-**枪版/VIP：**
+**枪版|免费VIP资源：**
 
 - [97看片吧](<http://www.97kpb.com/>)  [荐]
 - [97看片吧](<http://www.kp60.com/>)  

@@ -79,6 +79,42 @@
 3. 右击桌面 –> 个性化 –> 屏幕保护程序 –> 设置等待时间长一点或者屏幕保护程序为无就行了
 4. 不行的话，屏幕保护程序下面那里有一个更改电源设置。打开之后按照以下的设置。单击更改计算机的睡眠时间，关闭显示器和使计算机进入睡眠状态都设置为从不。
 
+### Win7图标丢失和不正常显示的修复方法
+
+根据参考文章 [1] 来修复桌面白图标方法是打开记事本，复制以下内容：
+
+``` markdown
+@echo off
+taskkill /f /im explorer.exe
+CD /d %userprofile%\AppData\Local
+DEL IconCache.db /a
+start explorer.exe
+cho 执行完成
+```
+
+保存为后缀 `.bat` 格式文件，然后运行该 bat 文件即可。若运行完成之后出现黑屏，这种正常情况，部分会因重启 `explorer.exe` 失败而不显示内容，所以黑屏，只要在任务管理器中重新加载 `explorer.exe` 即可，或者直接重启电脑即可，不影响解决问题及系统安全。
+
+根据参考文章 [2] 方法步骤如下：
+
+1. 打开任务管理器（任务栏右键，启动任务管理器），结束正在运行的 `explorer.exe` 进程（explorer 是桌面进程，关闭后，你会发现你的桌面没有了，不要紧，解决问题需要）
+
+2. 点击新任务，在打开空格内输入“CMD”，依次执行以下命令：
+
+   ``` markdown
+   CD /d %userprofile%\AppData\Local（回车）
+   DEL IconCache.db /a（回车）
+   exit（回车）
+   ```
+
+   然后重新运行 `explorer.exe`（点击任务管理器的“文件” –> 新建任务“运行”，输入explorer 即可）。
+
+   原理：`IconCache.db` 文件为图标属性文件，由于某种操作，导致文件损坏，删除后，系统会自动重建。然后图标就会恢复正常了。
+
+参考文章：
+
+- \[1] [修复桌面白图标方法，图标有白色的方块怎么办_百度经验](https://jingyan.baidu.com/article/c85b7a64568aac003bac952d.html)
+- \[2] [关于Win7图标丢失、不正常显示的修复方法](https://www.cnblogs.com/luckly-hf/p/5135516.html)
+
 ### 两台电脑如何连接？
 
 #### 1. windows 访问远程共享(包括连接其他电脑的共享打印机)
@@ -140,9 +176,73 @@ windows键＋R键，打开cmd
 
 ——from：[8.8.8.8_百度百科](https://baike.baidu.com/item/8.8.8.8)
 
+### 外接显示屏，显示“输入信号超出范围”，如何解决？
+
+Win10 下的解决，参考：[WIN10强制去除“输入信号超出范围”](<https://blog.csdn.net/w_j_r/article/details/81142929>)
+
+> 注意：要点击到你想要更改的显示屏。
+
+Win7 下的解决，参考：[强制去除'输入信号超出范围 调整为1600*900@60HZ'](<https://blog.csdn.net/Wbiokr/article/details/60479642>)
 
 
-## Windows10 安装新版终端
+
+### 端口被占用 1080
+
+每次电脑开机都提示 ShadowsocksR 端口 1080 被占用，查了下，被有道词典占用了端口。解决办法：
+
+1、杀掉有道词典进程
+
+1. 打开 cmd，输入：
+
+   ``` xml
+   netstat -aon|findstr "1080"
+   ```
+
+   找出被占用的进程。其中，最后一列就是 PID，比如 4568，记住该 PID。
+
+   若要想知道此 PID 对应什么程序，可以继续输入：
+
+   ``` xml
+   tasklist|findstr "4568"
+   ```
+
+   可以看到程序名称。
+
+2. 打开任务管理器，根据 PID 或者进程名称找到该程序，右键选择“结束进程”。
+
+2、修改其中某个程序的端口
+
+右键 ShadowsocksR --> 选项设置 --> 本地端口，修改为其他端口，如 1081。
+
+3、修改注册表
+
+关于端口占用这个问题，还可能碰到一种情况，比如系统 80 端口被 System 占用。解决办法：
+
+> 安装了 Windows10 系统后，如果装 Apache 是启动不了的，遇到这个 Apache 启动不了的时候，首先是查看 80 端口是不是被占用。
+>
+> 运行 `netstat -aon | findstr :80` ，发现 pid 是 4 的进程占用着 80 端口，这还是一个系统进程，kill 不掉。所以只能另想办法：
+>
+> 1、打开注册表：regedit
+>
+> 2、找到：HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\services\HTTP
+>
+> 3、在右边找到 Start 这一项，将其改为 0
+>
+> 4、重启系统，System 进程不会占用 80 端口
+>
+> 重启之后，再启动 Apache 就可以了。
+>
+> ——from：<https://blog.csdn.net/heshi_yao/article/details/50755886>
+
+
+
+---
+
+---
+
+
+
+## Win10 安装新版终端
 
 开源地址：<https://github.com/microsoft/terminal>
 
@@ -156,7 +256,7 @@ Win 10 上安装教程：[Windows Terminal微软新版终端工具安装教程�
 
 截止到 2019-06-25，可以到 win10 应用商店可以下载到该终端，名称为：`Windows Terminal(Preview)`。
 
-## Windows 10 操作
+## Win10 操作
 
 ### 1. win10系统怎么关闭自动更新
 
@@ -276,6 +376,8 @@ B． 不要关机，而是选择重启。重启不会用快速启动。
 Win+X -> 打开“设置” -> 打开“设备” -> 打开“触摸板”，选择关闭即可。
 
 另外，如何设置插入鼠标禁用触控板，请参考：<https://blog.csdn.net/qq459080123/article/details/79036179>
+
+
 
 
 
