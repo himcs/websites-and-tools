@@ -24,7 +24,7 @@
 
 | :full_moon:                             | :full_moon:                               | :full_moon:                           | :full_moon:                             | :full_moon:                        | :full_moon:                                | :full_moon:                        | :full_moon: |
 | --------------------------------------- | ----------------------------------------- | ------------------------------------- | --------------------------------------- | ---------------------------------- | ------------------------------------------ | ---------------------------------- | ----------- |
-| [玩转 Office](./notes/01-玩转Office.md) | [玩转 Windows](./notes/02-玩转Windows.md) | [玩转 MacOS](./notes/03-玩转MacOS.md) | [玩转 Chrome](./notes/04-玩转Chrome.md) | [玩转手机](./notes/05-玩转手机.md) | [玩转操作系统](./notes/06-玩转操作系统.md) | [技能杂烩](./notes/07-技能杂烩.md) | ......      |
+| [玩转 Office](./skills/01-玩转Office.md) | [玩转 Windows](./skills/02-玩转Windows.md) | [玩转 MacOS](./skills/03-玩转MacOS.md) | [玩转 Chrome](./skills/04-玩转Chrome.md) | [玩转手机](./skills/05-玩转手机.md) | [操作系统重装](./skills/06-操作系统重装.md) | [技能杂烩](./skills/07-技能杂烩.md) | ......      |
 
 
 
@@ -261,14 +261,19 @@
 - [【友盟+】全球领先的第三方全域数据服务商](https://www.umeng.com/)
 - [IPIP.NET](https://www.ipip.net/ip.html) - 在线查询 IP  [荐]
 
+**运维推广：**
+
+- [openinstall](<https://www.openinstall.io/>) - 业界领先的 App 推广云技术平台，以其精准的安装来源追踪解决方案为移动开发者提供稳定可靠的渠道推广和运营技术服务。
+
 **技术社区|平台：**
 
-- [GitHub](https://github.com/)
-- [Stack Overflow](https://stackoverflow.com/) - 优质问答社区。
+- [GitHub](<https://github.com/>)
+- [Stack Overflow](https://stackoverflow.com/) - 一个程序设计领域的问答网站，隶属 Stack Exchange Network。网站允许注册用户提出或回答问题，还可对已有问题或答案加分、扣分或进行修改，条件是用户达到一定的“声望值”。
+- [SegmentFault 思否](<https://segmentfault.com/>) - 2011年4月在杭州上线；专注于 IT 开发者的专业问答社区；SegmentFault（简称SF）的目标是做一个纯粹的程序员问答社区，国外知名 IT 问答网站 StackOverflow 是 SegmentFault 的学习对象。SegmentFault 避免建设成类似 Quora 的社会化问答社区，比起那些更注重社交关系的问答网站， SegmentFault 更加注重问题之间的关系。
 - [CSDN](https://www.csdn.net/) - 中国最大 IT 社区。
 - [掘金](https://juejin.im/) - 一个帮助开发者成长的社区。
 - [小专栏](https://xiaozhuanlan.com/) - 一个专业人士的创作知识社区。
-- [segmentfault](https://segmentfault.com/)
+- [极客时间](<https://time.geekbang.org/>)
 - [51CTO](http://www.51cto.com/)
 - [开源中国](https://www.oschina.net/)
 - [知乎](https://www.zhihu.com/)
