@@ -5,16 +5,18 @@
 </div>
 
 
-分类收藏一些网站，工具和软件，记录些关于 Windows/Mac/Linux 系统的软件操作和使用技巧等，“工欲善其事，必先利其器”，提高做事效率。欢迎大家 star，也欢迎 PR 或 issue，分享和推荐你觉得不错的。
+分类收藏一些网站、工具和软件，记录些关于 Windows/Mac/Linux 系统的软件操作和使用技巧等，“工欲善其事，必先利其器”，提高做事效率，让效率成为一种习惯。
+
+> 欢迎大家 star，也欢迎 PR 或 issue，分享和推荐你觉得不错的资源、利器和技巧等。
 
 
 
 <h2 align="center" style="font-size:24px;font-weight: bold;">工具和应用</h2>
 
 
-| :fish_cake:                    | :fish_cake:                             | :fish_cake:                          | :fish_cake:                    | :fish_cake:                      | :fish_cake:                        | :fish_cake:                | :fish_cake: |
-| ------------------------------ | --------------------------------------- | ------------------------------------ | ------------------------------ | -------------------------------- | ---------------------------------- | -------------------------- | ----------- |
-| [IDE 插件](./0.IDE_plugins.md) | [Chrome 插件](./1.chrome_extensions.md) | [Windows 工具](./2.windows_tools.md) | [MacOS 工具](./3.mac_tools.md) | [Linux 工具](./4.linux_tools.md) | [Android 应用](./5.android_app.md) | [iOS 应用](./6.iOS_app.md) | ......      |
+| :fish_cake:                   | :fish_cake:                            | :fish_cake:                         | :fish_cake:                   | :fish_cake:                     | :fish_cake:                       | :fish_cake:               | :fish_cake:                       |
+| ----------------------------- | -------------------------------------- | ----------------------------------- | ----------------------------- | ------------------------------- | --------------------------------- | ------------------------- | --------------------------------- |
+| [IDE插件](./0.IDE_plugins.md) | [Chrome插件](./1.chrome_extensions.md) | [Windows工具](./2.windows_tools.md) | [MacOS工具](./3.mac_tools.md) | [Linux工具](./4.linux_tools.md) | [Android应用](./5.android_app.md) | [iOS应用](./6.iOS_app.md) | [GitHub利器](./7.github_tools.md) |
 
 
 
@@ -24,7 +26,7 @@
 
 | :full_moon:                             | :full_moon:                               | :full_moon:                           | :full_moon: | :full_moon:                             | :full_moon:                        | :full_moon:                                | :full_moon:                        |
 | --------------------------------------- | ----------------------------------------- | ------------------------------------- | ---------------------------------- | ------------------------------------------ | ---------------------------------- | ----------- | ----------- |
-| [玩转 Office](./skills/01-玩转Office.md) | [玩转 Windows](./skills/02-玩转Windows.md) | [玩转 MacOS](./skills/03-玩转MacOS.md) | [玩转Linux](./skills/04.玩转Linux.md) | [玩转 Chrome](./skills/05-玩转Chrome.md) | [玩转手机](./skills/06-玩转手机.md) | [操作系统重装](./skills/07-操作系统重装.md) | [技能杂烩](./skills/08-技能杂烩.md) |
+| [Office操作](./skills/01-玩转Office.md) | [Windows操作](./skills/02-玩转Windows.md) | [MacOS操作](./skills/03-玩转MacOS.md) | [Linux操作](./skills/04.玩转Linux.md) | [Chrome操作](./skills/05-玩转Chrome.md) | [手机操作](./skills/06-玩转手机.md) | [系统重装\|硬件](./skills/07-操作系统重装.md) | [技能杂烩](./skills/08-技能杂烩.md) |
 
 
 
@@ -138,7 +140,8 @@
 
 **公号排版|封图制作：**
 
-- 在线 Markdown 写作：[MdEditor](https://www.mdeditor.com/)
+- [Markdown在线编辑器 - MdEditor](https://www.mdeditor.com/) - 在线 Markdown 写作。
+- [Cmd Markdown 编辑阅读器 - 作业部落出品](<https://www.zybuluo.com/mdeditor>) - 在线 Markdown 写作。
 - Lyric：[微信公众号格式化编辑器](https://lab.lyric.im/wxformat/)
 - 小胡子哥：[Online Markdown Converter](http://md.barretlee.com/)
 - 颜家大少：[Md2All](http://md.aclickall.com/)
@@ -273,11 +276,12 @@
 - [CSDN](https://www.csdn.net/) - 中国最大 IT 社区。
 - [掘金](https://juejin.im/) - 一个帮助开发者成长的社区。
 - [小专栏](https://xiaozhuanlan.com/) - 一个专业人士的创作知识社区。
-- [极客时间](<https://time.geekbang.org/>)
+- [极客时间](<https://time.geekbang.org/>) - 极客邦科技出品的一款 IT 内容知识服务 App，内容包含专栏订阅、极客新闻、热点专题、直播、视频和音频等多形式的知识内容。  [荐]
 - [51CTO](http://www.51cto.com/)
 - [开源中国](https://www.oschina.net/)
+- [V2EX](<https://www.v2ex.com/>) - V2EX 是一个技术创意网站，官方自称为一个“由设计师、程序员及有创意的人参与的社区”。它的建站目的是基于兴趣，将用户创建的内容进行组织并分类成不同“节点”，网站以内容的活跃程度决定这些内容在网站首页的排列顺序。
 - [知乎](https://www.zhihu.com/)
-- [我要自学网](http://www.51zxw.net/)
+- [我要自学网](http://www.51zxw.net/) - 视频教程|免费教程|自学电脑|3D教程|平面教程|影视动画教程|办公教程|机械设计教程|网站设计教程。
 
 **制作在线电子书：**
 
@@ -310,10 +314,22 @@
 
 **网络课堂：**
 
-- [网易公开课](https://open.163.com/)
-- [慕课网-程序员的梦工厂](https://www.imooc.com/)
-- [极客学院IT在线教育平台](http://www.jikexueyuan.com/)
-  - [极客学院Wiki - IT 技术图文教程库](http://wiki.jikexueyuan.com/)
+- [网易公开课](<https://open.163.com/>) - 于2010年11月上线，是一个汇集国内外名校公开课和演讲的免费、轻量的在线学习平台。免费。
+- [网易云课堂](<https://study.163.com/>) - 于2012年12月上线，是以实用技能类内容为主，衔接高等教育和职业应用而打造的一个综合学习服务平台。免费与收费共存。
+- [百度传课](<https://chuanke.baidu.com/>) - 中国教育领域新兴的在线教育平台，为用户提供个性化的学习方案及资源，也为学校、机构提供智能化的资源管理和营销解决方案。
+- [腾讯课堂](<https://ke.qq.com/>) - 腾讯推出的专业在线教育平台。
+- [中国大学MOOC(慕课)](<https://www.icourse163.org/>) - 中国大学MOOC(慕课) 是国内优质的中文MOOC学习平台，由爱课程网携手网易云课堂打造。
+- [可汗学院](<https://zh.khanacademy.org/>) - 由孟加拉裔美国人、麻省理工学院及哈佛大学商学院毕业生萨尔曼·可汗在 2006 年创立的一所非营利教育机构。机构通过网络提供一系列免费教材，现于 Youtube 载有超过5,600段教学影片，内容涵盖数学、历史、医疗卫生及医学、金融、物理、化学、生物、天文学、经济学、宇宙学、有机化学、美国公民教育、美术史、宏观经济学、微观经济学及计算机科学。
+- [万门大学](<https://www.wanmen.org/>) 
+- [慕课网-程序员的梦工厂](<https://www.imooc.com/>) - IT 技能学习平台。  [荐]
+- [极客学院IT在线教育平台](<http://www.jikexueyuan.com/>) - IT 职业在线教育平台，拥有海量高清IT职业课程，涵盖 30+ 个技术领域。
+  - [极客学院Wiki - IT 技术图文教程库](<http://wiki.jikexueyuan.com/>) - 极客学院 Wiki 为中国最大 IT 职业在线教育平台极客学院旗下图文开发技术教程站点，拥有海量 IT 图文教程，涵盖30+ 个技术领域。
+
+**网络课堂(AI课程)：**
+
+- [优达学城 (Udacity)](https://cn.udacity.com/)  - Udacity是由Sebastian Thrun, David Stavens和Mike Sokolsky注资的一个私立教育组织，它的目标是实现民主教育。截至2012年九月, Udacity有12个开放课堂。Udacity是来自硅谷的前沿技术平台，为广大学子提供WEB前端开发、Python/JAVA编程、IOS/Android开发、人工智能开发等一系列在线课程及实战项目。
+- [小象学院 ](http://www.chinahadoop.cn/)
+- [七月在线](https://www.julyedu.com/)
 
 **培训机构：**
 
@@ -328,12 +344,6 @@
 - [扣丁学堂](http://www.codingke.com/)
 - [珠峰培训-八年专注前端培训](http://www.zhufengpeixun.cn/)
 - [麦子学院](http://www.maiziedu.com/)
-
-**网络课堂(AI课程)：**
-
-- [优达学城 (Udacity)](https://cn.udacity.com/)  - Udacity是由Sebastian Thrun, David Stavens和Mike Sokolsky注资的一个私立教育组织，它的目标是实现民主教育。截至2012年九月, Udacity有12个开放课堂。Udacity是来自硅谷的前沿技术平台，为广大学子提供WEB前端开发、Python/JAVA编程、IOS/Android开发、人工智能开发等一系列在线课程及实战项目。
-- [小象学院 ](http://www.chinahadoop.cn/)
-- [七月在线](https://www.julyedu.com/)
 
 **Online Judge 平台：** 
 

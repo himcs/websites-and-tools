@@ -256,6 +256,12 @@ Win 10 上安装教程：[Windows Terminal微软新版终端工具安装教程�
 
 截止到 2019-06-25，可以到 win10 应用商店可以下载到该终端，名称为：`Windows Terminal(Preview)`。
 
+### Win10 PowerShell简介？
+
+参考：[强大到没朋友，Win10 PowerShell简介](<https://www.ithome.com/html/win10/315277.htm>)
+
+
+
 ## Win10 操作
 
 ### 1. win10系统怎么关闭自动更新
@@ -379,9 +385,17 @@ Win+X -> 打开“设置” -> 打开“设备” -> 打开“触摸板”，选
 
 
 
+### 6. win10 如何方便所在文件夹的cmd或powershell？
+
+方法一：shift+右键，可以打开在该目录下的 powershell。
+
+方法二：直接在所在文件夹最上面的路径处，输入 `cmd` 即可打开在该目录下的 cmd。
+
+
+
 
 
 ---
 
-*update：2019-07-01* 
+*update：2019-07-15* 
 
