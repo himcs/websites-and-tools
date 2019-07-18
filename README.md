@@ -5,7 +5,7 @@
 </div>
 
 
-分类收藏一些网站、工具和软件，记录些关于 Windows/Mac/Linux 系统的软件操作和使用技巧等，“工欲善其事，必先利其器”，提高做事效率，让效率成为一种习惯。
+分类收藏一些网站、工具和软件，记录些关于 Windows/Mac/Linux 系统的使用技巧和软件操作等，“工欲善其事，必先利其器”，提高做事效率，让效率成为一种习惯。
 
 > 欢迎大家 star，也欢迎 PR 或 issue，分享和推荐你觉得不错的资源、利器和技巧等。
 
@@ -150,6 +150,10 @@
 **杂七杂八：**
 
 - [毒鸡汤](<http://www.nows.fun/>)
+
+**国外网站：**
+
+- [Netflix](<https://www.netflix.com/sg-zh/>) - 一间在世界多国提供网络视频点播的 OTT 服务公司，并同时在美国经营单一费率邮寄 DVD 出租服务。
 
 
 
@@ -449,11 +453,10 @@
 
 
 
-### Logo
 
-Power by [logomakr](https://logomakr.com/).
 
 <div align="right">
     <a href="#top">回到顶部</a>
 </div>
 
+> *Powered by [logomakr](https://logomakr.com/).*
