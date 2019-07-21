@@ -66,6 +66,10 @@
 - [科塔学术 - 科研与学术资源导航平台](<https://www.sciping.com/>)
 - [Overleaf中文版](<https://cn.overleaf.com/>) - Overleaf 是一个使用 LaTeX 进行多人协同编辑的平台，可以免费注册和使用，不用下载 LaTeX 软件，是最为著名的 LaTeX 在线协作系统。主要特色是有 LaTeX 插件，编辑功能十分完善，有实时预览（即编即看，无需手动编译）的功能。使用：[LaTeX基本命令使用教程（清晰实例）（Overleaf平台）（论文排版）](<https://blog.csdn.net/Gentleman_Qin/article/details/79963396>)  |  [Overleaf功能入门](<https://www.letpub.com.cn/index.php?page=sci_writing_112>)  |  …
 
+**博客|写作：**
+
+- [Medium](<https://medium.com) - Medium是一个在线发布平台，最初由 Twitter 联合创始人 Evan Williams 开发。该平台于 2012 年启动，现在每个月有 6000 万独立访客。
+
 **汽车：**
 
 - [汽车之家](https://www.autohome.com.cn/) - 汽车之家为汽车消费者提供选车、买车、用车、换车等所有环节的全面、准确、快捷的一站式服务。
@@ -93,6 +97,7 @@
 
 - [少数派](https://sspai.com/) - 致力于更好地运用数字产品或科学方法，帮助用户提升工作效率和生活品质。
 - [GugeApps](<https://www.gugeapps.net/>) - 使用它可以轻松下载 Chrome 的扩展插件和主题背景。有一点不方便的，就是不能直接添加，需要手动添加。在 Chrome 中访问：chrome://extensions，把开发者打开，然后在左上角的”加载已解压的扩展程序“选择就可以使用了。同时它还提供了 Chrome 浏览器下载镜像。
+- [管家团队官方网站](<http://www.gjtd666.com/>) - 管家团队致力于为用户提供优质的内容和服务，经过多年的沉淀，已经打造了一系列优秀的产品，如：管家课堂、管家英语口语、管家速修等。注：都是公众号，其中有个公号「软件安装管家」，免费发布各类软件安装包和安装教程。
 
 **免费图像网站：**
 
@@ -145,6 +150,7 @@
 - Lyric：[微信公众号格式化编辑器](https://lab.lyric.im/wxformat/)
 - 小胡子哥：[Online Markdown Converter](http://md.barretlee.com/)
 - 颜家大少：[Md2All](http://md.aclickall.com/)
+- [可能吧公众号 Style 一键转换](<https://knb.im/mp/>)
 - [Fotor在线设计](<https://www.fotor.com.cn/>)
 
 **杂七杂八：**
@@ -172,7 +178,8 @@
 - [免费在线文字识别，文字提取，OCR服务](http://www.ocrmaker.com/)  [荐]
 - [DownGit](https://minhaskamal.github.io/DownGit/#/home) | [DownGit中文版](http://downgit.zhoudaxiaa.com/#/home) - 想要下载 GitHub 整个项目，或说项目中的指定文件夹或文件，只要复制相应链接拷贝粘贴，然后点击 Download 就可以下载。
 - [百度文库文档解析抓取工具](<http://bdwk.588230.com/>) - 百度文库付费 RMB 文档免费下载。
-- [PanDownload网页版](<https://www.baiduwp.com/>)  [荐]
+- [PanDownload网页版](<https://www.baiduwp.com/>) - 在线百度网盘文件。  [荐]
+- [peterq/pan-light](<https://github.com/peterq/pan-light>) - 百度网盘不限速。
 
 **在线制作思维导图：**
 
@@ -228,10 +235,11 @@
 - [MD5在线加密/解密/破解 - 站长工具](http://tool.chinaz.com/Tools/md5.aspx)
 - [SOMD5](https://www.somd5.com/)
 
-**特殊符号：** 
+**符号|数字|字体：** 
 
-- [特殊符號大全](https://www.ifreesite.com/typing/keyboard-symbols.htm)
+- [特殊符号大全](https://www.ifreesite.com/typing/keyboard-symbols.htm)
 - [特殊字符大全](http://xh.5156edu.com/page/18466.html)
+- [罗马数字](<http://w3.iams.sinica.edu.tw/lab/wbtzeng/labtech/roman_number.htm>) -  I, 1. II, 2. III, 3. IV, 4. V, 5. VI, 6. VII, 7. VIII, 8. IX, 9. X, 10. XI
 
 **latex公式编辑：**
 
@@ -459,4 +467,4 @@
     <a href="#top">回到顶部</a>
 </div>
 
-> *Powered by [logomakr](https://logomakr.com/).*
+> *Logo... Powered by [logomakr](https://logomakr.com/).*
