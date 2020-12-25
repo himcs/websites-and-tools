@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-12-25T02:31:27.614Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="tlQjduTMG1_wAsyq3vG4" version="14.1.2" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2020-12-25T03:02:18.870Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="WTyZHGzTCYjlbR06sxik" version="14.1.2" type="github" pages="3">
   <diagram name="commit" id="0783ab3e-0a74-02c8-0abd-f7b4e66b4bec">
-    <mxGraphModel dx="782" dy="444" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#F1FAEE" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="748" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#F1FAEE" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -175,7 +175,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="9FPhu9gmTGINPvm7r6Ce" name="rollback">
-    <mxGraphModel dx="782" dy="444" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#F1FAEE" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="804" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#F1FAEE" math="0" shadow="0">
       <root>
         <mxCell id="bCaOriFwhjmquvBSGvFn-0" />
         <mxCell id="bCaOriFwhjmquvBSGvFn-1" parent="bCaOriFwhjmquvBSGvFn-0" />
@@ -364,6 +364,66 @@
         </mxCell>
         <mxCell id="5Vn5aHKJRahP_QeQgNoo-0" value="释放 全局锁" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=0;fontColor=#1D3557;" vertex="1" parent="bCaOriFwhjmquvBSGvFn-1">
           <mxGeometry x="20" y="960" width="74" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="b7Soj-jTz-WO4mu3PIAV" name="AT工作机制">
+    <mxGraphModel dx="2249" dy="804" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#F1FAEE" math="0" shadow="0">
+      <root>
+        <mxCell id="cQz02duZ5WzKGQv5CvI_-0" />
+        <mxCell id="cQz02duZ5WzKGQv5CvI_-1" parent="cQz02duZ5WzKGQv5CvI_-0" />
+        <mxCell id="cQz02duZ5WzKGQv5CvI_-2" value="TC (Transaction Coordinator) - 事务协调者" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;strokeColor=#457B9D;fillColor=#A8DADC;fontColor=#1D3557;" vertex="1" parent="cQz02duZ5WzKGQv5CvI_-1">
+          <mxGeometry x="80" y="620" width="1160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cQz02duZ5WzKGQv5CvI_-3" value="启动的&amp;nbsp;seata-server" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=0;fontColor=#1D3557;" vertex="1" parent="cQz02duZ5WzKGQv5CvI_-1">
+          <mxGeometry x="414" y="690" width="300" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="cQz02duZ5WzKGQv5CvI_-10" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.112;entryY=0.033;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#457B9D;fillColor=#A8DADC;fontColor=#1D3557;" edge="1" parent="cQz02duZ5WzKGQv5CvI_-1" source="cQz02duZ5WzKGQv5CvI_-4" target="cQz02duZ5WzKGQv5CvI_-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cQz02duZ5WzKGQv5CvI_-11" value="发起全局事务" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#1D3557;" vertex="1" connectable="0" parent="cQz02duZ5WzKGQv5CvI_-10">
+          <mxGeometry x="-0.3459" relative="1" as="geometry">
+            <mxPoint y="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cQz02duZ5WzKGQv5CvI_-16" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#457B9D;fillColor=#A8DADC;fontColor=#1D3557;" edge="1" parent="cQz02duZ5WzKGQv5CvI_-1" source="cQz02duZ5WzKGQv5CvI_-4" target="cQz02duZ5WzKGQv5CvI_-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cQz02duZ5WzKGQv5CvI_-17" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#457B9D;fillColor=#A8DADC;fontColor=#1D3557;" edge="1" parent="cQz02duZ5WzKGQv5CvI_-1" source="cQz02duZ5WzKGQv5CvI_-4" target="cQz02duZ5WzKGQv5CvI_-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cQz02duZ5WzKGQv5CvI_-4" value="TM (Transaction Manager) &lt;br&gt;- 事务管理器&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;strokeColor=#457B9D;fillColor=#A8DADC;fontColor=#1D3557;" vertex="1" parent="cQz02duZ5WzKGQv5CvI_-1">
+          <mxGeometry x="110" y="345" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cQz02duZ5WzKGQv5CvI_-5" value="Java 程序&lt;br&gt;用于发起全局事务" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=0;fontColor=#1D3557;" vertex="1" parent="cQz02duZ5WzKGQv5CvI_-1">
+          <mxGeometry x="-50" y="340" width="150" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="cQz02duZ5WzKGQv5CvI_-18" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#457B9D;fillColor=#A8DADC;fontColor=#1D3557;" edge="1" parent="cQz02duZ5WzKGQv5CvI_-1" source="cQz02duZ5WzKGQv5CvI_-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1170" y="610" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cQz02duZ5WzKGQv5CvI_-20" value="上报结果" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#1D3557;" vertex="1" connectable="0" parent="cQz02duZ5WzKGQv5CvI_-18">
+          <mxGeometry x="-0.4667" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cQz02duZ5WzKGQv5CvI_-6" value="RM (Resource Manager)&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;strokeColor=#457B9D;fillColor=#A8DADC;fontColor=#1D3557;" vertex="1" parent="cQz02duZ5WzKGQv5CvI_-1">
+          <mxGeometry x="490" y="220" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cQz02duZ5WzKGQv5CvI_-19" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#457B9D;fillColor=#A8DADC;fontColor=#1D3557;" edge="1" parent="cQz02duZ5WzKGQv5CvI_-1" source="cQz02duZ5WzKGQv5CvI_-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="990" y="610" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cQz02duZ5WzKGQv5CvI_-21" value="上报结果" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#1D3557;" vertex="1" connectable="0" parent="cQz02duZ5WzKGQv5CvI_-19">
+          <mxGeometry x="-0.2222" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cQz02duZ5WzKGQv5CvI_-7" value="RM (Resource Manager)&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;strokeColor=#457B9D;fillColor=#A8DADC;fontColor=#1D3557;" vertex="1" parent="cQz02duZ5WzKGQv5CvI_-1">
+          <mxGeometry x="490" y="430" width="200" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
